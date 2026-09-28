@@ -1046,3 +1046,213 @@ Se ensayan en T-9 con un colega que hace de director escéptico. A responde las 
 **Respaldo.** Principio de diseño: "3 h de conversación, no de exposición" (lámina 1).
 
 </section>
+
+<section class="section">
+
+<div class="eyebrow">Parte 6</div>
+
+# Tarjetas de evidencia
+
+<p class="lead">Una tarjeta por veredicto de Mito vs. Dato y una por cada cifra clave. A las lleva impresas. Regla de uso: decir siempre qué mide el dato, dónde y cuándo; decir "se asocia", "coincide", "la evidencia sugiere", nunca "demuestra" ni "causa". Antes de cada edición, abrir la URL primaria del paquete de evidencia y confirmar el número.</p>
+
+Escala de confianza del paquete de evidencia: **ALTA** (fuente académica u oficial, muestra grande, replicado) · **MEDIA** (fuente seria pero propietaria o verificada por fuentes secundarias) · **BAJA** (conveniencia, muestra pequeña o metodología no publicada).
+
+## Veredictos de Mito vs. Dato
+
+<div class="panel"><div class="label">V-1 · "La Generación Z no tiene lealtad." · MITO · láminas 16–17</div>
+
+| | |
+|---|---|
+| Cifra | 2.7 años de antigüedad mediana (25–34 años) frente a 9.6 (55–64); 2.6 en el año 2000 |
+| Qué mide | Años con el empleador actual |
+| Fuente | BLS, Employee Tenure, enero 2024 (CPS, ≈60,000 hogares, EE. UU.); EBRI (2025), Trends in Employee Tenure 1983–2024; Zhao et al. (2007), meta-análisis de contrato psicológico |
+| Interpretación prudente | Cambiar más de empleo a los 25 es de edad y etapa de vida, no de generación. La lealtad responde a la reciprocidad percibida |
+| No dice | Que los jóvenes sean "igual de leales" en todo contexto; ni que la rotación no cueste |
+| ¿Y en México? | No hay dato comparable (ENOE por edad no verificado). El dato de AMMX por rango de edad sería el mejor espejo |
+| Confianza | ALTA |
+
+</div>
+
+<div class="panel"><div class="label">V-2 · "Los Boomers se resisten a la tecnología." · MITO · láminas 18–19</div>
+
+| | |
+|---|---|
+| Cifra | 1 de 6 estereotipos sobre trabajadores mayores se sostiene; 73 % de usuarios de IA de 58 años o más la lleva por su cuenta al trabajo (Gen Z 85 %) |
+| Qué mide | Meta-análisis de estereotipos de edad; uso de IA entre quienes ya la usan |
+| Fuente | Ng y Feldman (2012), 418 estudios, 208,204 personas, internacional; Ng y Feldman (2008); Microsoft y LinkedIn, Work Trend Index 2024 (31,000 personas, 31 países, trabajadores del conocimiento) |
+| Interpretación prudente | La brecha es de oportunidad y de sentido, no de capacidad. La edad se asocia con mejor desempeño en seguridad |
+| No dice | Que no haya diferencias de grado: el uso intensivo de IA generativa es menor en mayores de 65 (dato de Pew, EE. UU.). El dato de Microsoft es de trabajadores del conocimiento, no de planta |
+| ¿Y en México? | Sin dato mexicano específico |
+| Confianza | ALTA (meta-análisis) · MEDIA (IA) |
+
+</div>
+
+<div class="panel"><div class="label">V-3 · "Los jóvenes no quieren ser jefes." · DEPENDE · láminas 22–23</div>
+
+| | |
+|---|---|
+| Cifra | 6 % (liderazgo como meta principal hoy) frente a 76 % de Gen Z y 67 % de Millennials interesados en liderazgo senior en algún momento |
+| Qué mide | Aspiración declarada, con dos preguntas distintas |
+| Fuente | Deloitte, Gen Z and Millennial Survey 2026 (≈22,500 personas, 44 países); Gallup, State of the Global Workplace 2026 (gerentes 27 % → 22 %) |
+| Interpretación prudente | No rechazan liderar; rechazan el costo que ven (estrés y desgaste, exceso de responsabilidad, equilibrio con la vida personal). Los gerentes de hoy sí están desgastados |
+| No dice | Que las encuestas de "rechazo consciente a ser jefe" que circulan sean confiables (encuesta de reclutadora, Reino Unido, metodología no publicada: confianza BAJA) |
+| ¿Y en México? | La encuesta de Deloitte incluye México, pero las cifras mexicanas no están verificadas: no citarlas |
+| Confianza | MEDIA |
+
+</div>
+
+<div class="panel"><div class="label">V-4 · "Los jóvenes necesitan reconocimiento constante." · DEPENDE · láminas 24–25</div>
+
+| | |
+|---|---|
+| Cifra | ≈50 % de Gen X y Boomers también lo quiere al menos algunas veces al mes; ≈8 de cada 10 entre los más jóvenes. Retroalimentación diaria o semanal: 72 % de menores de 30; 60 % del total |
+| Qué mide | Frecuencia deseada de reconocimiento y de retroalimentación |
+| Fuente | Gallup y Workhuman (2022), EE. UU.; Gallup, datos de preferencia de retroalimentación |
+| Interpretación prudente | Varía la frecuencia y la forma; la necesidad es de todos. Probable efecto de etapa: quien empieza necesita más señales de si va bien. El reconocimiento se asocia con más compromiso y menos desgaste en todas las edades |
+| No dice | Que sea "constante"; los datos son transversales y no separan edad de cohorte |
+| ¿Y en México? | Sin dato mexicano |
+| Confianza | MEDIA · verificar en fuente primaria antes de cada edición |
+
+</div>
+
+<div class="panel"><div class="label">V-5 · "Lo quieren todo ya." · DEPENDE · tomada del video · láminas 26–27</div>
+
+| | |
+|---|---|
+| Cifra | 48 % de Gen Z no se siente financieramente segura (46 % de Millennials) |
+| Qué mide | Seguridad financiera autodeclarada |
+| Fuente | Deloitte, Gen Z and Millennial Survey 2025 (23,482 personas, 44 países, incluido México con n = 548); Kooij et al. (2011), meta-análisis de motivos por edad |
+| Interpretación prudente | Los motivos de crecimiento son más altos al inicio de la carrera y bajan con la edad; también fue así para quienes hoy dirigen. La urgencia coincide con inseguridad financiera. La prisa se vuelve problema cuando no hay una ruta visible, con criterios y plazos |
+| No dice | Que la impaciencia sea un rasgo de carácter de una generación (idea del video) |
+| ¿Y en México? | México está en la muestra; su porcentaje específico no está verificado |
+| Confianza | MEDIA |
+
+</div>
+
+<div class="panel"><div class="label">R · Reserva · "La gente ya no quiere trabajar." · MITO · láminas 20–21 (ocultas)</div>
+
+| | |
+|---|---|
+| Cifra | 2,207 horas trabajadas al año por trabajador en México (promedio OCDE 1,683) · tasa de empleo de 25 a 54 años en EE. UU. en su nivel más alto desde 2001 · 20 % de empleados comprometidos en el mundo |
+| Qué mide | Horas anuales por trabajador; empleo en edad productiva; compromiso según la métrica de Gallup |
+| Fuente | OCDE, Hours worked (2023); S&P Global (2026) con datos BLS; Gallup, State of the Global Workplace 2026 (datos 2025) |
+| Interpretación prudente | El problema no es la disposición a trabajar; es el compromiso, bajo en todas las edades. La llamada "renuncia silenciosa" describía al grupo no comprometido: un fenómeno de gestión, no de edad |
+| No dice | Que no haya dificultad real para cubrir turnos en planta: separar disposición a trabajar de condiciones del trabajo |
+| ¿Y en México? | Las horas son dato mexicano. Participación económica 59.1 % e informalidad 55.1 % (INEGI, 2T-2026) |
+| Confianza | ALTA |
+
+</div>
+
+## Cifras clave
+
+<div class="panel"><div class="label">N-1 · 70 % · el jefe como palanca · lámina 40</div>
+
+| | |
+|---|---|
+| Qué mide | Porción de la varianza del compromiso entre equipos que se asocia con el gerente |
+| Fuente | Gallup, State of the American Manager (2015); 2.7 millones de empleados, ≈100,000 equipos; principalmente EE. UU. |
+| Interpretación prudente | El jefe es la variable que más distingue a un equipo de otro en esos datos |
+| No dice | Que el jefe "cause" el 70 % del compromiso. Es análisis propietario, no revisado por pares |
+| ¿Y en México? | Sin dato mexicano |
+| Confianza | MEDIA |
+
+</div>
+
+<div class="panel"><div class="label">N-2 · 22 % · gerentes comprometidos · láminas 23 y 40</div>
+
+| | |
+|---|---|
+| Qué mide | Porcentaje de gerentes comprometidos en el mundo (métrica de Gallup) |
+| Fuente | Gallup, State of the Global Workplace 2026, datos 2025: 27 % → 22 % en un año; 31 % en 2022. Gerentes jóvenes (menores de 35) y mujeres gerentes, entre los más afectados. Compromiso global: 20 % |
+| Interpretación prudente | Quien lidera también está desgastado. No es un reproche: es parte del problema |
+| No dice | Nada sobre AMMX ni sobre la sala; no es un dato por edad de los colaboradores |
+| ¿Y en México? | Dato por país no verificado. América Latina y el Caribe: 31 % de compromiso en 2024 (región empatada como la más alta) |
+| Confianza | ALTA (global) · MEDIA (regional) |
+
+</div>
+
+<div class="panel"><div class="label">N-3 · 2,207 horas · México en la OCDE · lámina 21 (oculta)</div>
+
+| | |
+|---|---|
+| Qué mide | Horas anuales trabajadas por trabajador |
+| Fuente | OCDE, Hours worked, dato 2023; cuentas nacionales y encuestas; México frente al promedio OCDE (1,683) |
+| Interpretación prudente | "Ya no quieren trabajar" no describe a la fuerza laboral mexicana |
+| No dice | Nada sobre productividad, compromiso ni sobre una edad o una planta en particular |
+| ¿Y en México? | Es dato mexicano |
+| Confianza | ALTA |
+
+</div>
+
+<div class="panel"><div class="label">N-4 · 85 % frente a 15 % · la brecha de propósito · lámina 38</div>
+
+| | |
+|---|---|
+| Qué mide | Ejecutivos frente a mandos y primera línea que dicen vivir su propósito en el trabajo |
+| Fuente | McKinsey (2021), "Help your employees find purpose—or watch them leave"; encuesta en EE. UU., agosto de 2020 (el tamaño de muestra no está consignado en el paquete de evidencia: no mencionarlo) |
+| Interpretación prudente | La brecha de propósito más grande que se documenta es jerárquica, no generacional; muy relevante para una siderúrgica. 70 % de los empleados dice que su propósito se define por su trabajo |
+| No dice | Que la primera línea no tenga propósito; ni nada sobre México |
+| ¿Y en México? | Sin dato mexicano |
+| Confianza | MEDIA |
+
+</div>
+
+<div class="panel"><div class="label">N-5 · 1 de 6 · estereotipos sobre trabajadores mayores · lámina 19</div>
+
+| | |
+|---|---|
+| Qué mide | Cuántos de seis estereotipos comunes (menos motivados, menos dispuestos a capacitarse, más resistentes al cambio, menos confiables, menos sanos, más conflicto trabajo–familia) son consistentes con la evidencia |
+| Fuente | Ng y Feldman (2012), Personnel Psychology; 418 estudios, 208,204 personas, internacional |
+| Interpretación prudente | Solo se sostiene la menor participación en capacitación, que puede reflejar que se les ofrece menos. La edad no predice el desempeño en capacitación (Ng y Feldman, 2008) |
+| No dice | Que no existan diferencias individuales; ni que todos los mayores adopten igual toda herramienta |
+| ¿Y en México? | Sin dato mexicano; muestra internacional |
+| Confianza | ALTA |
+
+</div>
+
+<div class="panel"><div class="label">N-6 · 2.7 y 9.6 años · antigüedad por edad · lámina 17</div>
+
+| | |
+|---|---|
+| Qué mide | Antigüedad mediana con el empleador: 25–34 años (2.7) frente a 55–64 años (9.6) |
+| Fuente | BLS, Employee Tenure, enero 2024 (CPS, ≈60,000 hogares, EE. UU.); EBRI (2025): 25–34 años tenía ≈2.6 en 2000 y ≈2.5 en 1983 |
+| Interpretación prudente | Los jóvenes de hoy no son menos "leales" que los jóvenes de 2000; la antigüedad se acumula con la edad |
+| No dice | Nada sobre México ni sobre la industria siderúrgica |
+| ¿Y en México? | ENOE por edad no verificado; usar el dato interno de AMMX si se obtiene |
+| Confianza | ALTA |
+
+</div>
+
+<div class="panel"><div class="label">N-7 · National Academies (2020) · gestionar por generación · láminas 14 y 28</div>
+
+| | |
+|---|---|
+| Qué dice | Categorizar las necesidades de los trabajadores con etiquetas como "baby boomer" o "millennial" no está respaldado por la investigación y no puede informar adecuadamente decisiones de gestión |
+| Fuente | National Academies of Sciences, Engineering, and Medicine (2020), Are Generational Categories Meaningful Distinctions for Workforce Management? Informe de consenso, EE. UU. |
+| Interpretación prudente | Las diferencias observadas se explican mejor por edad, etapa de carrera, experiencia y cambios generales del trabajo. Recomiendan evaluar el propio entorno, puestos y personas |
+| No dice | Que las generaciones no existan. Explican mucho menos de lo que creemos |
+| ¿Y en México? | Es una revisión de la literatura (principalmente de EE. UU.); la recomendación de evaluar el propio entorno aplica a AMMX |
+| Confianza | ALTA |
+
+</div>
+
+<div class="panel"><div class="label">N-8 · Costanza et al. (2012) · diferencias pequeñas o nulas · lámina 14</div>
+
+| | |
+|---|---|
+| Qué mide | Diferencias generacionales en satisfacción laboral, compromiso organizacional e intención de rotación |
+| Fuente | Costanza et al. (2012), Journal of Business and Psychology; meta-análisis de 20 estudios, N = 19,961, mayormente EE. UU. Una revisión posterior (Ravid et al., 2025) llega a una conclusión similar |
+| Interpretación prudente | Las diferencias son en general pequeñas o nulas y probablemente reflejan otros factores (edad, antigüedad). Buscar la diferencia generacional es buscar una señal muy débil |
+| No dice | Que no haya ninguna diferencia en ningún valor: Twenge et al. (2010) encontró diferencias moderadas en el valor del tiempo libre, en aspiraciones de estudiantes de preparatoria de EE. UU. |
+| ¿Y en México? | Sin dato mexicano |
+| Confianza | ALTA |
+
+</div>
+
+<div class="panel peach"><div class="label">Cuando alguien cita un dato viral</div>
+
+"¿Quién lo midió, a quién le preguntó y comparado con qué?" Si no está en el paquete de evidencia, A no lo discute en sala: lo anota en el estacionamiento y promete revisarlo.
+
+</div>
+
+</section>
