@@ -14,7 +14,7 @@ file: 03_Guia_del_Facilitador
 
 # Cómo usar esta guía
 
-<p class="lead">Esta guía es para el día de la sesión y para las tres semanas previas. No sustituye a las notas del deck: las ordena, las completa con lo que no cabe en una lámina y les da a los dos facilitadores un mismo guion para los momentos difíciles.</p>
+<p class="lead">Esta guía es para el día de la sesión y para las tres semanas previas. No sustituye a las notas de la presentación: las ordena, las completa con lo que no cabe en una lámina y les da a los dos facilitadores un mismo guion para los momentos difíciles.</p>
 
 <div class="panel navy"><div class="label">Principio rector</div>
 
@@ -57,11 +57,11 @@ La frase aparece tres veces: en la apertura (implícita), en el Acto 9 (lámina 
 
 **Convenciones de esta guía.**
 
-- <span class="tag a">A</span> Facilitador A (narrativa) · <span class="tag b">B</span> Facilitador B (experiencia) · <span class="tag cxo">CHRO</span> la CHRO (directora de Recursos Humanos), que patrocina el taller y participa como una directora más. Los dos facilitadores le reportan.
-- Los números de lámina corresponden siempre al **deck de 180 minutos con divisorias de sección** (61 láminas; divisorias: 5, 9, 30, 41 y 52; ocultas por defecto: 20–21, 54, 58 y 61). Los mapas de 120 y 90 minutos están en la Parte 7. Las divisorias se quedan en pantalla solo durante la frase de transición; no se presentan.
+- <span class="tag a">A</span> Facilitador A (narrativa) · <span class="tag b">B</span> Facilitador B (experiencia) · <span class="tag cxo">CHRO</span> directora de Recursos Humanos, que patrocina el taller y participa como una directora más. Los dos facilitadores le reportan.
+- Los números de lámina corresponden siempre al **presentación de 180 minutos con divisorias de sección** (61 láminas; divisorias: 5, 9, 30, 41 y 52; ocultas por defecto: 20–21, 54, 58 y 61). Los mapas de 120 y 90 minutos están en la Parte 7. Las divisorias se quedan en pantalla solo durante la frase de transición; no se presentan.
 - Los tiempos son de reloj de sesión (0:00 = inicio). El contenido está diseñado para ≈170 minutos dentro de las 3 horas; la holgura se administra con el acordeón de recortes (Parte 8).
 - Texto en bloque con borde coral: se dice así o muy parecido. Texto en bloque gris: no se dice.
-- Fuente de verdad: las notas del deck para guiones y tiempos; `run_of_show.js` para la secuencia minuto a minuto; el paquete de evidencia para cualquier cifra. **Ninguna cifra que no esté en el paquete de evidencia se dice en sala.**
+- Fuente de verdad: las notas de la presentación para guiones y tiempos; `run_of_show.js` para la secuencia minuto a minuto; el paquete de evidencia para cualquier cifra. **Ninguna cifra que no esté en el paquete de evidencia se dice en sala.**
 
 <div class="panel"><div class="label">Lo que nunca se recorta ni se negocia en sala</div>
 
@@ -174,7 +174,7 @@ Se acuerdan en el ensayo de T-16 y se practican en el ensayo general de T-7.
 | 6 | Sabe de antemano que el taller cuestionará algunas afirmaciones del video que ella proporcionó | Se dice explícitamente en T-14 |
 | 7 | Regla de sala: "Lo que se dice aquí se puede usar, pero no se atribuye" | A la anuncia en la lámina 4; la CHRO la confirma en una frase |
 | 8 | Custodio de datos: cualquier solicitud de información individual se turna a Privacidad/Jurídico; no la resuelven los facilitadores ni ninguna área que dependa de la CHRO | "Eso lo tiene que ver Privacidad/Jurídico; te paso con ellos." |
-| 9 | La asistencia se registra solo con fines administrativos de capacitación (LMS, constancias); no es dato de evaluación | La lista va solo al registro administrativo de capacitación; no se cruza con ningún otro dato |
+| 9 | La asistencia se registra solo con fines administrativos de capacitación (sistema de gestión de capacitación y constancias); no es dato de evaluación | La lista va solo al registro administrativo de capacitación; no se cruza con ningún otro dato |
 | 10 | Acomodo: si no hay mesa sin reportes directos, se sienta en la de menos reportes; en pares forma trío con dos personas que no le reportan | B arma los tríos discretamente |
 
 ## Sus tres momentos
@@ -238,7 +238,7 @@ Conduce A; asisten B y la CHRO. Se hace **antes** del envío del trabajo previo,
 
 # Segmento por segmento
 
-<p class="lead">Una sección por acto, en el orden del guion minuto a minuto. Cada una tiene los mismos doce campos para que cualquiera de los dos facilitadores encuentre lo que necesita en diez segundos. Los guiones vienen de las notas del deck, condensados; si hay diferencia, manda la nota del deck.</p>
+<p class="lead">Una sección por acto, en el orden del guion minuto a minuto. Cada una tiene los mismos doce campos para que cualquiera de los dos facilitadores encuentre lo que necesita en diez segundos. Los guiones vienen de las notas de la presentación, condensados; si hay diferencia, manda la nota de la presentación.</p>
 
 ## Acto 0 · Trabajo previo <span class="tag a">A</span> <span class="tag b">B</span>
 
@@ -1254,5 +1254,309 @@ Escala de confianza del paquete de evidencia: **ALTA** (fuente académica u ofic
 "¿Quién lo midió, a quién le preguntó y comparado con qué?" Si no está en el paquete de evidencia, A no lo discute en sala: lo anota en el estacionamiento y promete revisarlo.
 
 </div>
+
+</section>
+
+<section class="section">
+
+<div class="eyebrow">Parte 7</div>
+
+# Versiones de 120 y 90 minutos
+
+<p class="lead">Las tres versiones salen de la misma fuente y tienen su propio archivo de presentación, con láminas ocultas y textos variantes. Nunca se saltan láminas en vivo frente a directores: se nota y resta credibilidad. El trabajo previo y el Experimento a 30 días se mantienen en todas las versiones.</p>
+
+## Qué cambia por acto
+
+| Acto | 180 min | 120 min | 90 min (versión de activación) |
+|---|---|---|---|
+| Apertura | 8 min | 5 min (CHRO 1, A 4) | 4 min |
+| 1 · El espejo | 20 min, 10 situaciones, pares 5 + plenaria 2 | 15 min, 8 situaciones (se omiten la 5 y la 9; 1 + 6 + 3), 4 min en pares, Idea 1 en 1 min | 10 min, 8 situaciones, sin pares; A enuncia la Idea 1 al cerrar |
+| 2 · La provocación | 15 min, video ≤ 5, 4 preguntas | 12 min, video 4, 4 preguntas, captura breve | 10 min, video 3, pregunta única "¿Qué cambió: la gente o el trato?"; en plenaria (1 min) la pregunta de D-18 |
+| 3 · El Muro | 14 min, 16 tarjetas | 10 min, 12 tarjetas (1 a 12), revelación en 3 pasos completa | **Se elimina y no se menciona** (D-14) |
+| 4 · Mito vs. Dato | 13 min, 5 afirmaciones | 10 min, 4 afirmaciones: Gen Z y lealtad, Boomers y tecnología, jóvenes y jefatura, "Lo quieren todo ya" + una creencia revisada | 10 min, las mismas 4 + lámina 28 "lente, no diagnóstico" |
+| Receso | 10 min | Pausa de pie de 2 min (0:52), tomada del Acto 5 | Sin receso |
+| 5 · Contextos y contrato | 14 min, 4 contextos + contrato + lealtad | 8 min: portadilla, contrato y lealtad + 3 min en pares: "¿A qué mundo entré a trabajar y qué me enseñó sobre la lealtad?" (los 4 contextos se ocultan) | 10 min junto con el Acto 6: contrato y lealtad + 2 min en pares con la pregunta de lealtad |
+| 6 · Motivadores | 10 min | 5 min: necesidades comunes + el jefe como palanca; 2 min de mesa, sin escritura | Necesidades comunes en 1 min (dentro de los 10 del 5+6) |
+| 7 · Espejo del líder | 10 min (5 silencio + 5 pares) | 5 min: 3 de silencio (preguntas 2, 3, 5 y "Mi persona") + 2 en pares (1 cada uno, sin "lo que escuché") | 2 min de silencio (preguntas 2 y 5 y "Mi persona"), **antes del Laboratorio** |
+| 8 · Laboratorio | 26 min, casos A, B, D, E | 20 min, casos A, B, D (2 mesas por caso) | 16 min, casos A y B |
+| 9 · Modelo | 7 min | 5 min | 5 min |
+| 10 · Matriz | 12 min | 12 min (2 instrucción + 6 individual + 4 en par); **B entrega los sobres** | 10 min (6 + 4 en par); **B entrega los sobres** |
+| 11 · Invertir el lente | 10 min | Se omite; se ofrece como tarea en pares posterior | Se omite |
+| 12 · Compromiso | 11 min | 11 min, completo, con QR dentro del horario | 13 min, completo, con QR |
+
+## Mapa de láminas (numeración de la presentación con divisorias)
+
+| Versión | Ocultas | Textos variantes |
+|---|---|---|
+| 180 | 20–21 (reserva), 54 (variante de Invertir el lente), 58 (Experimento, respaldo), 61 (anexo) | — |
+| 120 | Las de 180 **y además** 24–25 (reconocimiento), 29 (receso), 32–35 (contextos), 39 (diferencias), 53 (Invertir el lente) | 8 situaciones · 12 tarjetas · 4 afirmaciones (1/4 a 4/4) · la 24 queda como reserva |
+| 90 | Las de 120 **y además** 8 (Idea 1: A la enuncia), 12–14 (Muro), 31 (portadilla de contextos), 40 (el jefe como palanca), 43 (pares del Espejo) | Lámina 11 con pregunta única · lámina 42 (Espejo) en 2 min antes del Laboratorio |
+
+<div class="por"><b>POR CONFIRMAR</b> · Conteo de láminas visibles con las cinco divisorias (5, 9, 30, 41, 52): 180 ≈ 57, 120 ≈ 47, 90 ≈ 40, si las divisorias quedan visibles en las tres versiones. Verificar contra los archivos regenerados antes del ensayo general.</div>
+
+## Qué se pierde
+
+**En 120 minutos.** Invertir el lente, que es el momento de mayor apropiación humana; la plenaria del Acto 1; cuatro tarjetas del Muro y la afirmación del reconocimiento; los cuatro contextos por separado; un caso del Laboratorio; la profundidad del Espejo (1 minuto por persona en pares); el receso. La secuencia pedagógica y el arco se conservan. El riesgo principal es que la conversación entre pares baja; los pares del Acto 5 y la validación del Acto 10 la recuperan en parte.
+
+**En 90 minutos.** El Muro, y con él casi toda la incomodidad vivencial: el arco pasa de curiosidad a reconocimiento con el video como único detonante. El Espejo formal y la escucha sin consejo. Invertir el lente. Cuatro de los seis casos. La Idea 4 se sostiene solo porque la lámina 37 (lealtad) se mantiene con 2 minutos en pares. El hilo "Una persona" se conserva porque la persona se elige en el silencio de 2 minutos, antes del Laboratorio.
+
+## Qué decirle a la CHRO
+
+Por escrito, antes de confirmar la versión, en la reunión de T-21 o T-14:
+
+<div class="say">"La versión de 180 minutos cambia creencias y deja una conducta comprometida. La de 120 conserva la secuencia completa y pierde sobre todo la conversación entre pares y el momento de Invertir el lente. La de 90 es una versión de activación: cambia conciencia e intención, pero depende casi por completo del trabajo previo y del Experimento a 30 días para cambiar conducta. Si el objetivo es conducta, recomendamos 180; si la agenda no lo permite, 120 con la sesión de seguimiento garantizada."</div>
+
+Recomendación operativa: si se elige 90, la sesión de seguimiento (días 35 a 45) deja de ser opcional.
+
+</section>
+
+<section class="section">
+
+<div class="eyebrow">Parte 8</div>
+
+# Preparación, ensayos, contingencias y día de la sesión
+
+<p class="lead">Dos facilitadores internos frente a directores y frente a su jefa ganan credibilidad por dominio de los datos, de los tiempos y de las preguntas difíciles, no por carisma. Cada ensayo tiene un producto verificable.</p>
+
+## Calendario T-21 a T-0
+
+| Momento | Actividad | Responsable | Producto o criterio de salida |
+|---|---|---|---|
+| T-21 | Confirmar fecha, sala, invitados y versión (180/120/90). Asignar roles A y B | C&D + A + B | Lista de pendientes con responsable y fecha |
+| T-21 | Reservar sala con pared o paneles; confirmar permiso de cinta; cotizar impresión | B | Sala confirmada con plano |
+| T-18 | Estudio individual: A domina Mito vs. Dato, contextos y contrato con el paquete de evidencia; B domina diagnóstico, Muro, Laboratorio y Matriz | A, B | Cada uno explica su bloque sin láminas en 5 minutos |
+| T-16 | **Ensayo de mesa 1 (3 h):** presentación completa en voz alta con cronómetro; relevos A ↔ B; señales silenciosas | A + B | Tiempos reales por acto; lista de ajustes |
+| T-14 | **Reunión de acuerdos con la CHRO (45 min, con firma)**; decisión sobre la co-apertura con un director de Operaciones | A conduce + B + CHRO | Acuerdos D-13 firmados; apertura y cierre validados; agenda de 3 h 20 min protegida |
+| T-14 | Congelar: fragmento del video, 16 tarjetas del Muro, afirmaciones y veredictos, cuaderno. Enviar a imprenta | A + B | Archivos finales versionados |
+| T-12 | Validar con Privacidad/Jurídico el aviso de privacidad del trabajo previo, la encuesta y los pulsos | B | Visto bueno por escrito |
+| T-10 | Envío del trabajo previo (formulario probado con 2 colegas) | A | Correo enviado; formulario sin "Registrar nombre" |
+| T-10 | Guía, tarjetas de evidencia y preguntas hostiles impresas | A + B | Juego para A y para B |
+| T-9 | **Ensayo de mesa 2 (2 h):** los 5 momentos difíciles con un colega de C&D que hace de director escéptico | A + B + colega | Cada momento dentro de su tiempo con dos objeciones distintas |
+| T-7 | **Ensayo general (3 h 30 min)**, en la sala real si es posible, con 6 a 8 colegas que no reporten a los participantes, materiales de prueba, video, QR y Muro montado; un observador anota tiempos | A + B + observador | Duración real ≤ 175 min; ajustes cerrados en 48 h; decisión sobre la variante del Acto 11 |
+| T-7 | Plano de sala y de mesas (organigrama, CHRO, parejas jefe–colaborador) | B | Plano confidencial |
+| T-5 | Recordatorio amable del trabajo previo | A | — |
+| T-3 | Cierre del trabajo previo (72 h). Temas agregados (≥ 5 personas, parafraseados). Insertar el QR en la lámina 57 | A | Temas en nota de A; QR probado |
+| T-2 | Impresión segura de las hojas, armado y cierre de sobres, revisión cruzada de nombres | A + B juntos | Sobres verificados por dos personas + 3 en blanco |
+| T-2 | Recepción de impresos contra la lista maestra de materiales | B | Lista palomeada |
+| T-1 | **Ensayo técnico en sala (1 h 30 min):** Muro, video y audio, QR con la red del recinto, temporizador, control remoto; recorrido de los momentos físicos midiendo distancias | A + B | Sala lista; fotos del montaje vacío (sin personas ni tarjetas) |
+| T-1 | Mensaje a la CHRO: llegada 20 minutos antes y sus dos intervenciones | A | Confirmación |
+| T-0 −60 | Montaje final; sobres guardados con B, no en las mesas | A + B | Lista de montaje completa a T-15 |
+| T-0 −20 | Llega la CHRO: 5 minutos privados con A | A + CHRO | — |
+| T-0 +30 | Desmontaje, barrido, destrucción de sobres olvidados y de ausentes; conversación de cierre de facilitadores (20 min) | A + B | Notas; registro de destrucción |
+| T+1 | Recordatorio del día 1 del Experimento y hoja resumen de evidencia en PDF | A + B | — |
+
+## Los cinco momentos difíciles que se ensayan por separado
+
+| Momento | Quién | Riesgo | Qué se practica |
+|---|---|---|---|
+| Revelación del Muro (Acto 3) | B | Que suene a "los atrapamos"; "esto está manipulado" | Pausa de 5 s; una línea por tarjeta; "Exacto. Y aun así, ¿dónde la colocamos?" |
+| Mito vs. Dato (Acto 4) | A | Que un director técnico cuestione una fuente y A pierda ritmo o credibilidad | Ritmo de ≈2 min por afirmación con cronómetro; "¿y en México?" con la tarjeta; admitir límites sin retroceder |
+| Contextos y contrato (Acto 5) | A | Que se vuelva exposición o crítica a la empresa | Máximo 2 min por contexto; pregunta antes que dato; retomar el rotafolio |
+| Plenaria del Laboratorio (Acto 8) | B | Discusión que escala; director dominante | Hablar siempre de la pared; "¿qué haría falta saber para decidir?" |
+| Presencia de la CHRO | A y B | Autocensura; que evalúe o cierre | Señales de autocensura; mover a pares o escritura; "Gracias; ¿qué opinan en la mesa?" |
+
+**Criterios del ensayo general.** Se aprueba si: la duración real es ≤ 175 minutos; cada relevo se hizo con pregunta u observación; A respondió al menos 6 de las 12 preguntas hostiles sin consultar la guía; B ejecutó la revelación del Muro y la galería dentro de tiempo; el QR cargó en la red del recinto; nadie dijo "hoy vamos a aprender" ni "las generaciones no existen".
+
+## Plan de contingencias
+
+| Riesgo | Señal | Respuesta preparada | Responsable |
+|---|---|---|---|
+| Llegadas tarde (≤ 10 min) | Menos del 80 % de la sala a la hora | Empezar a la hora con la CHRO. A quien llegue en el Acto 1: cuaderno y situaciones 1–5; en pares con quien esté solo | B |
+| Inicio retrasado (> 10 min) | CHRO o mayoría ausentes | Activar el acordeón desde el inicio, sin anunciarlo | A |
+| La CHRO se va antes | Aviso o salida | Con aviso: compromiso adelantado a las 2:20. Sin aviso: no se menciona; en el cierre, "compartirá su propio experimento en la sesión de seguimiento" | A |
+| La CHRO evalúa, cierra mesas o habla primero | Mesas que la miran antes de hablar | B pregunta a otra persona de la mesa; A cede a otra mesa; recordatorio privado en el receso | A / B |
+| Teléfonos | Pantallas activas en Muro o silencios | Acuerdo de apertura; la CHRO lo modela; no se recogen | A |
+| Director dominante | Monopoliza | "Alguien que no haya hablado"; relator distinto; si persiste, A en el receso: "me ayudas si dejas que otros entren primero" | B → A |
+| Director hostil o defensivo | "Esto es cuento de RH" | Parte 5: caso concreto; reconocer competencia; nunca refutar en plenaria | A |
+| Discusión que escala | Tono elevado | Resumir ambas posiciones → "¿qué haría falta saber?" → siguiente actividad | A |
+| Menos participantes (12–18) | Confirmados < 20 en T-2 | 3 mesas (casos A, B, D). Con < 12: 2 mesas, 4 tarjetas por persona, 2 casos | B |
+| Más participantes (hasta 30) | Confirmados > 26 | 5 mesas (+ caso C); micrófonos de solapa; Laboratorio de 28 min | B |
+| Sin pared o sin permiso de cinta | T-7 o T-1 | Caballetes como zonas; póster de revelación en caballete central cubierto; galería sobre mesas | B |
+| Falla de video o audio | No reproduce en 30 s | Laptop 2 → transmisión por la red → A resume el argumento en voz (máximo 2 min) | B |
+| Falla del proyector | Sin imagen | Presentación impresa para A y B; el cuaderno sostiene las dinámicas; A lee afirmaciones y veredictos | A |
+| Falla del QR | No carga | 10 encuestas impresas; si faltan, enlace por correo el mismo día | B |
+| Sobre perdido o con nombre equivocado | Participante sin sobre | Sobre en blanco; nunca se reimprime en sitio | B |
+| Alguien se emociona o comparte algo sensible | Salud, familia, duelo | Agradecer sin profundizar; "se usa, no se atribuye"; B lo busca en el receso; no se registra | B |
+| Sala homogénea para el Acto 11 | Decisión en T-7 | Variante de la lámina 54 | B |
+
+## Acordeón de recortes si vamos tarde
+
+Acumulables, en este orden (guion minuto a minuto). B levanta la tarjeta con el número; A confirma con un asentimiento.
+
+| # | Retraso acumulado | Recorte | Ahorro |
+|---|---|---|---|
+| 1 | +2 min a las 0:43 | Plenaria del Acto 1 reducida a una voz | 1 min |
+| 2 | +3 min a las 0:58 | Afirmación 4 de Mito vs. Dato (reconocimiento) resumida en una frase; la 5 es obligatoria | 1 min 40 s |
+| 3 | +5 min al regresar del receso | Contextos del Acto 5 a 60 s cada uno; los pares de 2 min se mantienen | 1 min 20 s |
+| 4 | +5 min a la 1:38 | Mesa del Acto 6 de 4 a 2 min (una sola voz) | 2 min |
+| 5 | +5 min a la 1:54 | Galería del Laboratorio de 4 a 3 min; plenaria de 5 a 4 | 2 min |
+| 6 | +5 min a las 2:39 | Acto 11 a 8 min (frases 1 y 4) | 2 min |
+| — | **Nunca se recortan** | El silencio del Acto 7, la columna "no adapto", el compromiso escrito, el minuto de la CHRO, la frase ancla y la seguridad | — |
+
+## Lista de verificación del día
+
+**T-60 a T-15 · Montaje**
+
+- Mesas de 6 (4 mesas + 1 auxiliar); plano confidencial aplicado: la CHRO sin reportes directos o en la de menos reportes; ningún jefe con su colaborador directo en la misma mesa.
+- En cada lugar: cuaderno cerrado de la versión correcta, pluma, tarjeta con nombre de pila. **Sin sobres en las mesas.**
+- Por mesa: sobre con 16 tarjetas del Muro (sin número de mesa), 3 tarjetas de voto por persona, tarjeta de mesa con las 4 preguntas, tarjeta con QR, marcadores, cinta precortada.
+- Muro de ≥ 6 m con 4 pósters grises en orden cronológico y 1.2 m libres al centro; póster NECESIDADES HUMANAS enrollado, cara a la pared.
+- Rotafolios "Lo que escuchamos" y estacionamiento; 2 m libres para la galería.
+- Laptop principal con los tres presentaciones y el video local con subtítulos incrustados; laptop 2 y USB; audio probado; control remoto con pilas de repuesto; temporizador de sala y de bolsillo; micrófonos si hay más de 24 personas o sala grande.
+- QR probado en la red del recinto; 10 encuestas impresas.
+- B: sobres en orden alfabético + 3 en blanco; lista de asistencia administrativa; sobre de seguridad para material olvidado.
+- A: guía, tarjetas de evidencia, preguntas hostiles, copia de los acuerdos D-13.
+
+**Durante la sesión**
+
+- B compara la hora real en cada punto de control.
+- A anota observaciones para los Actos 5 y 9; B anota señales de autocensura y frases del receso.
+- Nadie fotografía el Muro; nadie lee un cuaderno.
+
+**Cierre (T-0 a T+30 min)**
+
+- Barrido de sala: sobres, hojas y tarjetas olvidadas al sobre de seguridad; destrucción el mismo día.
+- Desmontaje del Muro: las tarjetas se destruyen, no se guardan por mesa.
+- Hojas A3 de la galería: se retiran y se destruyen (no se fotografían con autores identificables).
+- Encuestas impresas de respaldo: se capturan de forma anónima y se destruyen.
+
+## Conversación de cierre de facilitadores (20 minutos, el mismo día)
+
+| Min | Pregunta | Producto |
+|---|---|---|
+| 0–5 | ¿Qué funcionó? ¿En qué momento se sintió la sala más comprometida y más a la defensiva? | Dos o tres aprendizajes |
+| 5–10 | Tiempos reales por acto frente al guion; qué pasos del acordeón se activaron | Ajustes para la siguiente cohorte |
+| 10–13 | Señales de autocensura; actuación de la CHRO frente a los acuerdos | Nota privada para la conversación con ella |
+| 13–16 | Preguntas hostiles que surgieron y cómo se respondieron; datos que se cuestionaron | Actualización de la Parte 5 |
+| 16–18 | Solicitudes de información individual recibidas | Registro y turno a Privacidad/Jurídico |
+| 18–20 | Pendientes: recordatorio del día 1, PDF de evidencia, fecha de la sesión de seguimiento (días 35 a 45), eliminación de datos (≤ 30 días) | Responsables y fechas |
+
+Lo que **no** se registra: nombres de participantes asociados a comentarios, votos, colocaciones del Muro o compromisos.
+
+**Después.** Recordatorios en los días 1, 7, 14, 21 y 30 (tres líneas, firmados por ambos); pulsos anónimos en los días 7 y 30; sesión de seguimiento de 60 a 90 minutos entre los días 35 y 45, donde se comparten aprendizajes, no identidades. Los resultados que recibe la CHRO, incluida la información de Analítica de RH, son siempre agregados de cohorte con al menos 5 personas.
+
+</section>
+
+<section class="section">
+
+<div class="eyebrow">Parte 9</div>
+
+# Lenguaje
+
+<p class="lead">El registro es de pares: directores que hablan con directores. El lenguaje evita el edadismo en cualquier dirección, no implica que la experiencia caducó ni que las personas jóvenes son frágiles, y nunca convierte a nadie en vocero de su edad.</p>
+
+## Frases de facilitador
+
+| Evitar | Usar |
+|---|---|
+| "Hoy vamos a aprender…" | "Consideren esto…" |
+| "Como líderes debemos entender…" | "¿Qué nos exige esto como líderes?" |
+| "Las nuevas generaciones necesitan…" | "¿Qué necesita esta persona?" |
+| "Eso es un mito." | "¿Qué dice realmente la evidencia?" |
+| "Lo que tienen que hacer es…" | "¿Qué harían ustedes?" |
+| "Es obvio que…" | "¿Qué estamos suponiendo?" |
+| "Los jóvenes de hoy son así." | "¿Cambió la persona o cambió el entorno?" |
+| "Ya quedó claro." | "¿Qué podríamos estar pasando por alto?" |
+| "Los datos demuestran…" / "causa" | "Se asocia con…", "coincide con…", "la evidencia sugiere…" |
+| "Las generaciones no existen." | "Explican mucho menos de lo que creemos; hay más diferencia dentro de cada generación que entre ellas." |
+
+## Palabras sobre personas y edades (instrumentos §4.6)
+
+| Evitar | Usar |
+|---|---|
+| "Los jóvenes de hoy…", "los chavos" | "Personas que están empezando su carrera" |
+| "Generación de cristal", "no aguantan" | No se usa; no tiene equivalente aceptable |
+| "La vieja guardia", "los dinosaurios", "ya de salida" | "Líderes con larga trayectoria", "personas con mucha experiencia en la planta" |
+| "Nativos digitales" / "no saben de tecnología" | Describir la habilidad concreta de la persona |
+| "Así son los Millennials / los Boomers" | "¿Qué conducta observas? ¿Qué más podría explicarla?" |
+| "Adaptarse a ellos" | "Ampliar mi rango de liderazgo" |
+| "Líder rígido" (referido a una persona) | "Respuesta rígida" (referida a una conducta en una situación) |
+| "Es inseguro", "es irresponsable" (rasgos) | "Pide retroalimentación cada semana", "llega a las 7:05" (conductas) |
+
+**Humor.** Los facilitadores no hacen chistes sobre edad. Si un participante los hace, no se amplifican (ni risa ni sanción); se regresa a la conversación.
+
+## Vocabulario estándar AMMX
+
+Sin palabras en inglés en lo que dicen los facilitadores ni en lo que ve el participante. Se mantienen los nombres propios (Boomers, Gen X, Millennials, Gen Z, SAP PM, LOTO) y los títulos de estudios.
+
+| No usar | Usar |
+|---|---|
+| feedback | retroalimentación |
+| engagement | compromiso (cuando es la métrica de Gallup: "compromiso, medido por Gallup") |
+| accountability | rendición de cuentas |
+| coaching | acompañamiento |
+| workbook | cuaderno del participante |
+| pre-work | trabajo previo |
+| run of show | guion minuto a minuto |
+| activity pack / evidence pack | paquete de actividades / paquete de evidencia |
+| burnout | desgaste |
+| quiet quitting | renuncia silenciosa |
+| nearshoring | relocalización de inversiones |
+| debrief / handoff | conversación de cierre / relevo |
+
+## Nombres oficiales del taller (D-02)
+
+El Muro Generacional · Mito vs. Dato · Laboratorio de Colisiones · LEER → ADAPTAR → ALINEAR · Matriz de Flexibilidad del Liderazgo · Rango de liderazgo · Diagnóstico de Reacción del Líder · Invertir el lente · Experimento de Liderazgo a 30 días · La generación es un lente, no un diagnóstico · Generación ≠ personalidad · La lealtad se gana, en ambas direcciones · Respuesta rígida → respuesta adaptable.
+
+</section>
+
+<section class="section">
+
+<div class="eyebrow">Parte 10</div>
+
+# Punto de integración Speed Absorbent
+
+<div class="por"><b>POR CONFIRMAR</b> · Los materiales "Speed Absorbent" no estuvieron disponibles al producir esta versión (D-01). Se buscaron en el repositorio y en el Google Drive conectado por título y texto completo sin resultado. Esta guía no incluye ningún concepto, término, modelo ni elemento visual atribuido a Speed Absorbent, y los facilitadores no deben mencionarlo en sala hasta que se integre formalmente.</div>
+
+**Qué está en su lugar hoy.** El modelo nativo del taller es **LEER → ADAPTAR → ALINEAR** y el contraste **respuesta rígida → respuesta adaptable**, ambos del brief. Funcionan completos sin Speed Absorbent.
+
+**Dónde se integraría.** Acto 9 (láminas 47 y 48), la página LEER → ADAPTAR → ALINEAR del cuaderno (p. 14), la tarjeta de bolsillo, el Acto 9 de esta guía y el registro de decisiones.
+
+**Criterios para decidir cuando se reciban los materiales.** Los aplican A y B con el orquestador; la decisión se registra en el registro de decisiones con fecha.
+
+| Decisión | Cuándo | Qué se actualiza |
+|---|---|---|
+| **Reemplaza** | El material propone un modelo de adaptación del liderazgo más completo que LEER → ADAPTAR → ALINEAR, con respaldo explícito, y respeta la separación entre lo que se adapta y lo que no (D-04) | Láminas 47–48, cuaderno p. 14, tarjeta de bolsillo, guía (Acto 9 y Parte 1), registro; ensayo adicional de A |
+| **Enriquece** | Aporta lenguaje, ejemplos o una herramienta compatible que se puede nombrar dentro de uno de los tres verbos sin cambiar el modelo | Nota de lámina 48 y una línea del guion de A; cuaderno solo si cabe sin rediseño |
+| **Se omite** | Contradice D-04 (sugiere adaptar estándares, ética o seguridad), usa etiquetas generacionales como diagnóstico, carece de respaldo o no cabe en los 7 minutos del Acto 9 sin recortar lo que nunca se recorta | Solo el registro, con la razón |
+
+**Preguntas de verificación antes de integrar.**
+
+1. ¿El material distingue explícitamente el cómo (adaptable) del qué (estándares, ética, seguridad, rendición de cuentas, desempeño)?
+2. ¿Usa la generación como lente o como diagnóstico?
+3. ¿Qué evidencia cita? ¿Es opinión, marco de consultoría o investigación?
+4. ¿Se puede explicar en 2 minutos a una sala de directores de planta, sin palabras en inglés?
+5. ¿Cambia algo del hilo "Una persona" (Actos 7, 10 y 12 y el Experimento)?
+6. ¿Llega antes del congelamiento de T-14? Si no, se integra en la siguiente cohorte; nunca en vivo ni por improvisación.
+
+**Qué no se hace.** No se inventan conceptos para "llenar" el espacio; no se nombra Speed Absorbent en sala sin materiales; no se cambia la lámina el día de la sesión.
+
+</section>
+
+<section class="section">
+
+<div class="eyebrow">Anexo</div>
+
+# Notas para el orquestador
+
+Inconsistencias encontradas entre fuentes. En todos los casos esta guía sigue las notas de la presentación (y, donde la presentación no dice nada, `run_of_show.js`). La numeración de láminas es la de la presentación con divisorias (61), según la regla de conversión recibida.
+
+1. **Sobres del trabajo previo (lámina 1, notas):** dice "cada lugar tiene el workbook cerrado y el sobre del pre-work cerrado". Contradice D-20, `run_of_show.js` (montaje: "sobres guardados con B, no en mesas") y las notas de la lámina 55 (antes 50). La guía sigue D-20: B los guarda y los entrega en el Acto 11.
+2. **Transición de la lámina 14 (antes 12):** dice "Seis afirmaciones"; el bloque tiene cinco visibles. La guía usa "Cinco afirmaciones".
+3. **Numeración interna de Mito vs. Dato en notas:** las láminas 20, 22, 24 y 26 (antes 18, 20, 22, 24) dicen "afirmación 3/4/5/6" en PROPÓSITO, mientras la pantalla muestra "Reserva", 3/5, 4/5 y 5/5. La lámina 15 (antes 13) dice "Versiones 120/90: afirmaciones 1, 2, 4 y 6" y la arquitectura "1, 2, 4 y la del video" (numeración anterior con la reserva como 3). La guía nombra las afirmaciones por su texto.
+4. **Lámina 57 (antes 52):** texto en pantalla "Anónima. Tres minutos." frente a "Dos minutos" en guion, notas y `run_of_show.js`.
+5. **Casos con 5 mesas (lámina 44, antes 40):** "CON 5: omitir C o F según el perfil de la sala"; D-20 fija "5 mesas = + C" (es decir, se omite F). La guía sigue D-20.
+6. **Láminas visibles en 180:** la arquitectura dice 49; `run_of_show.js` (mapa) dice 51 con la presentación de 56. Con divisorias quedarían ≈57; confirmar en los archivos regenerados, igual que 120 (≈47) y 90 (≈40).
+7. **Espejo en 90 minutos:** instrumentos §3.3 (y G2-11/G3-11) lo colocan "al inicio del Acto 10"; la arquitectura, el mapa de `run_of_show.js` y el orden físico de la presentación de 90 lo colocan antes del Laboratorio. La guía sigue la presentación.
+8. **Instrumentos §2.7:** conserva la plenaria "¿Qué les sorprendió?" (y en otros puntos 4 + 5 min); la presentación deja "¿qué les sorprendió?" en pares y la plenaria con la pregunta de compromiso (5 + 2).
+9. **Instrumentos §4.3** menciona el formato autocopiable de la tarjeta de compromiso, eliminado por D-20 (G3-20).
+10. **Paquete de actividades §8** (tabla de tono) dice "Parejas por años de experiencia, no por edad declarada" y "el participante decide si autoriza copia de su tarjeta": contradicen D-15 y la lámina 4. §2.3 conserva "MITO VS. DATO · 1 DE 6".
+11. **Acordeón de recortes:** Gate 3 §6.2 difiere de `run_of_show.js` (paso 2: "sin la afirmación 3" frente a "afirmación 4 resumida"; paso 3: contextos a 90 s frente a 60 s; paso 4 a la 1:40 frente a 1:38). La guía sigue `run_of_show.js`.
+12. **Gate 3 menciona piezas que no existen en la presentación:** lámina "8b" con citas textuales del video (contingencia de video), lámina oculta de temas agregados del trabajo previo (T-3), láminas "32b" y "9b". La presentación resuelve la falla de video con un resumen verbal de A (máximo 2 min) y las versiones cortas con textos variantes y láminas ocultas.
+13. **Gate 3 §3 (mapa de 90)** ocultaba 26, 34 y 38–39 (numeración anterior); la presentación de 90 mantiene visibles la síntesis edad/época/cohorte, la lealtad y el Espejo. La guía sigue la presentación.
+14. **Tiempo del Acto 12 en 90 min:** la arquitectura da 13 min "completo" mientras la versión completa son 11 (G2-12 lo señaló para 120, ya corregido; en 90 sigue en 13). La guía reporta 13 para cuadrar los 90 minutos.
+15. **Vocabulario estándar AMMX:** la presentación, el cuaderno y los demás documentos todavía usan términos en inglés en texto de participante o de lámina: "workbook", "pre-work", "feedback", "engagement", "Accountability" (lámina 49, antes 45), "quiet quitting" (lámina 21), "conscious unbossing" (lámina 23), "nearshoring" (láminas 28 y 35), "burnout". También "Versión 1.0" en la portada de la presentación.
+16. **Cambio de patrocinadora (CXO → CHRO):** el registro de decisiones (D-09, D-13), las notas de la presentación, la arquitectura, `run_of_show.js`, los instrumentos y los Gates siguen diciendo "CXO"; D-13.8 dice "jefatura de RH o Privacidad" y debe quedar "Privacidad/Jurídico". El correo del trabajo previo (instrumentos §1.2) promete que las respuestas no se comparten "con Recursos Humanos ni con [CXO]": revisar redacción, porque los facilitadores forman parte de C&D. La propuesta de co-apertura con un director de Operaciones queda como POR CONFIRMAR para T-14.
+17. **Nomenclatura de la carpeta:** Gate 3 pide la guía en `05_facilitacion/`; este entregable se escribió en `src/docs/03_Guia_del_Facilitador.md` según el encargo.
 
 </section>
