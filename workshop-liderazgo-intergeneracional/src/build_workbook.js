@@ -1,4 +1,4 @@
-// Genera docs/02_Workbook_Participante.html a partir de los instrumentos del psicólogo (fuente única).
+// Genera docs/02_Cuaderno_del_Participante.html a partir de los instrumentos del psicólogo (fuente única).
 const fs = require('fs');
 const path = require('path');
 const ROOT = path.join(__dirname, '..');
@@ -83,8 +83,8 @@ const needs = [
   ['Estabilidad', 'Entre las principales prioridades de todas las edades.', 'Cómo se expresa según el contexto económico.'],
   ['Crecimiento', 'Todos quieren avanzar.', 'Más urgencia al inicio de la carrera (efecto edad).'],
   ['Reconocimiento', 'Se asocia con compromiso a cualquier edad.', 'Frecuencia y forma: pública, privada, un encargo.'],
-  ['Desarrollo', 'Aprender en el puesto.', 'A los mayores se les ofrece menos; los jóvenes piden más mentoría.'],
-  ['Autonomía', 'Valorada en todas las edades.', 'Diferencias de pocos puntos; pesa más el rol.'],
+  ['Desarrollo', 'Aprender en el puesto.', 'Los jóvenes piden más mentoría; los mayores participan menos, a veces porque se les ofrece menos.'],
+  ['Autonomía', 'Valorada en todas las edades.', 'Diferencias de pocos puntos entre edades (Randstad).'],
   ['Relación con el jefe', 'La palanca más grande de compromiso.', 'Qué conductas del jefe necesita cada persona.'],
   ['Bienestar y equilibrio', 'Prioridad transversal.', 'Más estrés reportado en menores de 35 y en gerentes.'],
   ['Sentido y pertenencia', 'Necesidad compartida.', 'La brecha más grande es jerárquica, no generacional.'],
@@ -92,15 +92,15 @@ const needs = [
 
 const ctx = [
   ['Baby Boomers · entraron ≈1964–1985', 'Desarrollo estabilizador; acero nacional y empleo paraestatal; crisis de 1976 y 1982; cierre de Fundidora Monterrey (1986).', 'Que no quieren o no pueden aprender herramientas nuevas.'],
-  ['Generación X · entraron ≈1983–2000', 'Inflación y “década perdida”; GATT y privatizaciones (SICARTSA, 1991); TLCAN y crisis de 1994–95; cambios de dueño.', 'Que su escepticismo es falta de compromiso.'],
+  ['Generación X · entraron ≈1983–2000', 'Inflación y “década perdida”; GATT y privatizaciones (SICARTSA, 1991–92); TLCAN y crisis de 1994–95; cambios de dueño hasta la integración en ArcelorMittal (2006–07).', 'Que su escepticismo es falta de compromiso.'],
   ['Millennials · entraron ≈2000–2018', 'Crisis de 2008–09; smartphone e internet; reforma laboral de 2012 y subcontratación. Hoy muchos ya son jefes y directores.', 'Que querer crecer rápido es falta de compromiso.'],
-  ['Generación Z · entraron ≈2015–hoy', 'Pandemia 2020; reforma de subcontratación 2021; T-MEC y nearshoring; IA generativa; informalidad cercana a 55 %.', 'Que no aguantan el trabajo de planta.'],
+  ['Generación Z · entraron ≈2015–hoy', 'Pandemia 2020; reforma de subcontratación 2021; T-MEC y relocalización industrial; IA generativa; informalidad cercana a 55 %.', 'Que no aguantan el trabajo de planta.'],
 ];
 
 const myths = ['La Generación Z no tiene lealtad.', 'Los Boomers se resisten a la tecnología.', 'Los jóvenes no quieren ser jefes.', 'Los jóvenes necesitan reconocimiento constante.', 'Lo quieren todo ya.'];
 
-const flexCols = [['Comunicación', '¿Canal y tono en que me escucha mejor?'], ['Contexto (el porqué)', '¿Qué parte del porqué no le he explicado?'], ['Feedback', '¿Qué tan seguido y qué tan directo?'], ['Reconocimiento', '¿Qué reconocimiento le importa de verdad?'], ['Autonomía', '¿Dónde más margen? ¿Dónde más estructura?'], ['Desarrollo', '¿Qué quiere aprender? ¿Qué conversación de carrera debo?'], ['Frecuencia', '¿Cada cuánto necesita contacto conmigo?']];
-const flexKeep = [['Estándares', '¿Qué estándar le aplica igual que a todos?'], ['Ética', '¿Qué tema de integridad dejo claro?'], ['Seguridad', '¿Qué regla es innegociable en su puesto?'], ['Accountability', '¿De qué resultado responde y cómo doy seguimiento?'], ['Desempeño', '¿Qué espero, para cuándo y cómo se mide?']];
+const flexCols = [['Comunicación', '¿Canal y tono en que me escucha mejor?'], ['Contexto (el porqué)', '¿Qué parte del porqué no le he explicado?'], ['Retroalimentación', '¿Qué tan seguido y qué tan directo?'], ['Reconocimiento', '¿Qué reconocimiento le importa de verdad?'], ['Autonomía', '¿Dónde más margen? ¿Dónde más estructura?'], ['Desarrollo', '¿Qué quiere aprender? ¿Qué conversación de carrera debo?'], ['Frecuencia', '¿Cada cuánto necesita contacto conmigo?']];
+const flexKeep = [['Estándares', '¿Qué estándar le aplica igual que a todos?'], ['Ética', '¿Qué tema de integridad dejo claro?'], ['Seguridad', '¿Qué regla es innegociable en su puesto?'], ['Rendición de cuentas', '¿De qué resultado responde y cómo doy seguimiento?'], ['Desempeño', '¿Qué espero, para cuándo y cómo se mide?']];
 
 const html = `---
 title: Cuaderno del participante
@@ -108,7 +108,7 @@ eyebrow: Entregable 02 · Liderar entre generaciones
 sub: Una herramienta de trabajo para esta sesión y para los 30 días siguientes. Lo que escribas aquí es tuyo: no se recoge, no se revisa, no se comparte.
 meta: <b>Nombre (opcional):</b> ______________________________<br><br>Taller ejecutivo · Dirección AMMX · Gerencia de Capacitación y Desarrollo
 footer: Cuaderno del participante
-file: 02_Workbook_Participante
+file: 02_Cuaderno_del_Participante
 ---
 ${css}
 <section>
@@ -158,7 +158,7 @@ ${head('Acto 1 · El espejo', 'Cuatro respuestas. Ninguna sobra', 'Todas son út
 <div class="four">
 <div class="panel"><div class="label">Dirigir</div><h3>Defino, decido, fijo la regla</h3><p><b>Útil:</b> seguridad, urgencia, estándar no negociable, personas nuevas sin referentes.</p><p><b>Si es la única:</b> cumplimiento sin compromiso; la gente deja de traerte información.</p><p><b>Para ampliar el rango:</b> “¿Qué información me estaría perdiendo si decido ahora?”</p></div>
 <div class="panel"><div class="label">Explicar</div><h3>Doy el porqué y el contexto</h3><p><b>Útil:</b> cambios de política o proceso, decisiones que se sienten arbitrarias.</p><p><b>Si es la única:</b> el porqué se vuelve monólogo; convencer en vez de escuchar.</p><p><b>Para ampliar el rango:</b> “¿Qué ves tú que yo no estoy viendo?”</p></div>
-<div class="panel"><div class="label">Acompañar</div><h3>Desarrollo, doy feedback, hago coaching</h3><p><b>Útil:</b> aspiración de crecer a cualquier edad, brechas con disposición, transiciones de rol.</p><p><b>Si es la única:</b> paternalismo; lentitud cuando se necesita una decisión.</p><p><b>Para ampliar el rango:</b> “¿Qué necesitas de mí en esto?”</p></div>
+<div class="panel"><div class="label">Acompañar</div><h3>Desarrollo, doy retroalimentación, hago acompañamiento</h3><p><b>Útil:</b> aspiración de crecer a cualquier edad, brechas con disposición, transiciones de rol.</p><p><b>Si es la única:</b> paternalismo; lentitud cuando se necesita una decisión.</p><p><b>Para ampliar el rango:</b> “¿Qué necesitas de mí en esto?”</p></div>
 <div class="panel"><div class="label">Explorar</div><h3>Pregunto, escucho, suspendo el juicio</h3><p><b>Útil:</b> ambigüedad, conductas que no entiendo, cuando noto que me estoy enojando.</p><p><b>Si es la única:</b> no cerrar; en seguridad, la regla parece opcional.</p><p><b>Para ampliar el rango:</b> “¿Qué decidí y lo dije en voz alta?”</p></div>
 </div>
 ${box('La respuesta que menos uso y en qué situación me haría falta', '', 2)}
@@ -174,8 +174,8 @@ ${myths.map((m) => `<tr><td>“${m}”</td><td></td><td></td><td></td></tr>`).jo
 <h2>La generación es un lente, no un diagnóstico</h2>
 <div class="grid3">
 <div class="panel"><div class="label">Edad</div><p>La etapa de vida. A los 25 casi todos queremos crecer rápido y cambiar de empleo.</p></div>
-<div class="panel"><div class="label">Época</div><p>Lo que vivimos todos a la vez: pandemia, inflación, IA, nearshoring.</p></div>
-<div class="panel"><div class="label">Cohorte</div><p>Lo que marcaría a una generación. Existe, pero es la más pequeña y la más difícil de probar.</p></div>
+<div class="panel"><div class="label">Época</div><p>Lo que vivimos todos a la vez: pandemia, inflación, IA, relocalización industrial.</p></div>
+<div class="panel"><div class="label">Cohorte</div><p>Lo que marcaría a una generación. Puede existir, pero suele ser pequeña y es la más difícil de probar.</p></div>
 </div>
 <div class="grid2">${box('Del video: una idea con la que estuve de acuerdo y una que no', '', 2)}${box('Una creencia que hoy reviso', '', 2)}</div>
 </section>
@@ -197,7 +197,7 @@ ${box('La lealtad se gana, en ambas direcciones. ¿Qué depende de mí para que 
 ${head('Acto 6 · Lo que la gente realmente quiere', 'Mapa de motivadores', 'Organizado por necesidad, no por generación. Lo que casi todos quieren es lo mismo; lo que varía es la frecuencia, la forma y la urgencia.')}
 <table><tr><th style="width:22%">Necesidad</th><th style="width:30%">Lo que es común</th><th style="width:30%">Lo que varía</th><th>Con quién la atiendo peor (iniciales)</th></tr>
 ${needs.map((n) => `<tr><td>${n[0]}</td><td style="font-weight:400">${n[1]}</td><td style="font-weight:400">${n[2]}</td><td></td></tr>`).join('')}</table>
-<div class="panel"><div class="label">Un dato para planta</div><p>El jefe directo es la variable que más distingue a un equipo de otro en compromiso (Gallup). Casi todo lo que la gente pide —claridad, feedback, desarrollo, cuidado— son conductas del jefe.</p></div>
+<div class="panel"><div class="label">Un dato para planta</div><p>El jefe directo es la variable que más distingue a un equipo de otro en compromiso (Gallup). Casi todo lo que la gente pide —claridad, retroalimentación, desarrollo, cuidado— son conductas del jefe.</p></div>
 ${box('La necesidad común que estoy atendiendo peor, y con quién', '', 2)}
 </section>
 
@@ -229,8 +229,8 @@ ${box('De otra mesa: una respuesta que sí usaría y un supuesto que cuestionar�
 ${head('Acto 9 · Liderazgo adaptable', 'Leer, adaptar, alinear', 'Un modelo para recordar sin consultar materiales. De la respuesta rígida a la respuesta adaptable.')}
 <div class="model3">
 <div class="col"><div class="big">LEER</div><p><b>Entender a la persona y el contexto.</b></p><ul><li>¿Qué observo? ¿Qué supongo?</li><li>¿Qué podría necesitar, detrás de lo que pide?</li><li>¿Qué no sé todavía?</li></ul><p class="muted"><em>Pregunto antes de concluir.</em></p></div>
-<div class="col"><div class="big">ADAPTAR</div><p><b>Ajustar cómo lidero.</b></p><ul><li>Comunicación y contexto</li><li>Feedback, reconocimiento, autonomía</li><li>Desarrollo y frecuencia</li></ul><p class="muted"><em>Cambio el cómo.</em></p></div>
-<div class="col"><div class="big">ALINEAR</div><p><b>Sostener expectativas y resultados.</b></p><ul><li>Estándares, seguridad, ética</li><li>Accountability y desempeño</li><li>Lo digo de forma explícita</li></ul><p class="muted"><em>No muevo el qué.</em></p></div>
+<div class="col"><div class="big">ADAPTAR</div><p><b>Ajustar cómo lidero.</b></p><ul><li>Comunicación y contexto</li><li>Retroalimentación, reconocimiento, autonomía</li><li>Desarrollo y frecuencia</li></ul><p class="muted"><em>Cambio el cómo.</em></p></div>
+<div class="col"><div class="big">ALINEAR</div><p><b>Sostener expectativas y resultados.</b></p><ul><li>Estándares, seguridad, ética</li><li>Rendición de cuentas y desempeño</li><li>Lo digo de forma explícita</li></ul><p class="muted"><em>No muevo el qué.</em></p></div>
 </div>
 <h2>El caso de mi mesa, releído</h2>
 <div class="grid3">${box('Leer', '¿Qué no preguntamos?', 4)}${box('Adaptar', '¿Qué ajustaríamos?', 4)}${box('Alinear', '¿Qué dejamos explícito?', 4)}</div>
@@ -255,7 +255,7 @@ ${box('Lo que me llevo de lo que escuché', '', 2)}
 </section>
 
 <section class="page">
-${head('Acto 12 · Compromiso', 'Una decisión, no una intención', 'Relee tu sobre del pre-work y tu hoja de puntuación. ¿Responderías hoy lo mismo? ¿Qué respuesta necesitas usar más con tu persona?')}
+${head('Acto 12 · Compromiso', 'Una decisión, no una intención', 'Relee tu sobre del trabajo previo y tu hoja de puntuación. ¿Responderías hoy lo mismo? ¿Qué respuesta necesitas usar más con tu persona?')}
 ${box('Respondería hoy lo mismo / lo matizaría / lo respondería distinto — porque…', '', 2)}
 <div class="grid3">${box('Dejar', 'Algo que dejaré de hacer (una conducta, no un rasgo)', 4)}${box('Empezar', 'Algo que empezaré a hacer (observable por mi equipo)', 4)}${box('Mantener', 'Algo que ya hago bien y voy a sostener', 4)}</div>
 <div class="panel navy"><div class="label">Una persona · una conversación</div><p style="font-size:11.5pt;line-height:1.9">En los próximos 7 días tendré una conversación distinta con <b>______</b> (iniciales) sobre ____________________________________ .<br>Sabré que fue distinta porque ______________________________________________ .<br>Lo que no voy a negociar en esa conversación: ______________________________ .</p></div>
@@ -283,11 +283,11 @@ ${box('¿Qué supuesto tenía sobre esta persona que resultó incorrecto o incom
 ${box('¿Qué cambio en mi liderazgo tuvo más efecto?', '', 2)}
 ${box('¿Qué voy a mantener y con quién más lo voy a probar?', '', 2)}
 <p class="tiny">La bitácora es tuya. Nadie la revisa. En la sesión de seguimiento se comparten aprendizajes, no identidades.</p>
-<p class="tiny">Fuentes de la evidencia citada en la sesión: Evidence Pack (entregable 06), con muestras, geografía, URL y nivel de confianza.</p>
+<p class="tiny">Fuentes de la evidencia citada en la sesión: Paquete de evidencia (entregable 06), con muestras, geografía, URL y nivel de confianza.</p>
 
 
 </section>
 
 `;
-fs.writeFileSync(path.join(__dirname, 'docs', '02_Workbook_Participante.html'), html);
-console.log('Workbook HTML ok; situaciones:', sits.length);
+fs.writeFileSync(path.join(__dirname, 'docs', '02_Cuaderno_del_Participante.html'), html);
+console.log('Cuaderno HTML ok; situaciones:', sits.length);

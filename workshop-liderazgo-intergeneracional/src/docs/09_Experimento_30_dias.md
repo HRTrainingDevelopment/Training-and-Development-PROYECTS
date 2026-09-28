@@ -18,7 +18,7 @@ file: 09_Experimento_30_dias
 
 #### 7.1 Tarjeta de bolsillo unificada (10 × 15 cm, dos caras; G3-20)
 
-Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de la Matriz; reverso con el Experimento. Va dentro del sobre del pre-work.
+Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de la Matriz; reverso con el Experimento. Va dentro del sobre del trabajo previo.
 
 **Frente:**
 
@@ -27,12 +27,12 @@ Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de l
 > Inicio: ____ · Cierre: ____
 >
 > **LEER** — ¿Qué no sé de esta persona? ¿Qué voy a preguntar antes de concluir?
-> **ADAPTAR** — ¿Qué cambiaré en cómo me comunico, reconozco, doy feedback o autonomía?
+> **ADAPTAR** — ¿Qué cambiaré en cómo me comunico, reconozco, doy retroalimentación o autonomía?
 > **ALINEAR** — ¿Qué estándar y qué resultado mantengo igual, y cómo se lo digo?
 
 **Reverso:** las cinco columnas de la bitácora (ver 7.2) en formato abreviado y el recordatorio: "La seguridad y los estándares no se adaptan."
 
-#### 7.2 Protocolo de una página (workbook)
+#### 7.2 Protocolo de una página (cuaderno)
 
 **Paso 1 · Elegir (día 1).** Una sola persona, la misma del Acto 7 salvo que haya una razón fuerte para cambiarla. Criterio: alguien cuya conducta te cuesta entender o te activa (índice 3–4 del Diagnóstico), con quien tienes interacción al menos semanal.
 
@@ -59,7 +59,7 @@ Confidencialidad: la bitácora es del participante. Nunca se entrega ni se revis
 
 #### 7.3 Recordatorios de los facilitadores
 
-Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores. Máximo tres líneas; sin enlaces obligatorios.
+Canal: correo breve (o el canal que la CHRO defina). Firma de ambos facilitadores. Máximo tres líneas; sin enlaces obligatorios.
 
 | Día | Mensaje |
 |---|---|
@@ -73,7 +73,7 @@ Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores
 
 **Propósito:** consolidar la conducta, compartir patrones entre pares y convertir aprendizajes individuales en práctica del equipo directivo.
 
-**Formato:** presencial preferente (o virtual con salas de trabajo). Mismos participantes. Ambos facilitadores. La CXO asiste.
+**Formato:** presencial preferente (o virtual con salas de trabajo). Mismos participantes. Ambos facilitadores. La CHRO asiste.
 
 | Min (90') | Min (60') | Bloque | Qué ocurre | Lidera |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores
 | 8–38 | 5–30 | Tríadas de aprendizaje | Tríadas de personas que no compartieron mesa. Cada persona tiene 8' (6' en versión corta): 3' cuenta (lo que supuso, lo que cambió, lo que pasó), 3' las otras dos preguntan, 2' cierra con "lo que haría distinto". Preguntas permitidas para quienes escuchan: "¿Qué te sorprendió?", "¿Qué harías si la persona reaccionara al revés?", "¿Qué estándar mantuviste?" | B |
 | 38–58 | 30–45 | Cosecha de patrones | Cada tríada escribe en tarjetas 2 patrones (uno por tarjeta): "Cuando hicimos ___, ocurrió ___." B agrupa en pared en tres columnas: **Lo que funcionó**, **Lo que no funcionó**, **Lo que nos sorprendió**. A nombra los patrones en voz alta y los conecta con LEER / ADAPTAR / ALINEAR | B + A |
 | 58–75 | 45–55 | Del individuo al sistema | Pregunta a mesas: "¿Qué práctica, política o costumbre de nuestra organización hace más difícil liderar así?" Cada mesa propone una acción concreta a nivel de área o de la dirección | A |
-| 75–82 | — | CXO | La CXO comparte su propio experimento (qué supuso, qué aprendió) y responde a las propuestas del bloque anterior: qué va a llevar a la agenda de dirección y con qué fecha. No evalúa experimentos individuales | CXO |
+| 75–82 | — | CHRO | La CHRO comparte su propio experimento (qué supuso, qué aprendió) y responde a las propuestas del bloque anterior: qué va a llevar a la agenda de dirección y con qué fecha. No evalúa experimentos individuales | CHRO |
 | 82–90 | 55–60 | Siguiente compromiso | Cada participante escribe: "La siguiente persona con quien lo voy a probar es ___ (iniciales)." Encuesta breve de medición (ver plan de medición) | A |
 
-En la versión de 60 minutos, la CXO interviene 3' dentro del bloque "Del individuo al sistema".
+En la versión de 60 minutos, la CHRO interviene 3' dentro del bloque "Del individuo al sistema".
 
-**Rol de la CXO en el seguimiento:** par que también hizo el experimento; patrocinadora de las acciones sistémicas. No pide reportes individuales ni pregunta quién cumplió.
+**Rol de la CHRO en el seguimiento:** par que también hizo el experimento; patrocinadora de las acciones sistémicas. No pide reportes individuales ni pregunta quién cumplió.
 
 **Productos:** mapa de patrones fotografiado; lista de 3–5 acciones sistémicas con responsable y fecha; datos para el plan de medición (conversaciones realizadas, cambios reportados).
 

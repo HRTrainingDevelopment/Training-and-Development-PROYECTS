@@ -1,9 +1,9 @@
-# Actividades experienciales — Activity Pack (fuente)
+# Actividades experienciales — Paquete de actividades (fuente)
 
 **Liderar entre generaciones — De los estereotipos al liderazgo adaptativo**
 ArcelorMittal México · Gerencia de Capacitación y Desarrollo
 Autor: Agent 4 — Learning Analyst #2 (simulaciones, aprendizaje experiencial, reflexión)
-Versión: 1.0 · 28-sep-2026 · Fuente para el Activity Pack (PDF Carta, D-12)
+Versión: 1.0 · 28-sep-2026 · Fuente para el Paquete de actividades (PDF Carta, D-12)
 
 Este documento respeta el registro de decisiones (D-01 a D-20). Versión 1.1: incorpora Gate 1 (psicólogo), Gate 2 (diseño instruccional) y Gate 3 (Training Manager). El deck es la fuente de numeración y de textos en pantalla. En particular:
 
@@ -31,19 +31,19 @@ Formato: tarjeta de 10 × 15 cm, cartulina blanca mate, texto en Century Gothic 
 | # | Tarjeta | Colocación estereotípica habitual | Lo que la evidencia sugiere (línea de revelación) |
 |---|---|---|---|
 | 1 | "Quiero saber que mi trabajo tiene futuro." | Boomers / X | Estabilidad: entre las prioridades principales de todas las edades (Gallup 2022). |
-| 2 | "Necesito entender el porqué antes de comprometerme." | Z | Pedir contexto es típico de quien empieza, a cualquier edad; y una necesidad de todos ante decisiones que se sienten arbitrarias. |
+| 2 | "Necesito entender el porqué antes de comprometerme." | Z | Necesidad de todos, sobre todo ante decisiones que se sienten arbitrarias (lectura del equipo; no es un dato). |
 | 3 | "Quiero que reconozcan lo que aporto." | Millennials / Z | La necesidad es de todos; varía la frecuencia y la forma (Gallup/Workhuman 2022). |
-| 4 | "Quiero crecer y saber cuál es mi siguiente paso." | Millennials / Z | Los motivos de crecimiento son más altos al inicio de la carrera, en cualquier época (Kooij et al., 2011). |
-| 5 | "Prefiero hablar en persona que por mensaje." | Boomers / X | Para temas difíciles (feedback, carrera), la conversación en persona se prefiere en todas las edades. |
-| 6 | "Necesito flexibilidad para atender mi vida fuera del trabajo." | Millennials / Z | El equilibrio superó al salario como prioridad global en todas las edades (Randstad 2025). |
-| 7 | "Me importa que mi experiencia se tome en cuenta." | Boomers | Necesidad de todos; en expertos senior se vuelve crítica cuando la tecnología cambia su rol. |
+| 4 | "Quiero crecer y saber cuál es mi siguiente paso." | Millennials / Z | Los motivos de crecimiento son más altos en las personas jóvenes (patrón asociado a la edad; Kooij et al., 2011). |
+| 5 | "Prefiero hablar en persona que por mensaje." | Boomers / X | Necesidad de todos: no encontramos evidencia sólida de que la preferencia por hablar en persona dependa de la generación; depende más del tema y de la relación. |
+| 6 | "Necesito flexibilidad para atender mi vida fuera del trabajo." | Millennials / Z | En la muestra global de Randstad (26,000+ personas de todas las edades, 35 mercados), el equilibrio superó al salario por primera vez en 22 años: prioridad de la muestra completa, no de una generación (Randstad 2025). |
+| 7 | "Me importa que mi experiencia se tome en cuenta." | Boomers | Necesidad de todos. En expertos senior pesa más cuando la tecnología cambia su rol (hipótesis a verificar con la persona). |
 | 8 | "Quiero retroalimentación frecuente y concreta." | Z | Más alta en quien aprende un rol nuevo; 60 % del total la quiere diaria o semanal (Gallup). |
-| 9 | "Me cuesta adoptar una herramienta nueva si no veo para qué sirve." | Boomers | "Resistencia al cambio" no se sostiene en meta-análisis (Ng y Feldman, 2012); pesa la utilidad percibida. |
-| 10 | "Quiero un jefe que confíe en mí y no me supervise de cerca." | X | La autonomía es valorada en todas las edades; diferencias de pocos puntos. |
+| 9 | "Me cuesta adoptar una herramienta nueva si no veo para qué sirve." | Boomers | "Resistencia al cambio" no se sostiene en meta-análisis (Ng y Feldman, 2012). |
+| 10 | "Quiero un jefe que confíe en mí y no me supervise de cerca." | X | La autonomía es valorada en todas las edades; diferencias de pocos puntos (Randstad 2025). |
 | 11 | "Estoy dispuesto(a) a cambiar de empresa si no me desarrollan." | Millennials / Z | Los jóvenes siempre han rotado más (efecto edad); la lealtad sigue a la reciprocidad (Zhao et al., 2007). |
 | 12 | "Quiero que mi trabajo tenga sentido, no solo que salga." | Millennials | 70 % de los empleados dice que su propósito se define por su trabajo; la brecha mayor es jerárquica (McKinsey 2021). |
 | 13 | "Quiero ser tratado(a) con respeto, sin importar mi puesto." | Boomers / X | Necesidad humana universal. |
-| 14 | "Me motiva aprender algo nuevo." | Z | La edad no predice el desempeño en capacitación (Ng y Feldman, 2008). |
+| 14 | "Me motiva aprender algo nuevo." | Z | La edad no predice el desempeño en capacitación (Ng y Feldman, 2008). Los mayores participan algo menos, a menudo por falta de oferta o de utilidad percibida: vale la pena preguntar. |
 | 15 | "Valoro la seguridad económica para mi familia." | Boomers / X | El salario es la prioridad número uno para casi todos; la urgencia crece con la inseguridad financiera. |
 | 16 | "Quiero que me pregunten antes de decidir sobre mi trabajo." | Z | Necesidad de todos; en expertos senior coincide con la tarjeta 7. |
 
@@ -89,8 +89,8 @@ Cada integrante toma 3 tarjetas del sobre de su mesa.
 |---|---|
 | Un director dice "esto está manipulado, obvio todos quieren reconocimiento" | Validar: "Exacto. Y aun así, ¿dónde la colocamos?" La sala misma es la evidencia. No discutir el diseño |
 | Alguien se niega a colocar tarjetas ("no creo en generaciones") | Agradecer y pedirle que coloque sus tarjetas en el espacio central vacío. Usarlo en la revelación: "Hubo quien ya lo vio antes que nosotros" |
-| La CXO coloca tarjetas estereotípicas y se incomoda | Nunca se atribuyen tarjetas a personas; solo a mesas y, en debrief, al muro completo. Las tarjetas no llevan nombres |
-| Se agota el tiempo | Omitir el punto 1 del debrief y pasar directo a la pregunta clave |
+| La CHRO coloca tarjetas estereotípicas y se incomoda | Nunca se atribuyen tarjetas a personas; solo a mesas y, en cierre reflexivo, al muro completo. Las tarjetas no llevan nombres |
+| Se agota el tiempo | Omitir el punto 1 del cierre reflexivo y pasar directo a la pregunta clave |
 
 ---
 
@@ -98,13 +98,13 @@ Cada integrante toma 3 tarjetas del sobre de su mesa.
 
 ### 2.1 Propósito
 
-Desmontar estereotipos con evidencia **antes** de explicar contextos (arquitectura, decisión 4). Arco: **RECONOCIMIENTO**. El formato de voto simultáneo evita el efecto de conformidad (nadie espera a ver qué vota el director de mayor rango o la CXO).
+Desmontar estereotipos con evidencia **antes** de explicar contextos (arquitectura, decisión 4). Arco: **RECONOCIMIENTO**. El formato de voto simultáneo evita el efecto de conformidad (nadie espera a ver qué vota el director de mayor rango o la CHRO).
 
 ### 2.2 Las afirmaciones (fuente: deck)
 
 | # | Afirmación | Veredicto | Uso |
 |---|---|---|---|
-| 1 | "La Generación Z no tiene lealtad." | MITO | Todas las versiones |
+| 1 | "La Generación Z no tiene lealtad." | MITO | Todas las versiones (lámina "1 / 5"; en versiones cortas "1 / 4") |
 | 2 | "Los Boomers se resisten a la tecnología." | MITO | Todas las versiones |
 | — | "La gente ya no quiere trabajar." | MITO | **Reserva** (lámina oculta); evidencia en la guía para responder la objeción |
 | 3 | "Los jóvenes no quieren ser jefes." | DEPENDE | Todas las versiones |
@@ -137,10 +137,10 @@ Se evita rojo/verde (no juzgar la respuesta como correcta/incorrecta por color y
 |---|---|
 | 0:00–0:01 | A explica: "Tienen tres segundos para decidir. Cuando cuente tres, todos levantan su tarjeta al mismo tiempo. Nadie mira al vecino antes." |
 | 0:01–0:11 | Por afirmación (≈2 min): lectura y voto (≈60 s, incluye la distribución que anuncia B y una voz disidente) → revelación y una frase de A (≈40–60 s) |
-| 0:11–0:13 | Una creencia revisada: 1 minuto de escritura en el workbook y explicación de edad, época y cohorte (A, ≈45 s) |
+| 0:11–0:13 | Una creencia revisada: 1 minuto de escritura en el cuaderno y explicación de edad, época y cohorte (A, ≈45 s) |
 
 Reglas:
-- La CXO vota como cualquier participante y no se le pregunta en plenaria (D-13).
+- La CHRO vota como cualquier participante y no se le pregunta en plenaria (D-13).
 - A nunca pregunta a la misma mesa dos veces seguidas.
 - **Regla de corte:** si a la 1:05 no ha iniciado la afirmación 4, A la resume en una frase y pasa a la 5, que es obligatoria.
 - **No se registran votos** (G3-13): el dato no alimenta ninguna decisión.
@@ -160,14 +160,14 @@ Que los directores respondan a situaciones reales **como lo harían hoy**, antes
 | 0:00–0:03 | **Lectura (3').** Cada mesa recibe un caso distinto (Mesa 1 = A, Mesa 2 = B, etc.; con 5 mesas se omite el caso con menos relevancia para la sala, recomendado C o F según perfil). Lectura individual en silencio. B pide: "Subrayen la frase que más les molestó o les hizo ruido." |
 | 0:03–0:15 | **Trabajo en mesa (12') sobre hoja A3.** La mesa responde las 6 preguntas. Un integrante escribe (rol rotado: no el de mayor rango). A los 6' B anuncia "mitad del tiempo; si no han llegado a la pregunta 4, vayan a ella". A los 10' B anuncia "dos minutos: completen la pregunta 6". |
 | 0:15–0:24 | **Galería y plenaria comparativa (9').** Las hojas A3 se pegan en la pared en fila. Recorrido de 4' (cada mesa lee al menos dos hojas ajenas y deja una marca con punto adhesivo en "la respuesta de liderazgo que yo sí usaría" y un signo "?" en "el supuesto que yo cuestionaría"). Plenaria de 5' (ver 3.4). |
-| 0:24–0:26 | **Síntesis (2').** B: "Casi todas las mesas coincidieron en lo que NO se negocia. Donde diferimos fue en el cómo. Ese cómo tiene un nombre." → handoff a A para el Acto 9. |
+| 0:24–0:26 | **Síntesis (2').** B: "Casi todas las mesas coincidieron en lo que NO se negocia. Donde diferimos fue en el cómo. Ese cómo tiene un nombre." → relevo a A para el Acto 9. |
 
 Reglas:
 - **Un caso por mesa.** La mesa no elige; se asigna para evitar que todas escojan el más cómodo.
 - Si hay 6 mesas, se usan los 6 casos. Con 4 mesas, se usan A, B, D y E (máxima tensión con estándares no negociables).
 - La mesa debe llegar a **una sola respuesta de liderazgo** (pregunta 5), aunque registre disenso en la esquina de la hoja.
 - Está prohibido responder "depende" en la pregunta 5 sin decir de qué depende y qué haría primero.
-- La CXO trabaja en su mesa como par; no es la relatora.
+- La CHRO trabaja en su mesa como par; no es la relatora.
 
 ### 3.3 Hoja de respuesta A3 (horizontal)
 
@@ -179,7 +179,7 @@ Seis recuadros en cuadrícula 3 × 2:
 3. **Qué podría necesitar la persona.** No lo que pide: lo que podría estar detrás de lo que pide.
 4. **Qué resultado de negocio importa.** Seguridad, productividad, retención, transferencia de conocimiento, costo. ¿Cuál está en juego y cuánto?
 5. **Qué respuesta de liderazgo usarías.** Qué harías y dirías en la próxima conversación. Primer paso concreto.
-6. **¿Qué NO vas a negociar?** Lo que se mantiene igual, sin importar la persona (estándares, ética, seguridad, accountability, desempeño).
+6. **¿Qué NO vas a negociar?** Lo que se mantiene igual, sin importar la persona (estándares, ética, seguridad, rendición de cuentas, desempeño).
 
 Pie de hoja: "Personas distintas no necesitan estándares distintos. Pueden necesitar un liderazgo distinto." (se imprime ya, aunque la frase se retoma en el Acto 9: la ven sin que se les explique).
 
@@ -307,7 +307,7 @@ Para cada caso: reacciones iniciales probables, supuestos ocultos a hacer visibl
   Los supervisores veteranos, a su vez, podrían necesitar que se reconozca por qué la práctica actual existe.
 - **Respuesta adaptable:**
   - LEER: Héctor habla por separado con Karla y con dos supervisores veteranos; pregunta a los veteranos qué protege la entrega actual.
-  - ADAPTAR: con Karla, feedback directo sobre el mensaje (lo público se discute en persona) y reconocimiento del valor de la propuesta. Con los veteranos, explicar por qué estandarizar reduce variabilidad. Proponer un piloto co-diseñado: formato estándar + recorrido presencial obligatorio para LOTO.
+  - ADAPTAR: con Karla, retroalimentación directa sobre el mensaje (lo público se discute en persona) y reconocimiento del valor de la propuesta. Con los veteranos, explicar por qué estandarizar reduce variabilidad. Proponer un piloto co-diseñado: formato estándar + recorrido presencial obligatorio para LOTO.
   - ALINEAR: ligar el piloto a un indicador (pendientes no transferidos, incidentes de arranque de turno) y revisarlo en 30 días.
 - **No se negocia:** la verificación presencial de LOTO; el respeto en canales de comunicación del equipo; el estándar de mejora continua (no "congelar" propuestas por antigüedad).
 - **Pregunta de reto de B:** "¿Quién tenía razón? ¿Y qué habría pasado si Héctor solo hubiera escuchado a un lado?"
@@ -332,7 +332,7 @@ Para cada caso: reacciones iniciales probables, supuestos ocultos a hacer visibl
 - **Respuesta adaptable:**
   - LEER: Patricia le pregunta qué significaría para él ser tomado en cuenta; qué parte de su conocimiento cree que se está perdiendo.
   - ADAPTAR: darle un encargo formal: validar las variables de los modelos de defectos y documentar sus criterios en un catálogo de casos, en pareja con un ingeniero de analítica. Reconocimiento a través de decisiones (su firma en la validación), no de discursos.
-  - ALINEAR: vincular el encargo al objetivo de reducción de reclamaciones y al plan de sucesión del conocimiento antes de su retiro. Feedback directo y privado sobre el sarcasmo: "Tu criterio lo necesito; la forma en reuniones la tenemos que cambiar."
+  - ALINEAR: vincular el encargo al objetivo de reducción de reclamaciones y al plan de sucesión del conocimiento antes de su retiro. Retroalimentación directa y privado sobre el sarcasmo: "Tu criterio lo necesito; la forma en reuniones la tenemos que cambiar."
 - **No se negocia:** el respeto al equipo; el uso de datos en las decisiones de calidad; la transferencia de conocimiento como parte de su responsabilidad.
 - **Pregunta de reto de B:** "¿Qué diferencia hay entre reconocer a alguien y necesitarlo?"
 
@@ -366,7 +366,7 @@ Convertir el modelo en una herramienta aplicada a una persona real (hilo D-06) c
 
 | LO QUE ADAPTO (el cómo) | | | | | | | LO QUE NO ADAPTO (el qué) | | | | |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| Comunicación | Contexto (el porqué) | Feedback | Reconocimiento | Autonomía | Desarrollo | Frecuencia | Estándares | Ética | Seguridad | Accountability | Desempeño |
+| Comunicación | Contexto (el porqué) | Retroalimentación | Reconocimiento | Autonomía | Desarrollo | Frecuencia | Estándares | Ética | Seguridad | Rendición de cuentas | Desempeño |
 
 Encabezado del bloque izquierdo en color de acento; bloque derecho en navy sólido con texto blanco. La línea que los separa es gruesa: es la idea visual de la herramienta.
 
@@ -378,7 +378,7 @@ Encabezado del bloque izquierdo en color de acento; bloque derecho en navy sóli
 |---|---|
 | Comunicación | ¿Por qué canal y en qué tono me escucha mejor? ¿En persona, por escrito, breve, con detalle? |
 | Contexto (el porqué) | ¿Qué parte del porqué no le he explicado? ¿Qué decisión le parece arbitraria porque no conoce el contexto? |
-| Feedback | ¿Qué tan seguido y qué tan directo? ¿Prefiere recibirlo en el momento o en un espacio acordado? |
+| Retroalimentación | ¿Qué tan seguido y qué tan directo? ¿Prefiere recibirlo en el momento o en un espacio acordado? |
 | Reconocimiento | ¿Qué reconocimiento le importa de verdad: público, privado, un encargo, una decisión, visibilidad, compensación? |
 | Autonomía | ¿En qué puedo darle más margen de decisión? ¿Dónde necesita más estructura, al menos por ahora? |
 | Desarrollo | ¿Qué quiere aprender? ¿Qué conversación de carrera tengo pendiente con esta persona? |
@@ -391,7 +391,7 @@ Encabezado del bloque izquierdo en color de acento; bloque derecho en navy sóli
 | Estándares | ¿Qué estándar de calidad o de proceso le aplica exactamente igual que a los demás? |
 | Ética | ¿Hay algún tema de integridad que debo dejar claro sin matices? |
 | Seguridad | ¿Qué regla de seguridad es innegociable en su puesto? ¿La he expresado de forma explícita? |
-| Accountability | ¿De qué resultado es responsable y cómo le voy a dar seguimiento? |
+| Rendición de cuentas | ¿De qué resultado es responsable y cómo le voy a dar seguimiento? |
 | Desempeño | ¿Qué resultado espero, para cuándo y cómo lo vamos a medir? |
 
 En la columna "NO ADAPTO" el participante escribe **qué estándar se mantiene y cómo lo va a comunicar**, no una lista genérica. Un recuadro vacío en esa columna es una señal de alerta que el par debe señalar.
@@ -402,7 +402,7 @@ En la columna "NO ADAPTO" el participante escribe **qué estándar se mantiene y
 |---|---|
 | **Comunicación** | Conversación en persona, en el taller, no en la sala de juntas. Nunca corregirlo frente al equipo. Lenguaje técnico, no de "transformación digital". |
 | **Contexto (el porqué)** | Mostrarle su propio historial de fallas y explicarle cómo el predictivo usaría sus registros. Aclarar para qué se usan los datos y para qué no (no es evaluación individual). |
-| **Feedback** | Semanal, 10 minutos, sobre el avance de registro. Directo y concreto: número de órdenes registradas vs. meta. |
+| **Retroalimentación** | Semanal, 10 minutos, sobre el avance de registro. Directo y concreto: número de órdenes registradas vs. meta. |
 | **Reconocimiento** | Que su criterio defina qué variables se registran. Nombrarlo referente técnico del piloto. Reconocimiento a través de responsabilidad, no de discurso. |
 | **Autonomía** | Él decide cómo organizar la captura con los técnicos jóvenes durante el primer mes. |
 | **Desarrollo** | Formalizar su rol de formador de dos técnicos en diagnóstico por sonido y vibración. |
@@ -413,7 +413,7 @@ En la columna "NO ADAPTO" el participante escribe **qué estándar se mantiene y
 | **Estándares** | 100 % de órdenes de trabajo registradas en SAP PM en un plazo de seis semanas. |
 | **Ética** | Los registros reflejan lo que realmente se hizo; no se dictan intervenciones que otro firma. |
 | **Seguridad** | Todos los procedimientos de bloqueo y permisos de trabajo se registran y se cumplen sin excepción. |
-| **Accountability** | El registro de su área es su responsabilidad, aunque reciba apoyo en la captura. |
+| **Rendición de cuentas** | El registro de su área es su responsabilidad, aunque reciba apoyo en la captura. |
 | **Desempeño** | Se mantiene la meta de disponibilidad de equipo del área. |
 
 Frase para cerrar la conversación con Rogelio (ejemplo): "Tu experiencia es lo que más necesito en este sistema. El registro no está a discusión; cómo lo hacemos, sí."
@@ -434,7 +434,7 @@ El par no aconseja ni opina sobre la persona; solo pregunta. Si sobra tiempo, pu
 
 ### 4.6 Diseño imprimible (vertical, v1.1)
 
-- Página del workbook en **vertical** tamaño Carta: una fila por dimensión, con su pregunta guía en gris, y dos columnas para escribir: **Mi persona** (iniciales) y **Caso** (opcional).
+- Página del cuaderno en **vertical** tamaño Carta: una fila por dimensión, con su pregunta guía en gris, y dos columnas para escribir: **Mi persona** (iniciales) y **Caso** (opcional).
 - Bloque superior con encabezado coral **LO QUE ADAPTO · el cómo** (7 filas); bloque inferior con encabezado navy **LO QUE NO ADAPTO · el qué** (5 filas, fondo gris claro).
 - Pie: las dos preguntas del par y "La seguridad es innegociable" (D-04).
 - La **tarjeta de bolsillo unificada** reproduce los encabezados y LEER → ADAPTAR → ALINEAR.
@@ -450,7 +450,7 @@ Cambiar de lugar: ver al propio grupo desde los ojos de otro. Arco: **APROPIACI�
 ### 5.2 Reglas para formar parejas (D-15)
 
 1. **Criterio principal: diferencia de trayectoria autodeclarada.** B dice: "Busquen a alguien que haya empezado a trabajar en un contexto distinto al suyo: otra década, otra empresa, otra área, otro país. No tienen que decir su edad." **No se forma fila por años de experiencia.**
-2. Se evitan parejas jefe–colaborador directo (B ajusta discretamente). La CXO forma pareja o trío con personas que no le reportan.
+2. Se evitan parejas jefe–colaborador directo (B ajusta discretamente). La CHRO forma pareja o trío con personas que no le reportan.
 3. Si el número es impar, un trío; en el trío, una persona escucha y resume al final.
 4. Nadie habla "por su generación". B lo dice explícitamente: "Hablen desde su experiencia, no en nombre de nadie más."
 
@@ -470,10 +470,10 @@ Nota: en la tarjeta se usa "etapa de carrera" como formulación principal. B pue
 | Min | Qué ocurre |
 |---|---|
 | 0:00–0:02 | Formación de parejas por trayectoria distinta autodeclarada |
-| 0:02–0:05 | Persona 1 completa las 4 frases; persona 2 escucha sin interrumpir. **B entrega los sobres del pre-work en mano** (D-20) |
+| 0:02–0:05 | Persona 1 completa las 4 frases; persona 2 escucha sin interrumpir. **B entrega los sobres del trabajo previo en mano** (D-20) |
 | 0:05–0:08 | Persona 2 completa las 4 frases |
 | 0:08–0:09 | "Lo que me llevo de lo que dijiste es…" (30 s cada uno) |
-| 0:09–0:10 | Dos voluntarios comparten solo la frase 4. Handoff a A: "Parece que lo que queremos se parece más de lo que el Muro sugería." |
+| 0:09–0:10 | Dos voluntarios comparten solo la frase 4. Relevo a A: "Parece que lo que queremos se parece más de lo que el Muro sugería." |
 
 ### 5.5 Si la sala es homogénea en trayectoria
 
@@ -483,15 +483,15 @@ Se decide en T–7, con la lista de confirmados y sin consultar edades (G3-16). 
 - Al final, cada uno escribe la pregunta que le va a hacer a su persona. Esa pregunta es su LEER de la semana 1 del Experimento.
 - Frase de B: "Hoy imaginamos sus respuestas. La única forma de saber si acertamos es preguntar."
 
-## 6. Compromiso (Acto 12 · 11 min · lidera Facilitador A + CXO)
+## 6. Compromiso (Acto 12 · 11 min · lidera Facilitador A + CHRO)
 
 ### 6.1 Propósito
 
 Cerrar el hilo "Una persona" en una acción con fecha (7 días) y comparar la perspectiva de entrada con la de salida. Arco: **APROPIACIÓN**.
 
-### 6.2 Compromiso (página del workbook)
+### 6.2 Compromiso (página del cuaderno)
 
-El compromiso se escribe en el **workbook** (G3-20); no hay tarjeta autocopiable ni copia para los facilitadores (lámina 4, D-13). Quien quiera, lo fotografía con su propio teléfono.
+El compromiso se escribe en el **cuaderno** (G3-20); no hay tarjeta autocopiable ni copia para los facilitadores (lámina 4, D-13). Quien quiera, lo fotografía con su propio teléfono.
 
 > **DEJAR** — Algo que dejaré de hacer como líder (una conducta, no un rasgo).
 > **EMPEZAR** — Algo que empezaré a hacer (observable por mi equipo).
@@ -500,20 +500,20 @@ El compromiso se escribe en el **workbook** (G3-20); no hay tarjeta autocopiable
 
 Esa conversación es la **semana 1 del Experimento a 30 días**: una conversación para preguntar.
 
-### 6.3 Regreso al Diagnóstico y al sobre del pre-work
+### 6.3 Regreso al Diagnóstico y al sobre del trabajo previo
 
-- **Sobre (D-20):** B lo entrega en mano durante el Acto 11 (en 120 y 90 min, durante la Matriz), cerrado, con la hoja personal del pre-work y la tarjeta de bolsillo/Experimento. Quien no respondió encuentra una sola frase (P4) para contestar en 1 minuto. El sobre no se recoge; B hace barrido de sala al final y los sobres olvidados se destruyen el mismo día.
+- **Sobre (D-20):** B lo entrega en mano durante el Acto 11 (en 120 y 90 min, durante la Matriz), cerrado, con la hoja personal del trabajo previo y la tarjeta de bolsillo/Experimento. Quien no respondió encuentra una sola frase (P4) para contestar en 1 minuto. El sobre no se recoge; B hace barrido de sala al final y los sobres olvidados se destruyen el mismo día.
 - **Pregunta en lámina:** "¿Responderían hoy lo mismo?" y "¿Qué respuesta del diagnóstico necesitan usar más con su persona?" Sin plenaria.
 
 ### 6.4 Mecánica (11 min)
 
 | Min | Qué ocurre | Lidera |
 |---|---|---|
-| 0:00–0:02 | Sobre del pre-work y resultado del diagnóstico, en silencio | A |
-| 0:02–0:06 | Compromiso escrito en el workbook (4 min) | A |
+| 0:00–0:02 | Sobre del trabajo previo y resultado del diagnóstico, en silencio | A |
+| 0:02–0:06 | Compromiso escrito en el cuaderno (4 min) | A |
 | 0:06–0:08 | Encuesta de salida anónima por QR (2 min), dentro del horario | A · B verifica el QR |
 | 0:08–0:09 | "En siete días voy a…" al vecino, en una frase; A menciona la tarjeta del Experimento que está en el sobre | A |
-| 0:09–0:10 | **CXO (1 min):** su propio compromiso, sin evaluar a la sala ni resumir el taller (D-13) | CXO |
+| 0:09–0:10 | **CHRO (1 min):** su propio compromiso, sin evaluar a la sala ni resumir el taller (D-13) | CHRO |
 | 0:10–0:11 | La pregunta que reemplaza a la frase de pasillo (30 s) y frase ancla: "En una siderúrgica, la seguridad no se adapta. El liderazgo sí." (30 s) | A |
 
 No se aplaude al final ni se cierra con dinámica grupal.
@@ -524,7 +524,7 @@ No se aplaude al final ni se cierra con dinámica grupal.
 
 ### 7.1 Tarjeta de bolsillo unificada (10 × 15 cm, dos caras; G3-20)
 
-Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de la Matriz; reverso con el Experimento. Va dentro del sobre del pre-work.
+Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de la Matriz; reverso con el Experimento. Va dentro del sobre del trabajo previo.
 
 **Frente:**
 
@@ -533,12 +533,12 @@ Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de l
 > Inicio: ____ · Cierre: ____
 >
 > **LEER** — ¿Qué no sé de esta persona? ¿Qué voy a preguntar antes de concluir?
-> **ADAPTAR** — ¿Qué cambiaré en cómo me comunico, reconozco, doy feedback o autonomía?
+> **ADAPTAR** — ¿Qué cambiaré en cómo me comunico, reconozco, doy retroalimentación o autonomía?
 > **ALINEAR** — ¿Qué estándar y qué resultado mantengo igual, y cómo se lo digo?
 
 **Reverso:** las cinco columnas de la bitácora (ver 7.2) en formato abreviado y el recordatorio: "La seguridad y los estándares no se adaptan."
 
-### 7.2 Protocolo de una página (workbook)
+### 7.2 Protocolo de una página (cuaderno)
 
 **Paso 1 · Elegir (día 1).** Una sola persona, la misma del Acto 7 salvo que haya una razón fuerte para cambiarla. Criterio: alguien cuya conducta te cuesta entender o te activa (índice 3–4 del Diagnóstico), con quien tienes interacción al menos semanal.
 
@@ -565,7 +565,7 @@ Confidencialidad: la bitácora es del participante. Nunca se entrega ni se revis
 
 ### 7.3 Recordatorios de los facilitadores
 
-Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores. Máximo tres líneas; sin enlaces obligatorios.
+Canal: correo breve (o el canal que la CHRO defina). Firma de ambos facilitadores. Máximo tres líneas; sin enlaces obligatorios.
 
 | Día | Mensaje |
 |---|---|
@@ -579,7 +579,7 @@ Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores
 
 **Propósito:** consolidar la conducta, compartir patrones entre pares y convertir aprendizajes individuales en práctica del equipo directivo.
 
-**Formato:** presencial preferente (o virtual con salas de trabajo). Mismos participantes. Ambos facilitadores. La CXO asiste.
+**Formato:** presencial preferente (o virtual con salas de trabajo). Mismos participantes. Ambos facilitadores. La CHRO asiste.
 
 | Min (90') | Min (60') | Bloque | Qué ocurre | Lidera |
 |---|---|---|---|---|
@@ -587,12 +587,12 @@ Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores
 | 8–38 | 5–30 | Tríadas de aprendizaje | Tríadas de personas que no compartieron mesa. Cada persona tiene 8' (6' en versión corta): 3' cuenta (lo que supuso, lo que cambió, lo que pasó), 3' las otras dos preguntan, 2' cierra con "lo que haría distinto". Preguntas permitidas para quienes escuchan: "¿Qué te sorprendió?", "¿Qué harías si la persona reaccionara al revés?", "¿Qué estándar mantuviste?" | B |
 | 38–58 | 30–45 | Cosecha de patrones | Cada tríada escribe en tarjetas 2 patrones (uno por tarjeta): "Cuando hicimos ___, ocurrió ___." B agrupa en pared en tres columnas: **Lo que funcionó**, **Lo que no funcionó**, **Lo que nos sorprendió**. A nombra los patrones en voz alta y los conecta con LEER / ADAPTAR / ALINEAR | B + A |
 | 58–75 | 45–55 | Del individuo al sistema | Pregunta a mesas: "¿Qué práctica, política o costumbre de nuestra organización hace más difícil liderar así?" Cada mesa propone una acción concreta a nivel de área o de la dirección | A |
-| 75–82 | — | CXO | La CXO comparte su propio experimento (qué supuso, qué aprendió) y responde a las propuestas del bloque anterior: qué va a llevar a la agenda de dirección y con qué fecha. No evalúa experimentos individuales | CXO |
+| 75–82 | — | CHRO | La CHRO comparte su propio experimento (qué supuso, qué aprendió) y responde a las propuestas del bloque anterior: qué va a llevar a la agenda de dirección y con qué fecha. No evalúa experimentos individuales | CHRO |
 | 82–90 | 55–60 | Siguiente compromiso | Cada participante escribe: "La siguiente persona con quien lo voy a probar es ___ (iniciales)." Encuesta breve de medición (ver plan de medición) | A |
 
-En la versión de 60 minutos, la CXO interviene 3' dentro del bloque "Del individuo al sistema".
+En la versión de 60 minutos, la CHRO interviene 3' dentro del bloque "Del individuo al sistema".
 
-**Rol de la CXO en el seguimiento:** par que también hizo el experimento; patrocinadora de las acciones sistémicas. No pide reportes individuales ni pregunta quién cumplió.
+**Rol de la CHRO en el seguimiento:** par que también hizo el experimento; patrocinadora de las acciones sistémicas. No pide reportes individuales ni pregunta quién cumplió.
 
 **Productos:** mapa de patrones fotografiado; lista de 3–5 acciones sistémicas con responsable y fecha; datos para el plan de medición (conversaciones realizadas, cambios reportados).
 
@@ -600,25 +600,25 @@ En la versión de 60 minutos, la CXO interviene 3' dentro del bloque "Del indivi
 
 ## 8. Autoevaluación de calidad: riesgos de tono y cómo se corrigieron
 
-Filtro aplicado: ¿esto lo haría con gusto, sin sentirse tratado como estudiante, un director de planta de 55 años con 30 de experiencia, frente a su CXO y sus pares?
+Filtro aplicado: ¿esto lo haría con gusto, sin sentirse tratado como estudiante, un director de planta de 55 años con 30 de experiencia, frente a su CHRO y sus pares?
 
 | Riesgo detectado en el diseño | Por qué podría sentirse "no ejecutivo" | Corrección aplicada |
 |---|---|---|
 | Tarjetas del Muro de colores, con íconos o caricaturas generacionales | Infantiliza y refuerza el estereotipo que se quiere desmontar | Tarjetas blancas, tipografía corporativa, mismo gris para las 4 zonas (D-10). Sin ilustraciones |
-| Revelación del Muro como "¡los atrapamos!" | Humilla a la sala y genera defensa, sobre todo frente a la CXO | Ninguna tarjeta lleva nombre; se lee el muro completo. El facilitador normaliza: "Es cómo funciona el cerebro". Se valida al escéptico en lugar de discutirle |
+| Revelación del Muro como "¡los atrapamos!" | Humilla a la sala y genera defensa, sobre todo frente a la CHRO | Ninguna tarjeta lleva nombre; se lee el muro completo. El facilitador normaliza: "Es cómo funciona el cerebro". Se valida al escéptico en lugar de discutirle |
 | Revelaciones presentadas como verdades absolutas | Un director con criterio técnico detecta la exageración y descarta todo lo demás | Redacción prudente ("sugiere", "en términos generales"), marcadas `[verificar]`, y criterio de que la mayoría de Mito vs. Dato resuelva en DEPENDE |
 | Votación con tarjetas verde/rojo | Evoca examen escolar | Navy, blanco con borde y gris; voto simultáneo que protege del efecto de rango, no de "acertar" |
 | Casos donde el joven siempre tiene razón y el mayor está equivocado | Percepción de sesgo contra la experiencia; rechazo inmediato de la audiencia | Cada caso tiene un giro que da razón parcial a ambos lados (LOTO en Caso C, credibilidad de la cuadrilla en Caso A, desempeño de Rogelio en Caso B, conocimiento de Jesús en Caso E). Caso D rompe el estereotipo: la persona que pone límites tiene 41 años y lo hace por cuidado familiar |
 | Casos ambiguos o de oficina | Los directores de planta los perciben ajenos | Todos los casos tienen consecuencias de negocio explícitas (seguridad, auditoría, paro programado, reclamaciones de cliente, costo de reposición) y lenguaje de planta (LOTO, SAP PM, colada, entrega de turno) |
 | "Adaptarse" leído como "consentir" | Rechazo de la audiencia orientada a resultados | Pregunta 6 "¿Qué NO vas a negociar?" en cada caso; columna "LO QUE NO ADAPTO" en la Matriz; campo en la tarjeta de compromiso; frase final sobre seguridad |
 | Invertir el lente como "habla en nombre de tu generación" | Coloca a las personas como estereotipo viviente e incomoda a quien no se identifica con su cohorte | Parejas por años de experiencia, no por edad declarada; frases formuladas por etapa de carrera; instrucción explícita de hablar desde la propia experiencia |
-| Compartir en plenaria emocional o forzado | Exposición frente a pares y a la CXO | Plenarias breves y voluntarias; en el Acto 12 solo se comparte en par; la CXO no es la primera en compartir durante el taller y cierra con su propio compromiso, no con evaluación |
+| Compartir en plenaria emocional o forzado | Exposición frente a pares y a la CHRO | Plenarias breves y voluntarias; en el Acto 12 solo se comparte en par; la CHRO no es la primera en compartir durante el taller y cierra con su propio compromiso, no con evaluación |
 | Cierre con aplausos, dinámica o frase motivacional | Resta seriedad | Cierre con la frase ancla, la regla de seguridad y silencio breve |
 | Bitácora del experimento como tarea escolar revisada | Sensación de supervisión | Bitácora privada; la sesión de seguimiento comparte patrones, no identidades; recordatorios de tres líneas |
 | "Mi persona" identificable en materiales | Riesgo de confidencialidad en un equipo directivo pequeño | Solo iniciales (D-06); el participante decide si autoriza copia de su tarjeta |
 | Instrucciones de pie y en silencio (Muro) | Puede percibirse como dinámica de integración | Se justifica en la instrucción ("para no negociar la respuesta") y se permite quedarse de pie o sentarse al recorrer; el movimiento dura solo 4 minutos |
 
 Puntos que siguen abiertos para el orquestador:
-- (Resuelto: tarjetas y veredictos integrados con el Evidence Pack en la versión 1.1.)
+- (Resuelto: tarjetas y veredictos integrados con el Paquete de evidencia en la versión 1.1.)
 - Confirmar con AMMX si "SAP PM" y el "programa de ingenieros en formación" son las denominaciones internas correctas; si no, sustituir por el término local.
 - (Resuelto en D-15: no se forma fila por años de experiencia.)

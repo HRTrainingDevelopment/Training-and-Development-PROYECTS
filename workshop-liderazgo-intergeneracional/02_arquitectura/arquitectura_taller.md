@@ -1,7 +1,7 @@
 # Arquitectura del taller — versión 180 minutos
 
 **Liderar entre generaciones — De los estereotipos al liderazgo adaptativo**
-Audiencia: 16–30 directores y líderes senior de AMMX (idealmente 24, en 4–5 mesas de 5–6). Dos facilitadores (A y B). La CXO participa.
+Audiencia: 16–30 directores y líderes senior de AMMX (idealmente 24, en 4–5 mesas de 5–6). Dos facilitadores (A y B). La CHRO participa.
 
 ## Narrativa en una frase
 
@@ -17,13 +17,13 @@ Proporción calculada por Gate 2 sobre los 170 minutos en sala (sin receso), des
 |---|---|---|---|
 | ≈ 27 % | ≈ 21 % | ≈ 32 % | ≈ 20 % |
 
-La reflexión individual se completa fuera de la sala con el pre-work (≈5 min) y la bitácora del Experimento (5 min por semana). Ningún bloque conceptual excede 8 minutos. El tramo 1:20–1:44, conducido por A, incluye 2 min en pares, 90 s de escritura individual y 4 min en mesa.
+La reflexión individual se completa fuera de la sala con el trabajo previo (≈5 min) y la bitácora del Experimento (5 min por semana). Ningún bloque conceptual excede 8 minutos. El tramo 1:20–1:44, conducido por A, incluye 2 min en pares, 90 s de escritura individual y 4 min en mesa.
 
 ## Run of show resumido
 
 | Inicio | Dur. | Acto | Qué ocurre | Lidera | Arco |
 |---|---|---|---|---|---|
-| 0:00 | 8 | Apertura | CXO (2'): por qué importa · A: la frase que escuchamos en pasillos · acuerdos de conversación | CXO + A | Curiosidad |
+| 0:00 | 8 | Apertura | CHRO (2'): por qué importa · A: la frase que escuchamos en pasillos · acuerdos de conversación | CHRO + A | Curiosidad |
 | 0:08 | 20 | 1 · El espejo | Diagnóstico de Reacción del Líder (10 situaciones) · autoscore · pares · plenaria breve | B | Curiosidad |
 | 0:28 | 15 | 2 · La provocación | Fragmento de Sinek (≤5') · 4 preguntas en mesa · captura visible | A | Incomodidad |
 | 0:43 | 14 | 3 · El Muro Generacional | Colocar 16 tarjetas en primera persona en 4 zonas · revelación en 3 pasos · "¿generaciones o humanos?" | B | Incomodidad |
@@ -36,12 +36,12 @@ La reflexión individual se completa fuera de la sala con el pre-work (≈5 min)
 | 2:20 | 7 | 9 · Liderazgo adaptable | Respuesta rígida → respuesta adaptable · LEER → ADAPTAR → ALINEAR · re-lectura del caso en mesa | A | Práctica |
 | 2:27 | 12 | 10 · Matriz de Flexibilidad | Aplicar la matriz a "mi persona" (Acto 7) · validar con un par | B | Práctica |
 | 2:39 | 10 | 11 · Invertir el lente | Parejas por trayectoria distinta autodeclarada (D-15) · 4 frases · B entrega los sobres | B | Apropiación |
-| 2:49 | 11 | 12 · Compromiso | Regreso al diagnóstico y al pre-work · DEJAR / EMPEZAR / MANTENER · Una persona / una conversación · encuesta QR (2:55) · CXO 1' · cierre A | A + CXO | Apropiación |
+| 2:49 | 11 | 12 · Compromiso | Regreso al diagnóstico y al trabajo previo · DEJAR / EMPEZAR / MANTENER · Una persona / una conversación · encuesta QR (2:55) · CHRO 1' · cierre A | A + CHRO | Apropiación |
 | 3:00 | — | Fin | Tarjeta del Experimento a 30 días en el sobre | | |
 
 ## Justificación de decisiones de diseño
 
-1. **No empezar por generaciones.** Los primeros 28 minutos son sobre el participante (pre-work + diagnóstico). Las generaciones aparecen hasta el Acto 3 y se desmontan en el Acto 4, antes de explicar contextos en el Acto 5. Así el contexto se recibe como comprensión, no como etiqueta.
+1. **No empezar por generaciones.** Los primeros 28 minutos son sobre el participante (trabajo previo + diagnóstico). Las generaciones aparecen hasta el Acto 3 y se desmontan en el Acto 4, antes de explicar contextos en el Acto 5. Así el contexto se recibe como comprensión, no como etiqueta.
 2. **El video provoca, no enseña.** Se presenta como opinión de un divulgador, nunca como evidencia. Los facilitadores no lo explican; recogen reacciones visibles que se retoman en el Acto 5 ("¿cambió la gente o cambió el trato?").
 3. **El Muro produce la incomodidad productiva.** Los líderes descubren que colocaron necesidades humanas (estabilidad, crecimiento, reconocimiento) en una sola generación.
 4. **Mito vs. Dato va antes del contexto** para que la evidencia desarme los estereotipos antes de que el contexto pueda reforzarlos.
@@ -57,7 +57,7 @@ Los tres archivos de deck (180, 120, 90) se generan desde la misma fuente, con t
 
 | Inicio | Dur. | Acto | Ajuste |
 |---|---|---|---|
-| 0:00 | 5 | Apertura | CXO 1', A 4' |
+| 0:00 | 5 | Apertura | CHRO 1', A 4' |
 | 0:05 | 15 | 1 · Espejo | Diagnóstico de 8 situaciones (1 + 6 + 3), 4' en pares, Idea 1 en 1' |
 | 0:20 | 12 | 2 · Provocación | Video 4'; las 4 preguntas en mesa, captura breve |
 | 0:32 | 10 | 3 · Muro | 12 tarjetas; revelación en 3 pasos |
@@ -87,25 +87,25 @@ Los tres archivos de deck (180, 120, 90) se generan desde la misma fuente, con t
 | 1:07 | 10 | 10 · Matriz | 6' individual + 4' en par; B entrega los sobres |
 | 1:17 | 13 | 12 · Compromiso | Completo, con encuesta QR |
 
-Los Actos 3 y 11 y el protocolo de pares del Acto 7 se omiten. Hay que decirle a la CXO por escrito que la versión de 90 minutos cambia conciencia e intención, pero depende casi por completo del pre-work y del Experimento a 30 días para cambiar conducta. El pre-work y el Experimento se mantienen en todas las versiones.
+Los Actos 3 y 11 y el protocolo de pares del Acto 7 se omiten. Hay que decirle a la CHRO por escrito que la versión de 90 minutos cambia conciencia e intención, pero depende casi por completo del trabajo previo y del Experimento a 30 días para cambiar conducta. El trabajo previo y el Experimento se mantienen en todas las versiones.
 
-## Materiales por acto (resumen; detalle en el Activity Pack)
+## Materiales por acto (resumen; detalle en el Paquete de actividades)
 
 | Acto | Material |
 |---|---|
-| 0 | Pre-work (formulario digital); respuestas impresas por participante en sobre cerrado, entregado en mano durante el Acto 11 |
-| 1 | Workbook pp. Diagnóstico + hoja de puntuación |
+| 0 | Trabajo previo (formulario digital); respuestas impresas por participante en sobre cerrado, entregado en mano durante el Acto 11 |
+| 1 | Cuaderno pp. Diagnóstico + hoja de puntuación |
 | 2 | Video, tarjeta de mesa con las 4 preguntas, rotafolio "Lo que escuchamos" |
 | 3 | 4 pósters grises (Boomers, X, Millennials, Z), póster NECESIDADES HUMANAS, 16 tarjetas en primera persona por mesa, cinta azul |
 | 4 | Tarjetas de voto CIERTO / FALSO / DEPENDE (3 por participante) |
-| 5–6 | Workbook: mapa de contexto y mapa de motivadores |
-| 7 | Workbook: espejo del líder |
+| 5–6 | Cuaderno: mapa de contexto y mapa de motivadores |
+| 7 | Cuaderno: espejo del líder |
 | 8 | Tarjetas de caso (una por mesa), hoja de respuesta A3 por mesa |
-| 9–10 | Workbook: LEER → ADAPTAR → ALINEAR y Matriz; tarjeta de bolsillo |
-| 11 | Página del workbook "Invertir el lente" |
-| 12 | Página de compromiso del workbook; sobre con pre-work y tarjeta de bolsillo/Experimento (entregado en el Acto 11) |
+| 9–10 | Cuaderno: LEER → ADAPTAR → ALINEAR y Matriz; tarjeta de bolsillo |
+| 11 | Página del cuaderno "Invertir el lente" |
+| 12 | Página de compromiso del cuaderno; sobre con trabajo previo y tarjeta de bolsillo/Experimento (entregado en el Acto 11) |
 
 ## Holgura y mapa de láminas (Gate 3)
 
-- El contenido está diseñado para ≈170 minutos dentro de las 3 horas; el Run of Show incluye un acordeón de recortes predefinidos.
-- Tres archivos de deck: 180 (49 láminas visibles), 120 y 90 minutos (láminas ocultas según el mapa del Run of Show). Nunca se saltan láminas en vivo.
+- El contenido está diseñado para ≈170 minutos dentro de las 3 horas; el Guion minuto a minuto incluye un acordeón de recortes predefinidos.
+- Tres archivos de deck: 180 (49 láminas visibles), 120 y 90 minutos (láminas ocultas según el mapa del Guion minuto a minuto). Nunca se saltan láminas en vivo.

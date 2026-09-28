@@ -3,17 +3,18 @@
 const AM = require('./am_brand.js');
 const { C, F, T, rect, hline, vline, circle, gradientBand, logo, deck, SEQ_DECK } = AM;
 
-const NOTE_KEYS = ['PROPÓSITO', 'TIEMPO', 'GUION DEL FACILITADOR', 'PREGUNTA', 'RESPUESTA ESPERADA', 'TRANSICIÓN'];
-
-/** Notas del orador con la estructura obligatoria del brief (+ extras opcionales). */
+/** Notas del orador: estándar AMMX (CÓMO EXPLICARLA · PUNTOS A CERRAR · [POR CONFIRMAR])
+ *  con los seis campos obligatorios del brief dentro de cada bloque. */
 function notes(s, n) {
   if (!n) return;
-  const map = {
-    'PROPÓSITO': n.purpose, 'TIEMPO': n.time, 'GUION DEL FACILITADOR': n.script, 'PREGUNTA': n.question,
-    'RESPUESTA ESPERADA': n.expected, 'TRANSICIÓN': n.transition,
-  };
-  let txt = NOTE_KEYS.map((k) => `${k}\n${map[k] || '—'}`).join('\n\n');
-  if (n.extra) txt += `\n\n${n.extra}`;
+  const f = (k, v) => `${k}: ${v || '—'}`;
+  let extra = n.extra || '';
+  const por = [];
+  extra = extra.split('\n').filter((l) => { if (/POR CONFIRMAR/.test(l)) { por.push(l.replace(/^\[POR CONFIRMAR\]\s*/, '')); return false; } return true; }).join('\n');
+  let txt = 'CÓMO EXPLICARLA\n' + [f('PROPÓSITO', n.purpose), f('TIEMPO', n.time), f('GUION DEL FACILITADOR', n.script)].join('\n');
+  txt += '\n\nPUNTOS A CERRAR\n' + [f('PREGUNTA', n.question), f('RESPUESTA ESPERADA', n.expected), f('TRANSICIÓN', n.transition)].join('\n');
+  if (extra.trim()) txt += '\n\nNOTAS PARA LOS FACILITADORES\n' + extra.trim();
+  if (por.length) txt += '\n\n[POR CONFIRMAR]\n' + por.join('\n');
   s.addNotes(txt);
 }
 
@@ -41,7 +42,6 @@ function question(pres, o) {
   const dark = !!o.dark;
   s.background = dark ? { path: AM.asset('bg_navy.png') } : { color: C.white };
   eyebrowOnly(s, o, dark);
-  gradientBand(s, 0.6, 1.55, 1.1, 0.06);
   T(s, o.q, { x: 0.6, y: 1.8, w: o.w || 11.2, h: o.h || 2.9, font: F.deck, fontSize: o.size || 36, bold: true, color: dark ? C.white : C.navy, valign: 'top', lineSpacingMultiple: 1.05 });
   if (o.sub) T(s, o.sub, { x: 0.6, y: o.subY || 5.05, w: 10.5, h: 1.2, font: F.deck, fontSize: 15, color: dark ? 'D6D8EA' : C.slate, valign: 'top' });
   if (o.tag) { AM.pill(s, 0.6, 6.25, Math.max(1.6, 0.35 + o.tag.length * 0.085), 0.36, dark ? C.amber : C.coral, o.tag.toUpperCase(), { font: F.deck, fontSize: 9, charSpacing: 1.5 }); }
@@ -178,9 +178,9 @@ function model(pres, o) {
   o.blocks.forEach((b, i) => {
     const x = 0.6 + i * (w + gap);
     const col = [C.amber, C.coral, C.plum, C.violet][i];
-    rect(s, x, 1.8, w, 0.12, col);
-    T(s, b.name, { x, y: 2.05, w, h: 0.85, font: F.deck, fontSize: 34, bold: true, color: C.navy, valign: 'middle' });
-    T(s, b.verb, { x, y: 2.9, w, h: 0.5, font: F.deck, fontSize: 14, bold: true, color: col });
+    circle(s, x, 1.75, 0.46, col, i + 1, { font: F.deck, fontSize: 13 });
+    T(s, b.name, { x, y: 2.3, w, h: 0.7, font: F.deck, fontSize: 34, bold: true, color: C.navy, valign: 'middle' });
+    T(s, b.verb, { x, y: 2.98, w, h: 0.5, font: F.deck, fontSize: 14, bold: true, color: col });
     AM.op.bullets(s, x, 3.5, w - 0.1, 2.3, b.items, { fontSize: 12, color: C.navy, font: F.deck });
     if (b.question) T(s, b.question, { x, y: 5.8, w: w - 0.1, h: 0.75, font: F.deck, fontSize: 12, bold: true, color: C.slate, valign: 'top' });
   });
@@ -196,7 +196,7 @@ function tableSlide(pres, o) {
   return s;
 }
 
-/** Lista de preguntas (reflexión, debrief). */
+/** Lista de preguntas (reflexión, cierre reflexivo). */
 function questionList(pres, o) {
   const s = base(pres, o);
   const qs = o.questions, stp = Math.min(0.78, 4.6 / qs.length);
@@ -212,6 +212,13 @@ function questionList(pres, o) {
   return s;
 }
 
+/** Divisor de sección AMMX (decks > 15 láminas) con notas. */
+function divider(pres, o) {
+  const s = deck.divider(pres, { num: o.num, section: o.section, title: o.title, page: o.page });
+  notes(s, o.notes);
+  return s;
+}
+
 /** Cierre navy con frase ancla. */
 function anchor(pres, o) {
   const s = pres.addSlide();
@@ -219,11 +226,10 @@ function anchor(pres, o) {
   eyebrowOnly(s, o, true);
   T(s, o.line1, { x: 0.6, y: 1.9, w: 12, h: 1.4, font: F.deck, fontSize: 38, bold: true, color: C.white, valign: 'bottom' });
   T(s, o.line2, { x: 0.6, y: 3.35, w: 12, h: 1.4, font: F.deck, fontSize: 38, bold: true, color: C.amber, valign: 'top' });
-  gradientBand(s, 0.6, 5.0, 3.0, 0.07);
   if (o.sub) T(s, o.sub, { x: 0.6, y: 5.25, w: 11, h: 1.0, font: F.deck, fontSize: 15, color: 'D6D8EA' });
   footer(s, o, true);
   notes(s, o.notes);
   return s;
 }
 
-module.exports = { AM, notes, base, question, bigNumbers, activity, contrast, generation, vote, verdict, model, tableSlide, questionList, anchor };
+module.exports = { AM, notes, divider, base, question, bigNumbers, activity, contrast, generation, vote, verdict, model, tableSlide, questionList, anchor };

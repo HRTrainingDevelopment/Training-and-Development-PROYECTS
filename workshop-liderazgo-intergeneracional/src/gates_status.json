@@ -1,0 +1,44 @@
+[
+  {
+    "gate": "1 · Psicología organizacional",
+    "focus": "Estereotipos, sesgos, seguridad psicológica",
+    "result": "Cambios requeridos → aplicados",
+    "changes": "Muro en primera persona; parejas por trayectoria; acuerdos con la CHRO"
+  },
+  {
+    "gate": "2 · Diseño instruccional",
+    "focus": "Secuencia, tiempos, proporción, preguntas",
+    "result": "Cambios requeridos → aplicados",
+    "changes": "Tiempos realistas; versiones 120 y 90; preguntas menos obvias"
+  },
+  {
+    "gate": "3 · Training Manager",
+    "focus": "Operación, logística, privacidad",
+    "result": "Cambios requeridos → aplicados",
+    "changes": "Encuesta en horario; sobres; lista de materiales; tratamiento de datos"
+  },
+  {
+    "gate": "4 · Auditoría de evidencia",
+    "focus": "74 afirmaciones contra su fuente",
+    "result": "Cambios requeridos → aplicados",
+    "changes": "Antigüedad BLS 2026; cronología SICARTSA; matices de capacitación y Randstad"
+  },
+  {
+    "gate": "5 · Red team",
+    "focus": "Clichés, sesgos, momentos débiles",
+    "result": "Pendiente",
+    "changes": "—"
+  },
+  {
+    "gate": "6 · Simulación CHRO",
+    "focus": "Tono, relevancia, equilibrio",
+    "result": "Pendiente",
+    "changes": "—"
+  },
+  {
+    "gate": "7 · Usabilidad para facilitadores",
+    "focus": "¿Se puede impartir con estos materiales?",
+    "result": "Pendiente",
+    "changes": "—"
+  }
+]

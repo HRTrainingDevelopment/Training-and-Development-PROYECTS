@@ -1,5 +1,5 @@
 // Documentos derivados directamente de las fuentes validadas (sin reescritura manual):
-// 06 Evidence Pack · 08 Pre-work · 09 Experimento a 30 días · 04 Run of Show (md para PDF + XLSX)
+// 06 Paquete de evidencia · 08 Trabajo previo · 09 Experimento a 30 días · 04 Guion minuto a minuto (md para PDF + XLSX)
 const fs = require('fs');
 const path = require('path');
 const ExcelJS = require('exceljs');
@@ -9,39 +9,39 @@ const rd = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8');
 const between = (s, a, b) => { const i = s.indexOf(a); if (i < 0) throw new Error('No encuentro: ' + a); const j = b ? s.indexOf(b, i + a.length) : s.length; return s.slice(i, j < 0 ? s.length : j); };
 const demote = (md) => md.replace(/^### /gm, '#### ').replace(/^## /gm, '### ');
 
-// ── 06 Evidence Pack
+// ── 06 Paquete de evidencia
 const ev = rd('01_evidence/evidence_pack.md').replace(/^# .*\n/, '');
-fs.writeFileSync(path.join(DOCS, '06_Evidence_Pack.md'), `---
-title: Evidence Pack
+fs.writeFileSync(path.join(DOCS, '06_Paquete_de_Evidencia.md'), `---
+title: Paquete de evidencia
 eyebrow: Entregable 06 · Liderar entre generaciones
 sub: Qué sabemos, qué creemos saber y qué es mito sobre generaciones en el trabajo. Cada dato con fuente, año, muestra, geografía, URL e interpretación prudente.
-meta: <b>Para:</b> Facilitadores, CXO y equipo de Capacitación y Desarrollo<br>Fecha de corte: 28-sep-2026 · Confirmar cada cifra en su URL primaria antes de cada edición
-footer: Evidence Pack
-file: 06_Evidence_Pack
+meta: <b>Para:</b> Facilitadores, CHRO y equipo de Capacitación y Desarrollo<br>Fecha de corte: 28-sep-2026 · Confirmar cada cifra en su URL primaria antes de cada edición
+footer: Paquete de evidencia
+file: 06_Paquete_de_Evidencia
 ---
 <style>main table{font-size:7.4pt} main td,main th{padding:3pt 4pt} main a{font-size:7pt}</style>
 ${ev}`);
 
-// ── 08 Pre-work
+// ── 08 Trabajo previo
 const inst = rd('04_actividades/instrumentos_psicologicos.md');
-const pre = demote(between(inst, '## 1. PRE-WORK (Acto 0)', '## 2. DIAGNÓSTICO').replace('## 1. PRE-WORK (Acto 0)', ''));
-fs.writeFileSync(path.join(DOCS, '08_Pre-work.md'), `---
-title: Pre-work · 5 minutos
+const pre = demote(between(inst, '## 1. TRABAJO PREVIO (Acto 0)', '## 2. DIAGNÓSTICO').replace('## 1. TRABAJO PREVIO (Acto 0)', ''));
+fs.writeFileSync(path.join(DOCS, '08_Trabajo_Previo.md'), `---
+title: Trabajo previo · 5 minutos
 eyebrow: Entregable 08 · Liderar entre generaciones
 sub: Siete frases para completar antes de la sesión. Capturan reacciones instintivas sin decir qué se está explorando. El participante las recibe en un sobre cerrado en el Acto 12.
 meta: <b>Para:</b> Facilitadores A y B (responsables exclusivos del formulario y de los datos)<br>Enviar T–10 días · Cierre T–2 días · Eliminación de datos ≤ 30 días después de la sesión
-footer: Pre-work
-file: 08_Pre-work
+footer: Trabajo previo
+file: 08_Trabajo_Previo
 ---
 <div class="eyebrow">Acto 0 · Antes de la sala</div>
 
-# Pre-work: especificación, correo y formulario
+# Trabajo previo: especificación, correo y formulario
 
 <div class="panel"><div class="label">Resumen</div>
 
 - **Duración para el participante:** 5 minutos · 7 frases · escala "¿Qué tanto me incomoda?" 1–4.
 - **Qué no se dice:** el correo y el formulario no mencionan "generaciones", "edad" ni "estereotipos".
-- **Quién ve los datos:** solo los facilitadores. Ni la CXO, ni RH, ni jefes (D-13).
+- **Quién ve los datos:** solo los facilitadores. Ni la CHRO, ni RH, ni jefes (D-13).
 - **Qué regresa al participante:** sus propias respuestas impresas, en sobre cerrado, en el Acto 12.
 </div>
 
@@ -72,17 +72,17 @@ file: 09_Experimento_30_dias
 ${exp}
 `);
 
-// ── 04 Run of Show (PDF + XLSX)
+// ── 04 Guion minuto a minuto (PDF + XLSX)
 const ROS = require('./run_of_show.js');
-const HEAD = ['Inicio', 'Fin', 'Acto', 'Segmento', 'Qué ocurre', 'Facilitador A', 'Facilitador B', 'CXO', 'Láminas', 'Materiales', 'Arco', 'Alerta'];
+const HEAD = ['Inicio', 'Fin', 'Acto', 'Segmento', 'Qué ocurre', 'Facilitador A', 'Facilitador B', 'CHRO', 'Láminas', 'Materiales', 'Arco', 'Alerta'];
 const esc = (t) => String(t).replace(/\|/g, '/');
-fs.writeFileSync(path.join(DOCS, '04_Run_of_Show.md'), `---
-title: Run of Show
+fs.writeFileSync(path.join(DOCS, '04_Guion_Minuto_a_Minuto.md'), `---
+title: Guion minuto a minuto
 eyebrow: Entregable 04 · Liderar entre generaciones
-sub: Minuto a minuto de la versión de 180 minutos, con responsables, láminas, materiales y alertas. Versión editable en Excel (04_Run_of_Show.xlsx).
+sub: Minuto a minuto de la versión de 180 minutos, con responsables, láminas, materiales y alertas. Versión editable en Excel (04_Guion_Minuto_a_Minuto.xlsx).
 meta: <b>Para:</b> Facilitadores A y B · Logística<br>Versiones de 120 y 90 minutos al final del documento
-footer: Run of Show
-file: 04_Run_of_Show
+footer: Guion minuto a minuto
+file: 04_Guion_Minuto_a_Minuto
 ---
 <style>main table{font-size:6.9pt} main td,main th{padding:2.5pt 3.5pt}</style>
 <div class="eyebrow">Versión completa · 180 minutos</div>
@@ -105,9 +105,9 @@ ${ROS.acordeon.map((r) => '| ' + r.map(esc).join(' | ') + ' |').join('\n')}
 |---|---|---|
 ${ROS.mapa.map((r) => '| ' + r.map(esc).join(' | ') + ' |').join('\n')}
 
-### Rol de la CXO por momento
+### Rol de la CHRO por momento
 
-| Inicio | Acto | CXO |
+| Inicio | Acto | CHRO |
 |---|---|---|
 ${ROS.filter((r) => r[7] && r[7] !== '—').map((r) => `| ${r[0]} | ${esc(r[2])} | ${esc(r[7])} |`).join('\n')}
 
@@ -117,7 +117,7 @@ ${demote(between(rd('02_arquitectura/arquitectura_taller.md'), '## Versiones com
 (async () => {
   const wb = new ExcelJS.Workbook();
   wb.creator = 'Gerencia de Capacitación y Desarrollo · AMMX';
-  const ws = wb.addWorksheet('Run of Show 180', { views: [{ state: 'frozen', ySplit: 1 }] });
+  const ws = wb.addWorksheet('Guion 180', { views: [{ state: 'frozen', ySplit: 1 }] });
   ws.columns = HEAD.map((h, i) => ({ header: h, key: 'c' + i, width: [8, 8, 18, 26, 60, 28, 28, 26, 10, 26, 16, 34][i] }));
   ROS.forEach((r) => ws.addRow(r));
   ws.getRow(1).eachCell((c) => { c.font = { bold: true, color: { argb: 'FFFFFFFF' }, name: 'Century Gothic', size: 10 }; c.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FF1A1A2E' } }; c.alignment = { vertical: 'middle', wrapText: true }; });
@@ -137,6 +137,6 @@ ${demote(between(rd('02_arquitectura/arquitectura_taller.md'), '## Versiones com
     rows.forEach((r) => w.addRow(r));
     w.getRow(1).eachCell((c) => { c.font = { bold: true, color: { argb: 'FFFFFFFF' } }; c.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: 'FF1A1A2E' } }; });
   }
-  await wb.xlsx.writeFile(path.join(ROOT, 'entregables', '04_Run_of_Show.xlsx'));
+  await wb.xlsx.writeFile(path.join(ROOT, 'entregables', '04_Guion_Minuto_a_Minuto.xlsx'));
   console.log('Derivados OK');
 })();

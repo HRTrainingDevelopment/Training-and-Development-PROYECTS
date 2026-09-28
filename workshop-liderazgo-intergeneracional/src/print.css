@@ -1,19 +1,19 @@
-/* Sistema editorial de impresión — Estándar AMMX adaptado a documentos (Carta).
-   Tokens alineados con am_brand.js (AM.C). Poppins sustituye a Century Gothic en PDF
-   (geométrica, con pesos); Source Serif 4 se usa solo para preguntas y citas. */
+/* Sistema editorial de impresión — Estándar AMMX aplicado a documentos (Carta).
+   Tokens alineados con am_brand.js (AM.C). Century Gothic si está instalada; si no, URW Gothic incrustada
+   (equivalente geométrico). Source Serif 4 se usa solo para guiones y citas. Notas de fuente en Calibri/Carlito. */
 :root{
   --navy:#1A1A2E; --slate:#5A5A6E; --slate2:#8A8CA0; --panel:#F4F5F9; --rule:#D6D8EA;
   --coral:#FA4642; --amber:#FF8C47; --coral2:#FC6A45; --crim:#EA3450; --pink:#DB2259;
   --berry:#C8136C; --plum:#AA0582; --violet:#5B2A86; --steel:#3F6FD1; --peach:#FFE3CF;
   --white:#FFFFFF; --por:#FFF4D6; --porInk:#8A5A00;
-  --sans:'Poppins', 'Century Gothic', 'DejaVu Sans', sans-serif;
+  --sans:'Century Gothic', 'AM Gothic', 'Poppins', sans-serif;
   --serif:'Source Serif 4', Georgia, serif;
 }
 @page{ size:Letter; margin:0.7in 0.75in 0.75in 0.75in; }
 @page cover{ margin:0; }
 *{ box-sizing:border-box; }
 html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
-body{ margin:0; font-family:var(--sans); font-weight:400; color:var(--navy); font-size:9.6pt; line-height:1.5; }
+body{ margin:0; font-family:var(--sans); font-weight:400; color:var(--navy); font-size:9.8pt; line-height:1.5; }
 p{ margin:0 0 7pt; }
 strong{ font-weight:600; }
 em{ font-style:italic; }
@@ -85,7 +85,7 @@ table.compact td, table.compact th{ padding:3.5pt 5pt; }
 .muted{ color:var(--slate); } .small{ font-size:8pt; } .tiny{ font-size:7pt; color:var(--slate2); }
 .center{ text-align:center; }
 hr{ border:0; border-top:0.5pt solid var(--rule); margin:14pt 0; }
-.src{ font-size:7pt; color:var(--slate2); margin-top:4pt; }
+.src{ font-size:7.5pt; color:var(--slate2); margin-top:4pt; font-family:Calibri, Carlito, sans-serif; }
 
 /* ── Workbook: espacios de escritura */
 .lines{ margin:4pt 0 10pt; }
