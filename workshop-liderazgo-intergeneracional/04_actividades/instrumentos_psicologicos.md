@@ -43,7 +43,7 @@ No se puntúa ni se interpreta individualmente. En el Acto 12 el participante re
 >
 > **Sobre la confidencialidad de tus respuestas:**
 > - Solo nosotros, los dos facilitadores, tendremos acceso a ellas.
-> - No se compartirán con tu jefe, con la dirección, con Recursos Humanos ni con [Nombre de la CHRO]. No se usarán para ninguna evaluación de desempeño, potencial o sucesión.
+> - No se compartirán con tu jefe, con la dirección, con [Nombre de la CHRO] ni con ninguna otra persona o área de Recursos Humanos fuera de nosotros dos. No se usarán para ninguna evaluación de desempeño, potencial o sucesión.
 > - Durante el taller te entregaremos tus respuestas impresas en un **sobre cerrado a tu nombre**. Solo tú las verás.
 > - Podremos compartir en la sala **temas generales y anónimos** (por ejemplo, "varias personas mencionaron X"), nunca frases textuales ni nada que permita identificar a alguien.
 > - Las respuestas se eliminarán del sistema a más tardar 30 días después del taller.
@@ -457,7 +457,7 @@ Lectura con 8 situaciones: los totales suman 8; **rango** = columnas con 2 o má
 **Opción de pasar.** Cualquiera puede decir "Prefiero solo escuchar esta vez" y la pareja lo respeta sin preguntar por qué.
 
 **Versión 120 min:** 3 min de silencio (preguntas 2, 3, 5 y "Mi persona"); 2 min en pares (1 min cada uno, sin la ronda de "lo que escuché").
-**Versión 90 min:** 2 min de silencio **al inicio del Acto 10** (antes de la Matriz), solo preguntas 2 y 5 y "Mi persona" (G3-11).
+**Versión 90 min:** 2 min de silencio **antes del Laboratorio** (y por tanto antes de la Matriz), solo preguntas 2 y 5 y "Mi persona" (G2-11).
 
 ---
 
@@ -499,7 +499,7 @@ Los facilitadores reportan a la CHRO. Esto crea dos riesgos: que los participant
 - Datos de salud, familia, situación personal o cualquier dato sensible mencionado en pares.
 - Cualquier dato que pueda vincular una respuesta con una persona para fines de evaluación, sucesión o compensación.
 
-La tarjeta de compromiso la fotografía **solo su autor** con su propio teléfono, o se usa el formato autocopiable cuya copia queda en poder del participante. Si el Experimento a 30 días requiere seguimiento, este es voluntario y el participante decide qué comparte.
+El compromiso se escribe en el cuaderno; si alguien quiere conservarlo aparte, lo fotografía **solo su autor** con su propio teléfono (D-20). Si el Experimento a 30 días requiere seguimiento, este es voluntario y el participante decide qué comparte.
 
 ### 4.4 Cómo manejar a un participante que se pone a la defensiva
 

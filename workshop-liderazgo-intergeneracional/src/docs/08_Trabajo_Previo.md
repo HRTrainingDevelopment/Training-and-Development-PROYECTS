@@ -48,7 +48,7 @@ No se puntúa ni se interpreta individualmente. En el Acto 12 el participante re
 >
 > **Sobre la confidencialidad de tus respuestas:**
 > - Solo nosotros, los dos facilitadores, tendremos acceso a ellas.
-> - No se compartirán con tu jefe, con la dirección, con Recursos Humanos ni con [Nombre de la CHRO]. No se usarán para ninguna evaluación de desempeño, potencial o sucesión.
+> - No se compartirán con tu jefe, con la dirección, con [Nombre de la CHRO] ni con ninguna otra persona o área de Recursos Humanos fuera de nosotros dos. No se usarán para ninguna evaluación de desempeño, potencial o sucesión.
 > - Durante el taller te entregaremos tus respuestas impresas en un **sobre cerrado a tu nombre**. Solo tú las verás.
 > - Podremos compartir en la sala **temas generales y anónimos** (por ejemplo, "varias personas mencionaron X"), nunca frases textuales ni nada que permita identificar a alguien.
 > - Las respuestas se eliminarán del sistema a más tardar 30 días después del taller.

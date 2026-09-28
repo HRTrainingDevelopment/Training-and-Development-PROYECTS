@@ -115,7 +115,7 @@ La lección del bloque no es "acertar": casi todo depende, y las afirmaciones to
 
 ### 2.3 Diseño de la lámina (una por afirmación)
 
-- Eyebrow coral: "MITO VS. DATO · 1 DE 6".
+- Eyebrow coral: "MITO VS. DATO · 1 / 5 (versiones cortas: 1 / 4)".
 - Afirmación entre comillas, centrada, 44 pt, navy. Nada más en la lámina.
 - Lámina siguiente (revelación): veredicto en una palabra grande (CIERTO / FALSO / DEPENDE), una cifra grande o hallazgo en una línea, fuente abreviada en 12 pt al pie, y una pregunta de liderazgo en 20 pt ("¿Qué hago distinto si esto es DEPENDE?").
 
@@ -611,11 +611,11 @@ Filtro aplicado: ¿esto lo haría con gusto, sin sentirse tratado como estudiant
 | Casos donde el joven siempre tiene razón y el mayor está equivocado | Percepción de sesgo contra la experiencia; rechazo inmediato de la audiencia | Cada caso tiene un giro que da razón parcial a ambos lados (LOTO en Caso C, credibilidad de la cuadrilla en Caso A, desempeño de Rogelio en Caso B, conocimiento de Jesús en Caso E). Caso D rompe el estereotipo: la persona que pone límites tiene 41 años y lo hace por cuidado familiar |
 | Casos ambiguos o de oficina | Los directores de planta los perciben ajenos | Todos los casos tienen consecuencias de negocio explícitas (seguridad, auditoría, paro programado, reclamaciones de cliente, costo de reposición) y lenguaje de planta (LOTO, SAP PM, colada, entrega de turno) |
 | "Adaptarse" leído como "consentir" | Rechazo de la audiencia orientada a resultados | Pregunta 6 "¿Qué NO vas a negociar?" en cada caso; columna "LO QUE NO ADAPTO" en la Matriz; campo en la tarjeta de compromiso; frase final sobre seguridad |
-| Invertir el lente como "habla en nombre de tu generación" | Coloca a las personas como estereotipo viviente e incomoda a quien no se identifica con su cohorte | Parejas por años de experiencia, no por edad declarada; frases formuladas por etapa de carrera; instrucción explícita de hablar desde la propia experiencia |
+| Invertir el lente como "habla en nombre de tu generación" | Coloca a las personas como estereotipo viviente e incomoda a quien no se identifica con su cohorte | Parejas por trayectoria distinta autodeclarada, sin edad ni fila (D-15); frases formuladas por etapa de carrera; instrucción explícita de hablar desde la propia experiencia |
 | Compartir en plenaria emocional o forzado | Exposición frente a pares y a la CHRO | Plenarias breves y voluntarias; en el Acto 12 solo se comparte en par; la CHRO no es la primera en compartir durante el taller y cierra con su propio compromiso, no con evaluación |
 | Cierre con aplausos, dinámica o frase motivacional | Resta seriedad | Cierre con la frase ancla, la regla de seguridad y silencio breve |
 | Bitácora del experimento como tarea escolar revisada | Sensación de supervisión | Bitácora privada; la sesión de seguimiento comparte patrones, no identidades; recordatorios de tres líneas |
-| "Mi persona" identificable en materiales | Riesgo de confidencialidad en un equipo directivo pequeño | Solo iniciales (D-06); el participante decide si autoriza copia de su tarjeta |
+| "Mi persona" identificable en materiales | Riesgo de confidencialidad en un equipo directivo pequeño | Solo iniciales (D-06); el compromiso vive en el cuaderno y nadie recibe copia |
 | Instrucciones de pie y en silencio (Muro) | Puede percibirse como dinámica de integración | Se justifica en la instrucción ("para no negociar la respuesta") y se permite quedarse de pie o sentarse al recorrer; el movimiento dura solo 4 minutos |
 
 Puntos que siguen abiertos para el orquestador:

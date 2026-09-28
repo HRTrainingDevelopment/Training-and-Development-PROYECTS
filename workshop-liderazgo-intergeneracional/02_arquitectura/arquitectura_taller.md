@@ -108,4 +108,4 @@ Los Actos 3 y 11 y el protocolo de pares del Acto 7 se omiten. Hay que decirle a
 ## Holgura y mapa de láminas (Gate 3)
 
 - El contenido está diseñado para ≈170 minutos dentro de las 3 horas; el Guion minuto a minuto incluye un acordeón de recortes predefinidos.
-- Tres archivos de deck: 180 (49 láminas visibles), 120 y 90 minutos (láminas ocultas según el mapa del Guion minuto a minuto). Nunca se saltan láminas en vivo.
+- Tres archivos de deck: 180 (56 láminas visibles, con 5 divisores de sección), 120 (47) y 90 (40), con láminas ocultas según el mapa del guion minuto a minuto. Nunca se saltan láminas en vivo.

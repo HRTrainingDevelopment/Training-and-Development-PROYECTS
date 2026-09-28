@@ -33,7 +33,7 @@ const ANCHOR2 = 'Pueden necesitar un liderazgo distinto.';
   K.notes(cover, {
     purpose: 'Recibir a la sala. La lámina está en pantalla mientras los participantes llegan; no se presenta.',
     time: 'Previo al inicio y 0:00–0:02 (palabras de la CHRO).',
-    script: 'Sin guion. Los facilitadores saludan en la puerta y dirigen a cada persona a su mesa asignada (la CHRO en una mesa sin reportes directos, D-13). Cada lugar tiene el cuaderno cerrado y el sobre del trabajo previo cerrado.',
+    script: 'Sin guion. Los facilitadores saludan en la puerta y dirigen a cada persona a su mesa asignada (la CHRO en una mesa sin reportes directos, D-13). Cada lugar tiene el cuaderno cerrado. Los sobres del trabajo previo los guarda B y los entrega en mano durante el Acto 11 (D-20).',
     question: '—', expected: '—',
     transition: 'La CHRO abre con 2 minutos (D-09): por qué esta conversación importa al negocio y que participará como una directora más. Facilitador A la presenta en una línea.',
     extra: 'LIDERA: CHRO (2 min) → Facilitador A.\nPRINCIPIO RECTOR: Personas distintas no necesitan estándares distintos. Pueden necesitar un liderazgo distinto.\nGUÍA PARA LA CHRO (D-21): como titular de RH, el riesgo es que la sala lo lea como "otro programa de RH". Hablar de negocio (sucesión en posiciones críticas de turno, conocimiento que se jubila, seguridad, retención de talento temprano) y de su propio interés en la conversación; no anticipar conclusiones ni hablar de "las nuevas generaciones".\n[POR CONFIRMAR] Propuesta para aprobación de la CHRO: que un director de Operaciones respetado co-abra 1 minuto con ella.',
@@ -666,7 +666,7 @@ const ANCHOR2 = 'Pueden necesitar un liderazgo distinto.';
       question: 'Preguntas de reto de B por caso (Paquete de actividades §3.6). Ejemplos: Caso A: "Si Daniela tuviera 45 años y la misma trayectoria, ¿le habrían contestado igual?" Caso D: "¿Cuál de nuestras costumbres estamos defendiendo como si fuera un estándar?" Caso E: "¿Qué diferencia hay entre reconocer a alguien y necesitarlo?"',
       expected: 'Primeras reacciones de juicio o de DIRIGIR; al escribir supuestos, las respuestas se matizan. Casi ninguna mesa negocia la seguridad.',
       transition: 'B: "Peguen sus hojas en la pared. Galería."',
-      extra: 'LIDERA: B · A observa y anota qué mesa confundió "adaptar" con "conceder" y qué mesa confundió "firmeza" con "no escuchar" (se usa en el Acto 9).\nCON 4 MESAS: casos A, B, D y E. CON 5: omitir C o F según el perfil de la sala.\nLa CHRO trabaja en su mesa como par; no es la relatora.',
+      extra: 'LIDERA: B · A observa y anota qué mesa confundió "adaptar" con "conceder" y qué mesa confundió "firmeza" con "no escuchar" (se usa en el Acto 9).\nCON 4 MESAS: casos A, B, D y E. CON 5: se agrega el caso C (D-20).\nLa CHRO trabaja en su mesa como par; no es la relatora.',
     },
   });
 
@@ -907,7 +907,7 @@ const ANCHOR2 = 'Pueden necesitar un liderazgo distinto.';
   sQR.addShape('roundRect', { x: 0.6, y: 1.85, w: 3.2, h: 3.2, fill: { color: C.white }, line: { color: C.navy, width: 2 }, rectRadius: 0.08 });
   T(sQR, 'Código QR de la encuesta institucional', { x: 0.8, y: 2.9, w: 2.8, h: 1.0, font: F.deck, fontSize: 11, color: C.slate, align: 'center', valign: 'middle' });
   AM.porConfirmar(sQR, 0.6, 5.25, 3.2, 'Insertar QR en T–3', { font: F.deck });
-  T(sQR, 'Anónima. Tres minutos.', { x: 4.4, y: 1.9, w: 8, h: 0.6, font: F.deck, fontSize: 22, bold: true, color: C.navy });
+  T(sQR, 'Anónima. Dos minutos.', { x: 4.4, y: 1.9, w: 8, h: 0.6, font: F.deck, fontSize: 22, bold: true, color: C.navy });
   deck.bullets(sQR, 4.4, 2.7, 8.2, 2.2, ['Relevancia para los retos reales de su equipo.', 'Si el taller respetó su experiencia.', 'Si al releer su trabajo previo respondería lo mismo.', 'Qué cambiaría para la siguiente cohorte.'], { fontSize: 15 });
   const iyQR = deck.panel(sQR, 4.4, 5.0, 8.33, 1.6, 'En su sobre');
   T(sQR, 'La tarjeta del Experimento de Liderazgo a 30 días: una persona que les cueste leer; leer, adaptar, alinear.', { x: 4.7, y: iyQR - 0.05, w: 7.8, h: 0.7, font: F.deck, fontSize: 12.5, color: C.navy });

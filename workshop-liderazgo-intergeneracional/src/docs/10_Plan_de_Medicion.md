@@ -31,7 +31,7 @@ file: 10_Plan_de_Medicion
 | **3 · Conducta** | ¿Tuve conversaciones distintas? | Conversación de 7 días realizada; Experimento a 30 días completado (autorreporte); haber probado con su persona una forma distinta de liderar (autorreporte); frecuencia de conversaciones de retroalimentación y de carrera | Pulsos anónimos de 3 preguntas en días 7 y 30; cosecha de patrones en la sesión de seguimiento; pulso ascendente breve al equipo directo (opcional) | Días 7, 30, 35–45 y 90 | ≥ 75 % reporta la conversación de 7 días; ≥ 60 % reporta haber completado el Experimento |
 | **4 · Indicadores organizacionales potenciales** | ¿Se mueve algo en los equipos de estos directores? | Compromiso (ítems de relación con el jefe y desarrollo); rotación voluntaria de talento con < 3 años; rotación de expertos con > 20 años; movilidad interna; conversaciones de carrera registradas; efectividad del jefe | Encuesta anual/pulso de clima AMMX; HRIS; registros de desempeño y talento | 6 y 12 meses | Tendencia vs. línea base; sin meta causal |
 
-## Nivel 1 — Encuesta de salida (3 minutos, anónima, a las 2:55)
+## Nivel 1 — Encuesta de salida (2 minutos, anónima, a las 2:55; ítems 7–9 breves)
 
 | # | Pregunta | Escala |
 |---|---|---|
