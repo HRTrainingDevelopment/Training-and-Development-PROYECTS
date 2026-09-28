@@ -119,7 +119,7 @@ function contrast(pres, o) {
 function generation(pres, o) {
   const s = base(pres, o);
   // Columna izquierda: el mundo al que entraron
-  T(s, o.years, { x: 0.6, y: 1.55, w: 4, h: 0.35, font: F.deck, fontSize: 12, bold: true, color: C.slate2, charSpacing: 1.5 });
+  T(s, o.years, { x: 0.6, y: 1.5, w: 12, h: 0.35, font: F.deck, fontSize: 12, bold: true, color: C.slate2, charSpacing: 1.5 });
   const iy = deck.panel(s, 0.6, 1.95, 5.3, 4.75, 'El mundo al que entraron');
   AM.op.bullets(s, 0.9, iy, 4.75, 3.95, o.world, { fontSize: 11.5, color: C.navy, font: F.deck });
   const blocks = [

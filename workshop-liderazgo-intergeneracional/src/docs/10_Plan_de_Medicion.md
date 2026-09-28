@@ -26,23 +26,25 @@ file: 10_Plan_de_Medicion
 | Nivel | Pregunta | Qué medimos | Instrumento | Cuándo | Meta orientativa |
 |---|---|---|---|---|---|
 | **1 · Experiencia** | ¿La conversación valió el tiempo de un director? | Relevancia para mi realidad; calidad de la conversación entre pares; tono (respeto, no paternalismo); Net Promoter interno | Encuesta de salida de 5 preguntas (QR) | Al cierre | ≥ 4.3 / 5 en relevancia; ≤ 10 % que perciba tono "de RH aleccionador" |
-| **2 · Insight** | ¿Algo cambió en cómo interpreto? | Creencia cuestionada (texto libre); comparación pre-work vs. respuesta al cierre; capacidad de distinguir efecto edad / etapa / generación | Pregunta "¿Responderías hoy lo mismo?" (Acto 12) + 3 ítems de comprensión | Al cierre | ≥ 70 % identifica al menos una creencia que revisó |
+| **2 · Insight** | ¿Algo cambió en cómo interpreto? | Creencia cuestionada (texto libre); comparación pre-work vs. respuesta al cierre; capacidad de distinguir efecto edad / etapa / generación | Pregunta anónima "¿Responderías hoy lo mismo?" en la encuesta de salida + 3 ítems de comprensión | Al cierre | ≥ 70 % identifica al menos una creencia que revisó |
 | **3 · Conducta** | ¿Tuve conversaciones distintas? | Conversación de 7 días realizada; Experimento a 30 días completado; frecuencia de conversaciones de feedback y de carrera; uso del rango (más de una respuesta por defecto) | Registro del Experimento a 30 días; pulso de 3 preguntas a los 7 y 30 días; pulso ascendente breve al equipo directo (opcional) | Día 7, día 30, día 90 | ≥ 75 % reporta la conversación de 7 días; ≥ 60 % completa el Experimento |
 | **4 · Indicadores organizacionales potenciales** | ¿Se mueve algo en los equipos de estos directores? | Engagement (ítems de relación con el jefe y desarrollo); rotación voluntaria de talento con < 3 años; rotación de expertos con > 20 años; movilidad interna; conversaciones de carrera registradas; efectividad del jefe | Encuesta anual/pulso de clima AMMX; HRIS; registros de desempeño y talento | 6 y 12 meses | Tendencia vs. línea base; sin meta causal |
 
-## Nivel 1 — Encuesta de salida (2 minutos)
+## Nivel 1 — Encuesta de salida (2–3 minutos)
 
 | # | Pregunta | Escala |
 |---|---|---|
 | 1 | La conversación fue relevante para los retos reales de mi equipo. | 1–5 |
 | 2 | El taller respetó mi experiencia y no fue aleccionador. | 1–5 |
 | 3 | Salgo con algo concreto que voy a hacer en los próximos 7 días. | 1–5 |
-| 4 | ¿Qué momento fue el más valioso? | Selección: Diagnóstico · Video · Muro · Mito vs. Dato · Contextos · Espejo del líder · Laboratorio · Matriz · Invertir el lente · Compromiso |
-| 5 | ¿Qué cambiarías para la siguiente cohorte? | Abierta |
+| 4 | Al releer mi pre-work: respondería lo mismo / lo matizaría / respondería distinto. | Selección |
+| 5 | ¿Qué momento fue el más valioso? | Selección: Diagnóstico · Video · Muro · Mito vs. Dato · Contextos · Espejo del líder · Laboratorio · Matriz · Invertir el lente · Compromiso |
+| 6 | ¿Qué cambiarías para la siguiente cohorte? | Abierta |
 
 ## Nivel 2 — Insight
 
-- **Pre-work vs. cierre.** En el Acto 12, cada participante relee sus respuestas del pre-work (sobre cerrado) y marca en su tarjeta de compromiso: *respondería lo mismo / lo matizaría / respondería distinto*. Solo se captura el conteo agregado de esa marca, no el contenido.
+- **Pre-work vs. cierre.** En el Acto 12, cada participante relee en privado sus respuestas del pre-work (sobre cerrado, que no se recoge). La única captura es una pregunta **anónima** de la encuesta de salida: *respondería lo mismo / lo matizaría / respondería distinto*. Nunca se registra el contenido del pre-work ni se vincula con una persona.
+- **Fuera de medición (D-16).** Los resultados del Diagnóstico de Reacción del Líder no se recogen ni se usan como métrica, individual ni agregada.
 - **Tres ítems de comprensión** (en la encuesta de salida, opcionales):
   1. "Si una persona joven cambia de empleo con frecuencia, eso prueba que su generación es menos leal." *(Esperado: en desacuerdo — la edad y la etapa de vida explican buena parte de la rotación.)*
   2. "Adaptar mi liderazgo implica bajar el estándar para algunas personas." *(Esperado: en desacuerdo.)*

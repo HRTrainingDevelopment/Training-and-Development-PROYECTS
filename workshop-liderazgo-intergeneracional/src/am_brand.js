@@ -334,7 +334,7 @@ const deck = {
     if (tag) T(slide, tag.toUpperCase(), { x: x + (iconData || color ? 0.82 : 0.2), y: cy + 0.1, w: w - 1, h: 0.3, font: F.deck, fontSize: 8, bold: true, color: tagColor, charSpacing: 1.2, valign: 'middle' });
     cy += (iconData || color || tag) ? 0.65 : 0;
     if (title) { T(slide, title, { x: x + 0.2, y: cy, w: w - 0.4, h: 0.5, font: F.deck, fontSize: 12.5, bold: true, color: C.navy }); cy += 0.52; }
-    if (body) T(slide, body, { x: x + 0.2, y: cy, w: w - 0.4, h: y + h - cy - 0.15, font: F.deck, fontSize: 10, color: C.slate });
+    if (body) T(slide, body, { x: x + 0.2, y: cy, w: w - 0.4, h: y + h - cy - 0.15, font: F.deck, fontSize: 12, color: C.slate });
   },
 
   /** Cadena vertical numerada (principio / proceso) dentro de un panel. */

@@ -30,13 +30,13 @@ EXPERIENCIA → REFLEXIÓN → EVIDENCIA → PRÁCTICA → COMPROMISO
 | 0:43 | 14 | 3 · El Muro Generacional | Colocar 16 tarjetas en 4 zonas · revelación · "¿generaciones o humanos?" | B | Incomodidad |
 | 0:57 | 13 | 4 · Mito vs. Dato | 6 afirmaciones · voto CIERTO / FALSO / DEPENDE · evidencia | A | Reconocimiento |
 | 1:10 | 10 | Receso | | | |
-| 1:20 | 14 | 5 · Cuatro generaciones, cuatro contextos + El contrato cambió | 4 láminas de contexto (1 por generación) · contrato viejo vs. nuevo · "¿cambió la gente o cambió el trato?" · La lealtad se gana | A | Reconocimiento → Comprensión |
-| 1:34 | 10 | 6 · Lo que la gente realmente quiere | Matriz de motivadores · necesidades humanas comunes · pregunta a mesas | A → B | Comprensión |
+| 1:20 | 14 | 5 · Cuatro contextos de entrada al trabajo + El contrato cambió | 4 láminas de contexto (1 por generación) · contrato viejo vs. nuevo · "¿cambió la gente o cambió el trato?" · La lealtad se gana, en ambas direcciones | A | Reconocimiento → Comprensión |
+| 1:34 | 10 | 6 · Lo que la gente realmente quiere | Matriz de motivadores por necesidad (no por generación) · necesidades humanas comunes · pregunta a mesas | A → B | Comprensión |
 | 1:44 | 10 | 7 · El espejo del líder | 5' de silencio con 6 preguntas · 5' en pares | B | Comprensión |
 | 1:54 | 26 | 8 · Laboratorio de Colisiones | 6 casos industriales (1 por mesa) · 5 preguntas · galería de respuestas | B (A observa) | Práctica |
-| 2:20 | 7 | 9 · Liderazgo adaptable | Líder rígido → adaptable · LEER → ADAPTAR → ALINEAR · re-leer un caso | A | Práctica |
+| 2:20 | 7 | 9 · Liderazgo adaptable | Respuesta rígida → respuesta adaptable · LEER → ADAPTAR → ALINEAR · re-leer un caso | A | Práctica |
 | 2:27 | 12 | 10 · Matriz de Flexibilidad | Aplicar la matriz a "mi persona" (Acto 7) · validar con un par | B | Práctica |
-| 2:39 | 10 | 11 · Invertir el lente | Parejas intergeneracionales / de distinta etapa de carrera · 4 frases | B | Apropiación |
+| 2:39 | 10 | 11 · Invertir el lente | Parejas por trayectoria distinta autodeclarada (D-15) · 4 frases | B | Apropiación |
 | 2:49 | 11 | 12 · Compromiso | Regreso al diagnóstico y al pre-work · DEJAR / EMPEZAR / MANTENER · Una persona / una conversación · CXO 1' · cierre A | A + CXO | Apropiación |
 | 3:00 | — | Fin | Experimento a 30 días entregado | | |
 
@@ -79,7 +79,7 @@ Sin receso formal (pausa de pie de 2 min al minuto 52 si la sala lo requiere).
 | 0:00 | 4 | Apertura | |
 | 0:04 | 12 | 1 · Espejo | 8 situaciones; resultado individual |
 | 0:16 | 10 | 2 · Provocación | Video 3'; pregunta única: "¿cambió la gente o cambió el trato?" |
-| 0:26 | 10 | 4 · Mito vs. Dato | 4 afirmaciones (el Muro se omite; su revelación se integra aquí) |
+| 0:26 | 10 | 4 · Mito vs. Dato | 4 afirmaciones (el Muro se elimina por completo y no se menciona su lógica — D-14) |
 | 0:36 | 8 | 5+6 · Contexto y necesidades comunes | Contrato viejo vs. nuevo + necesidades humanas comunes |
 | 0:44 | 18 | 8 · Laboratorio | 2 casos (A y B) |
 | 1:02 | 5 | 9 · Modelo | |

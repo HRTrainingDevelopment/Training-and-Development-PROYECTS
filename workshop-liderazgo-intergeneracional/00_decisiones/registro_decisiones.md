@@ -104,6 +104,52 @@ Baby Boomers 1946–1964 · Generación X 1965–1980 · Millennials 1981–1996
 - Workbook, Guía, Activity Pack, Evidence Pack, CXO Brief, Pre-work, Experimento, Plan de Medición: PDF generado desde HTML (tamaño Carta), con fuentes en Markdown en el repositorio.
 - Run of Show: XLSX + PDF.
 
+## D-13 · Acuerdos escritos con la CXO (Gate 1, R7)
+
+Antes de la sesión, los facilitadores y la CXO firman los acuerdos de `04_actividades/instrumentos_psicologicos.md` §4.2:
+1. La CXO no solicita información individual (pre-work, diagnóstico, comentarios, asistencia). Los facilitadores pueden declinar cualquier solicitud citando este acuerdo.
+2. Responde el pre-work y el diagnóstico como una participante más.
+3. Participa como par: no cierra mesas, no evalúa y habla después de los demás en su mesa.
+4. Se sienta en una mesa sin reportes directos; nadie queda en pareja con su jefe directo.
+5. Cierra con un compromiso propio (1 min), idealmente reconociendo una respuesta por defecto suya.
+6. Sabe de antemano que el taller cuestionará algunas afirmaciones del video que ella proporcionó.
+7. Regla de sala: "Lo que se dice aquí se puede usar, pero no se atribuye."
+
+## D-14 · El Muro Generacional (Gate 1, R1–R2; integra Agent 2 + Agent 4)
+
+- **Tarjetas:** las 16 necesidades en primera persona propuestas por el psicólogo (§5.3), no frases en tercera persona con carga de déficit. En 120 min se usan las primeras 12.
+- **Logística:** un solo muro compartido, 4 pósters del mismo gris neutro, espacio vacío al centro, póster de revelación enrollado (Agent 4).
+- **Revelación en 3 pasos:** (1) "¿Dónde las pusieron?"; (2) "¿Quién en esta sala se reconoce en esta tarjeta?" (mano alzada, sin revelar edad); (3) dato. Cierre físico: las tarjetas salen de las zonas generacionales y se colocan en el póster central **NECESIDADES HUMANAS** (subtítulo: *que se expresan distinto según la etapa de vida, el contexto y la experiencia*).
+- **No se fotografía** el Muro armado.
+- **Versión 90 min:** el Muro se elimina por completo y su lógica no se menciona.
+
+## D-15 · Invertir el lente (Gate 1, R5)
+
+Las parejas se forman por **diferencia de trayectoria autodeclarada**, sin edad: "Busca a alguien que haya empezado a trabajar en un contexto distinto al tuyo (otra década, otra empresa, otra área, otro país)". No se forma una fila por años de experiencia. Las frases van en primera persona y en términos de etapa de carrera; nadie habla por un grupo. Participar es voluntario. Si la sala es homogénea, se usa la alternativa de Agent 4 §5.5.
+
+## D-16 · Diagnóstico = herramienta de reflexión (Gate 1, R6)
+
+Se presenta con el guion del §2.1 del psicólogo. El liderazgo situacional (Hersey y Blanchard) se cita como precedente con apoyo empírico limitado. No se hacen conteos de sala ni comparaciones, y el diagnóstico no se usa como métrica en el Plan de Medición.
+
+## D-17 · Acto 5 y Acto 6 (Gate 1, R3, R11, R13)
+
+- El Acto 5 se titula **"Cuatro contextos de entrada al trabajo"**. Usa hitos mexicanos y de la industria, y cada lámina lleva la leyenda *Esto describe el entorno, no a las personas*.
+- La matriz de motivadores (Acto 6) se organiza **por necesidad**; donde hay diferencias, se muestran como tendencias de edad o etapa de vida (Kooij et al., 2011), no por generación.
+- Frase de A: "Lo que digamos de quien no está en esta sala es una hipótesis que hay que verificar con esa persona."
+
+## D-18 · Video de Sinek (Gate 1, R4)
+
+- **Encuadre verbal:** "Es una opinión popular; algunas cosas les van a resonar y otras no tienen respaldo."
+- **Preguntas en mesa:** las 4 del brief. Como pregunta de seguimiento en plenaria: "¿Qué de lo que dice aplica a cualquier persona, de cualquier edad?"
+- **Mito vs. Dato:** incluye al menos una afirmación tomada del video.
+
+## D-19 · Lenguaje (Gate 1, R8–R10)
+
+- **Respuesta** rígida → **respuesta** adaptable, no tipos de líder. La lámina incluye un ejemplo donde la respuesta firme es la adaptable (seguridad).
+- *La lealtad se gana, en ambas direcciones.* La lealtad de quienes llevan décadas en AMMX se reconoce como un activo que la empresa también tiene que ganarse.
+- La pregunta 6 del Espejo del líder usa la versión balanceada: "¿Qué parte de mi forma de liderar se formó en condiciones que hoy cambiaron, y qué parte sigue siendo igual de valiosa?"
+- Glosario de lenguaje a evitar: §4.6 de los instrumentos.
+
 ---
 
 ## Bitácora de cambios
@@ -111,3 +157,4 @@ Baby Boomers 1946–1964 · Generación X 1965–1980 · Millennials 1981–1996
 | Fecha | Fase | Cambio |
 |---|---|---|
 | 28-sep-2026 | 0 | Registro creado; D-01 a D-12 |
+| 28-sep-2026 | 4 · Gate 1 | Psicólogo: CHANGES REQUIRED (1 crítico, 8 mayores). Se incorporan D-13 a D-19. Contradicciones Agent 2 / Agent 4 resueltas por el orquestador (tarjetas del Muro, parejas del Acto 11, fotografía del Muro) |
