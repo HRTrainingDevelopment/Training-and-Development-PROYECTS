@@ -37,7 +37,9 @@ No se puntúa ni se interpreta individualmente. En el Acto 12 el participante re
 > Antes de la sesión te pedimos **5 minutos** para completar 7 frases breves sobre situaciones cotidianas de liderazgo. Responde con lo primero que te venga a la mente: no hay respuestas correctas ni incorrectas, y no es una evaluación.
 >
 > **Enlace:** [URL del formulario]
-> **Fecha límite:** [fecha, 48 horas antes de la sesión]
+> **Fecha límite:** [fecha, 72 horas antes de la sesión]
+> **Aviso de privacidad:** [enlace al aviso de privacidad simplificado de AMMX para este formulario]
+> Si mencionas a alguien de tu equipo, usa solo sus iniciales.
 >
 > **Sobre la confidencialidad de tus respuestas:**
 > - Solo nosotros, los dos facilitadores, tendremos acceso a ellas.
@@ -84,14 +86,14 @@ Tiempo estimado: 7 × 40 s ≈ 5 min.
 
 | Aspecto | Regla |
 |---|---|
-| Plataforma | Microsoft Forms creado en la cuenta institucional de un facilitador; configuración "Solo personas de mi organización" y "Registrar nombre" (necesario para imprimir el sobre). |
+| Plataforma | Microsoft Forms creado en la cuenta institucional de un facilitador; configuración "Solo personas de mi organización". **Sin** "Registrar nombre": el nombre se pide una sola vez en P0 (necesario para el sobre). Aviso de privacidad en el encabezado del formulario (G3-14). |
 | Acceso | Exclusivo de Facilitador A y B. El formulario **no** se comparte como colaborador con nadie más, incluida la CXO. |
 | Datos que se recolectan | Nombre (para el sobre), 7 respuestas abiertas, 7 calificaciones. **Nada más** (ver 4.3). |
 | Impresión | Exportar a Excel → combinación de correspondencia en Word → una hoja por participante con sus 7 frases y respuestas. Imprimir en impresora con retención de trabajo o personal; nunca en impresora compartida sin supervisión. |
-| Sobre | Sobre cerrado, nombre en el exterior, entregado en mano por un facilitador al inicio del Acto 12. Los sobres de ausentes se destruyen el mismo día. |
-| Temas agregados | Un facilitador lee el conjunto y extrae 3–5 temas. Un tema se muestra solo si aparece en al menos 4 personas. Se parafrasea; nunca se citan frases textuales. La CXO ve exactamente lo mismo que la sala, en el mismo momento, y nada más. |
+| Sobre | Sobre cerrado, nombre en el exterior, con la hoja personal y la tarjeta de bolsillo/Experimento. B lo entrega en mano durante el Acto 11 (D-20). Barrido de sala al final; los sobres olvidados y los de ausentes se destruyen el mismo día. |
+| Temas agregados | Un facilitador lee el conjunto y extrae 3–5 temas. Un tema se muestra solo si aparece en al menos 5 personas. Se parafrasea; nunca se citan frases textuales. La CXO ve exactamente lo mismo que la sala, en el mismo momento, y nada más. |
 | Eliminación | Formulario, Excel y archivos de combinación se eliminan ≤30 días después de la sesión. Validar con el área de Privacidad/Jurídico de AMMX el aviso de privacidad aplicable (LFPDPPP). |
-| Quien no respondió | Recibe en el sobre la hoja con las 7 frases en blanco y 2 minutos al inicio del Acto 12 para responder P1, P2 y P4 "como lo habría hecho antes del taller". |
+| Quien no respondió | Recibe en el sobre una hoja con **una sola** frase (P4) para contestar en 1 minuto, "como lo habría hecho antes del taller" (D-20). |
 
 **Uso en Acto 12 (guion breve):** "Abran su sobre. Es lo que ustedes escribieron antes de entrar. No lo compartan todavía. Léanlo y marquen una frase: ¿la escribirían igual hoy? Si sí, ¿por qué? Si no, ¿qué cambió?". Compartir es opcional y solo en pares.
 
@@ -101,7 +103,7 @@ Microsoft Forms **no importa CSV de forma nativa** (su "Importación rápida" ac
 
 ```csv
 question_id,type,text,options
-P0,Texto corto,"Tu nombre (solo para entregarte tus respuestas en sobre cerrado)",
+P0,Texto corto,"Tu nombre (solo para entregarte tus respuestas en sobre cerrado). Aviso de privacidad: [enlace]. Si mencionas a alguien, usa iniciales.",
 P1a,Texto largo,"Cuando alguien que lleva 12 meses en la empresa me pide un ascenso, mi reacción instintiva es…",
 P1b,Elección,"¿Qué tanto me incomoda? (P1)","1 = Nada|2 = Poco|3 = Bastante|4 = Mucho"
 P2a,Texto largo,"Cuando una persona con muchos años en su puesto me dice ""aquí siempre se ha hecho así"", lo primero que pienso es…",
@@ -329,9 +331,9 @@ Regla: una columna con 1 no cuenta para el rango (puede ser una excepción); con
 
 **Lo que este resultado no dice.** No dice qué tipo de persona o de líder eres, no predice tu desempeño, no se relaciona con tu edad ni con tu generación, no es comparable con el de otra persona y puede cambiar mañana si lees las situaciones distinto. Es un espejo de hoy.
 
-**Conversación en pares (4 min, Acto 1).** Cada persona comparte **solo lo que quiera** de su resultado y responde: "¿Dónde en mi trabajo real reconozco esta respuesta por defecto?". El que escucha pregunta; no interpreta.
+**Conversación en pares (5 min, Acto 1).** Cada persona comparte **solo lo que quiera** de su resultado y responde: "¿Dónde en mi trabajo real reconozco esta respuesta por defecto?". El que escucha pregunta; no interpreta.
 
-**Plenaria breve (5 min).** Pregunta única: "¿Qué les sorprendió?". Voluntaria. **Prohibido** pedir manos levantadas por estilo, hacer conteos de sala, o relacionar resultados con edad, antigüedad o área.
+**Plenaria breve (2 min).** Pregunta única: "¿Qué les sorprendió?". Voluntaria. **Prohibido** pedir manos levantadas por estilo, hacer conteos de sala, o relacionar resultados con edad, antigüedad o área.
 
 ### 2.8 Textos de interpretación (una página por respuesta)
 
@@ -455,7 +457,7 @@ Lectura con 8 situaciones: los totales suman 8; **rango** = columnas con 2 o má
 **Opción de pasar.** Cualquiera puede decir "Prefiero solo escuchar esta vez" y la pareja lo respeta sin preguntar por qué.
 
 **Versión 120 min:** 3 min de silencio (preguntas 2, 3, 5 y "Mi persona"); 2 min en pares (1 min cada uno, sin la ronda de "lo que escuché").
-**Versión 90 min:** 2 min de silencio dentro del Acto 12, solo preguntas 2 y 5 y "Mi persona".
+**Versión 90 min:** 2 min de silencio **al inicio del Acto 10** (antes de la Matriz), solo preguntas 2 y 5 y "Mi persona" (G3-11).
 
 ---
 

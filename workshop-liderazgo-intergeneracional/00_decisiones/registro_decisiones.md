@@ -114,6 +114,9 @@ Antes de la sesión, los facilitadores y la CXO firman los acuerdos de `04_activ
 5. Cierra con un compromiso propio (1 min), idealmente reconociendo una respuesta por defecto suya.
 6. Sabe de antemano que el taller cuestionará algunas afirmaciones del video que ella proporcionó.
 7. Regla de sala: "Lo que se dice aquí se puede usar, pero no se atribuye."
+8. **Custodio de datos (Gate 3, G3-15):** cualquier solicitud de información individual se turna a la jefatura de RH o a Privacidad, no la resuelven los facilitadores.
+9. **Asistencia (Gate 3, G3-26):** la asistencia se registra solo con fines administrativos de capacitación (LMS/constancias); no es dato de evaluación.
+10. **Acomodo:** si no existe una mesa sin reportes directos, la CXO se sienta en la de menos reportes; en pares forma trío con dos personas que no le reportan. Acuerdos firmados en T–14, **antes** del envío del pre-work.
 
 ## D-14 · El Muro Generacional (Gate 1, R1–R2; integra Agent 2 + Agent 4)
 
@@ -143,6 +146,17 @@ Se presenta con el guion del §2.1 del psicólogo. El liderazgo situacional (Her
 - **Preguntas en mesa:** las 4 del brief. Como pregunta de seguimiento en plenaria: "¿Qué de lo que dice aplica a cualquier persona, de cualquier edad?"
 - **Mito vs. Dato:** incluye al menos una afirmación tomada del video.
 
+## D-20 · Operación del día (Gate 3)
+
+- **Sobre del pre-work:** B lo entrega en mano durante el Acto 11 (180 min) o durante la Matriz (120 min), cerrado, con la hoja personal y la tarjeta de bolsillo/Experimento. Quien no respondió encuentra una sola frase (P4) para contestar en 1 min. Barrido de sala al final; los sobres olvidados se destruyen el mismo día.
+- **Encuesta de salida:** a las 2:55, antes del compromiso de la CXO y del cierre; la sesión termina en la frase ancla.
+- **Holgura:** contenido diseñado para ≈170 min dentro de 3 h; acordeón de recortes predefinido (Run of Show). Nunca se recortan: el silencio del Acto 7, la columna "no adapto", el compromiso escrito, el minuto de la CXO, la frase ancla y la seguridad.
+- **Mito vs. Dato:** no se cuentan votos para medición. Veredicto de "reconocimiento constante" = DEPENDE (solo existen tres opciones de voto).
+- **Materiales eliminados (G3-20):** tarjetas-pregunta individuales del video, tarjeta "Invertir el lente" y tarjeta de compromiso autocopiable. El compromiso vive en el workbook; tarjeta de bolsillo y Experimento se unifican.
+- **Tarjetas del Muro sin número de mesa** (G3-21).
+- **Tres archivos de deck:** 180, 120 y 90 minutos, con láminas ocultas según el mapa de Gate 3 §3. Nunca se saltan láminas en vivo.
+- **Asignación de casos:** 4 mesas = A, B, D, E · 5 mesas = + C · 120 min = A, B, D · 90 min = A, B. Seis preguntas en todos los documentos.
+
 ## D-19 · Lenguaje (Gate 1, R8–R10)
 
 - **Respuesta** rígida → **respuesta** adaptable, no tipos de líder. La lámina incluye un ejemplo donde la respuesta firme es la adaptable (seguridad).
@@ -158,3 +172,4 @@ Se presenta con el guion del §2.1 del psicólogo. El liderazgo situacional (Her
 |---|---|---|
 | 28-sep-2026 | 0 | Registro creado; D-01 a D-12 |
 | 28-sep-2026 | 4 · Gate 1 | Psicólogo: CHANGES REQUIRED (1 crítico, 8 mayores). Se incorporan D-13 a D-19. Contradicciones Agent 2 / Agent 4 resueltas por el orquestador (tarjetas del Muro, parejas del Acto 11, fotografía del Muro) |
+| 28-sep-2026 | 7 · Gate 3 | Training Manager: CHANGES REQUIRED (5 críticos, 13 mayores). Se incorporan D-13.8–10 y D-20; correcciones aplicadas a medición, run of show, activity pack, workbook, deck y fuentes |

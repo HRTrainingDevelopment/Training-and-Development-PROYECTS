@@ -97,8 +97,7 @@ const ctx = [
   ['Generación Z · entraron ≈2015–hoy', 'Pandemia 2020; reforma de subcontratación 2021; T-MEC y nearshoring; IA generativa; informalidad cercana a 55 %.', 'Que no aguantan el trabajo de planta.'],
 ];
 
-const myths = ['La Generación Z no tiene lealtad.', 'Los Boomers se resisten a la tecnología.', 'La gente ya no quiere trabajar.', 'Los jóvenes no quieren ser jefes.', 'Los jóvenes necesitan reconocimiento constante.', 'Lo quieren todo ya.'];
-const verdicts = ['MITO · los jóvenes siempre han rotado más; la lealtad sigue a la reciprocidad.', 'MITO · solo 1 de 6 estereotipos sobre trabajadores mayores se sostiene.', 'MITO · México trabaja más horas que cualquier país de la OCDE; lo bajo es el compromiso.', 'DEPENDE · 6 % lo tiene como meta hoy; 76 % se interesa en liderazgo senior algún día.', 'PARCIALMENTE CIERTO · varía la frecuencia; la necesidad es de todos.', 'DEPENDE · los motivos de crecimiento son más altos al inicio de la carrera, en cualquier época.'];
+const myths = ['La Generación Z no tiene lealtad.', 'Los Boomers se resisten a la tecnología.', 'Los jóvenes no quieren ser jefes.', 'Los jóvenes necesitan reconocimiento constante.', 'Lo quieren todo ya.'];
 
 const flexCols = [['Comunicación', '¿Canal y tono en que me escucha mejor?'], ['Contexto (el porqué)', '¿Qué parte del porqué no le he explicado?'], ['Feedback', '¿Qué tan seguido y qué tan directo?'], ['Reconocimiento', '¿Qué reconocimiento le importa de verdad?'], ['Autonomía', '¿Dónde más margen? ¿Dónde más estructura?'], ['Desarrollo', '¿Qué quiere aprender? ¿Qué conversación de carrera debo?'], ['Frecuencia', '¿Cada cuánto necesita contacto conmigo?']];
 const flexKeep = [['Estándares', '¿Qué estándar le aplica igual que a todos?'], ['Ética', '¿Qué tema de integridad dejo claro?'], ['Seguridad', '¿Qué regla es innegociable en su puesto?'], ['Accountability', '¿De qué resultado responde y cómo doy seguimiento?'], ['Desempeño', '¿Qué espero, para cuándo y cómo se mide?']];
@@ -169,8 +168,9 @@ ${box('La respuesta que menos uso y en qué situación me haría falta', '', 2)}
 
 <section class="page">
 ${head('Actos 2 a 4 · Provocación, Muro y evidencia', 'Lo que creía y lo que dice la evidencia', 'Anota tu voto antes de ver la evidencia y, después, lo que te llevas.')}
-<table class="mv"><tr><th style="width:34%">Afirmación</th><th style="width:10%">Mi voto (C / F / D)</th><th style="width:30%">Lo que dice la evidencia</th><th>Lo que me llevo</th></tr>
-${myths.map((m, i) => `<tr><td>“${m}”</td><td></td><td class="small" style="font-weight:400">${verdicts[i]}</td><td></td></tr>`).join('')}</table>
+<table class="mv"><tr><th style="width:34%">Afirmación</th><th style="width:10%">Mi voto (C / F / D)</th><th style="width:30%">Lo que dice la evidencia (lo anoto yo)</th><th>Lo que me llevo</th></tr>
+${myths.map((m) => `<tr><td>“${m}”</td><td></td><td></td><td></td></tr>`).join('')}</table>
+<p class="tiny">En versiones cortas se usan cuatro afirmaciones. La hoja resumen con los veredictos y sus fuentes se entrega al final de la sesión.</p>
 <h2>La generación es un lente, no un diagnóstico</h2>
 <div class="grid3">
 <div class="panel"><div class="label">Edad</div><p>La etapa de vida. A los 25 casi todos queremos crecer rápido y cambiar de empleo.</p></div>

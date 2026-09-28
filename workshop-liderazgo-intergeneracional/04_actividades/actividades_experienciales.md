@@ -5,7 +5,7 @@ ArcelorMittal México · Gerencia de Capacitación y Desarrollo
 Autor: Agent 4 — Learning Analyst #2 (simulaciones, aprendizaje experiencial, reflexión)
 Versión: 1.0 · 28-sep-2026 · Fuente para el Activity Pack (PDF Carta, D-12)
 
-Este documento respeta el registro de decisiones (D-01 a D-12). En particular:
+Este documento respeta el registro de decisiones (D-01 a D-20). Versión 1.1: incorpora Gate 1 (psicólogo), Gate 2 (diseño instruccional) y Gate 3 (Training Manager). El deck es la fuente de numeración y de textos en pantalla. En particular:
 
 - **Nombres oficiales (D-02):** El Muro Generacional, Mito vs. Dato, Laboratorio de Colisiones, LEER → ADAPTAR → ALINEAR, Matriz de Flexibilidad del Liderazgo, Invertir el lente, Experimento de Liderazgo a 30 días.
 - **Lo que se adapta y lo que no (D-04):** toda actividad de práctica separa explícitamente ambas columnas. La seguridad aparece como innegociable en cada caso industrial.
@@ -24,92 +24,64 @@ Los casos del Laboratorio son **ficticios**, construidos para el taller; cualqui
 
 Hacer visible, sin sermón, que los directores asignan necesidades humanas a una sola generación. La incomodidad la produce la propia sala al ver su muro, no el facilitador. Arco emocional: **INCOMODIDAD** (D-07).
 
-### 1.2 Las 16 tarjetas
+### 1.2 Las 16 tarjetas (D-14: primera persona, sin carga de déficit)
 
-Formato: tarjeta de 10 × 15 cm, cartulina blanca mate, texto en Century Gothic negrita 40 pt, color navy. En la esquina inferior derecha, número de mesa (M1–M5) en 10 pt gris, para poder leer después qué mesa colocó qué. **Al reverso no se imprime nada** (la revelación la hace el facilitador, no la tarjeta).
+Formato: tarjeta de 10 × 15 cm, cartulina blanca mate, texto en Century Gothic negrita, color navy, con adhesivo removible ya aplicado. **Sin número de mesa** (G3-21): los sets se distinguen solo por el sobre de mesa. En la versión de 120 minutos se usan las tarjetas 1 a 12.
 
-| # | Tarjeta | Colocación estereotípica habitual | Revelación (lo que la evidencia sugiere en términos generales) | Banda de destino |
-|---|---|---|---|---|
-| 1 | **Busca estabilidad** | Boomers / X | La seguridad laboral aparece como prioridad alta en todas las cohortes; en contextos de incertidumbre económica, las cohortes jóvenes la valoran tanto o más. `[verificar]` | Necesidades humanas |
-| 2 | **Necesita reconocimiento** | Millennials / Z | Sentirse valorado es un motivador consistente en todas las edades; lo que varía es la forma preferida (público, privado, económico, de desarrollo). `[verificar]` | Necesidades humanas |
-| 3 | **Valora la flexibilidad** | Millennials / Z | La preferencia por flexibilidad es amplia en todas las cohortes; en personas mayores se asocia a cuidado de familiares o transición al retiro. `[verificar]` | Necesidades humanas |
-| 4 | **Quiere trabajo con sentido** | Millennials | El deseo de un trabajo significativo es transversal; los estudios que comparan cohortes a la misma edad encuentran diferencias pequeñas. `[verificar]` | Necesidades humanas |
-| 5 | **Desconfía de las instituciones** | X / Z | La confianza institucional ha bajado en la población general, no en una sola cohorte; es un fenómeno de época más que de generación. `[verificar]` | Contexto y experiencia |
-| 6 | **Le importa el dinero** | X / Boomers | La compensación es un factor principal de retención en todas las edades; su peso cambia con la etapa de vida (hipoteca, hijos, retiro). `[verificar]` | Necesidades humanas |
-| 7 | **Quiere crecer rápido** | Millennials / Z | La aspiración de avance es típica de las primeras etapas de carrera en cualquier época; los Boomers a los 27 años mostraban patrones parecidos. `[verificar]` | Etapa de vida y de carrera |
-| 8 | **No le gusta la jerarquía** | Z | La preferencia por estructuras planas varía más por cultura organizacional, sector y personalidad que por año de nacimiento. `[verificar]` | Contexto y experiencia |
-| 9 | **Se resiste al cambio** | Boomers | La resistencia al cambio se explica mejor por cómo se introduce el cambio (participación, capacitación, utilidad percibida) que por la edad. `[verificar]` | Contexto y experiencia |
-| 10 | **Es leal a la empresa** | Boomers | Comparados a la misma edad, los patrones de permanencia de los jóvenes de hoy no son muy distintos de los de generaciones previas; la lealtad responde al trato recibido. `[verificar]` | Etapa de vida y de carrera |
-| 11 | **Prefiere hablar en persona** | Boomers / X | La conversación cara a cara es preferida para temas difíciles (feedback, carrera, conflicto) en todas las cohortes, incluidas las más jóvenes. `[verificar]` | Necesidades humanas |
-| 12 | **Necesita feedback frecuente** | Millennials / Z | La necesidad de retroalimentación es alta en quien está aprendiendo un rol nuevo, sin importar la edad; disminuye con el dominio del puesto. `[verificar]` | Etapa de vida y de carrera |
-| 13 | **Pone límites a su horario** | Z / Millennials | El deseo de equilibrio vida-trabajo es amplio; lo que cambió es que hoy se expresa con más apertura. Las personas con responsabilidades de cuidado lo priorizan en cualquier edad. `[verificar]` | Necesidades humanas |
-| 14 | **Aprende rápido la tecnología** | Z | La adopción tecnológica depende de exposición, utilidad percibida y capacitación; las personas mayores adoptan con rapidez cuando la herramienta resuelve un problema real. `[verificar]` | Contexto y experiencia |
-| 15 | **Quiere autonomía** | X | La autonomía es uno de los motivadores más estables en la literatura de motivación, en todas las edades. `[verificar]` | Necesidades humanas |
-| 16 | **Respeta la autoridad** | Boomers | El respeto a la autoridad formal varía por cultura nacional y organizacional; en todas las cohortes la autoridad se sostiene mejor por competencia y congruencia que por cargo. `[verificar]` | Contexto y experiencia |
+| # | Tarjeta | Colocación estereotípica habitual | Lo que la evidencia sugiere (línea de revelación) |
+|---|---|---|---|
+| 1 | "Quiero saber que mi trabajo tiene futuro." | Boomers / X | Estabilidad: entre las prioridades principales de todas las edades (Gallup 2022). |
+| 2 | "Necesito entender el porqué antes de comprometerme." | Z | Pedir contexto es típico de quien empieza, a cualquier edad; y una necesidad de todos ante decisiones que se sienten arbitrarias. |
+| 3 | "Quiero que reconozcan lo que aporto." | Millennials / Z | La necesidad es de todos; varía la frecuencia y la forma (Gallup/Workhuman 2022). |
+| 4 | "Quiero crecer y saber cuál es mi siguiente paso." | Millennials / Z | Los motivos de crecimiento son más altos al inicio de la carrera, en cualquier época (Kooij et al., 2011). |
+| 5 | "Prefiero hablar en persona que por mensaje." | Boomers / X | Para temas difíciles (feedback, carrera), la conversación en persona se prefiere en todas las edades. |
+| 6 | "Necesito flexibilidad para atender mi vida fuera del trabajo." | Millennials / Z | El equilibrio superó al salario como prioridad global en todas las edades (Randstad 2025). |
+| 7 | "Me importa que mi experiencia se tome en cuenta." | Boomers | Necesidad de todos; en expertos senior se vuelve crítica cuando la tecnología cambia su rol. |
+| 8 | "Quiero retroalimentación frecuente y concreta." | Z | Más alta en quien aprende un rol nuevo; 60 % del total la quiere diaria o semanal (Gallup). |
+| 9 | "Me cuesta adoptar una herramienta nueva si no veo para qué sirve." | Boomers | "Resistencia al cambio" no se sostiene en meta-análisis (Ng y Feldman, 2012); pesa la utilidad percibida. |
+| 10 | "Quiero un jefe que confíe en mí y no me supervise de cerca." | X | La autonomía es valorada en todas las edades; diferencias de pocos puntos. |
+| 11 | "Estoy dispuesto(a) a cambiar de empresa si no me desarrollan." | Millennials / Z | Los jóvenes siempre han rotado más (efecto edad); la lealtad sigue a la reciprocidad (Zhao et al., 2007). |
+| 12 | "Quiero que mi trabajo tenga sentido, no solo que salga." | Millennials | 70 % de los empleados dice que su propósito se define por su trabajo; la brecha mayor es jerárquica (McKinsey 2021). |
+| 13 | "Quiero ser tratado(a) con respeto, sin importar mi puesto." | Boomers / X | Necesidad humana universal. |
+| 14 | "Me motiva aprender algo nuevo." | Z | La edad no predice el desempeño en capacitación (Ng y Feldman, 2008). |
+| 15 | "Valoro la seguridad económica para mi familia." | Boomers / X | El salario es la prioridad número uno para casi todos; la urgencia crece con la inseguridad financiera. |
+| 16 | "Quiero que me pregunten antes de decidir sobre mi trabajo." | Z | Necesidad de todos; en expertos senior coincide con la tarjeta 7. |
 
-Distribución prevista tras la revelación: **8 tarjetas** a Necesidades humanas, **3** a Etapa de vida y de carrera, **5** a Contexto y experiencia. Ninguna queda en una zona generacional. Si el evidence pack matiza alguna, esa tarjeta se mueve a "Etapa" o "Contexto", nunca a una generación.
-
-Nota de redacción: las tarjetas describen conductas o preferencias neutras, sin carga despectiva ("Se resiste al cambio" es la única formulada en negativo, a propósito, porque es la frase que se escucha en pasillos; el debrief la trabaja).
+Destino tras la revelación: **todas** las tarjetas salen de las zonas generacionales y se pegan en el póster central **NECESIDADES HUMANAS** (*que se expresan distinto según la etapa de vida, el contexto y la experiencia*).
 
 ### 1.3 Logística de sala
 
-**Recomendación: un solo muro compartido**, no un set sobre cada mesa. La densidad es el mensaje: ver 80 tarjetas apiladas en "Boomers" y "Z" genera el efecto; un set por mesa diluye la experiencia y no permite comparar.
+**Un solo muro compartido**, no un set sobre cada mesa: la densidad es el mensaje.
 
 | Elemento | Especificación |
 |---|---|
-| Superficie | Pared libre o 2 paneles móviles de al menos 4 m de ancho total, a la vista de todas las mesas |
-| Pósters de zona | 4 pósters de 90 × 120 cm (papel bond o foamboard ligero), fondo blanco, mismo gris neutro para las 4 generaciones. Texto: nombre de la generación + años (D-11). Pie de póster en 14 pt: "Rangos convencionales. Varían por país." |
-| Orden en pared | Cronológico de izquierda a derecha: Boomers · X · Millennials · Z. Dejar **1.2 m de espacio vacío al centro** (entre X y Millennials) sin explicar por qué |
-| Póster de revelación | 1 póster de 90 × 180 cm (vertical), enrollado y sujeto con cinta en la parte alta del espacio central, cara hacia la pared. Al desenrollarse muestra tres bandas horizontales: **NECESIDADES HUMANAS** (banda superior, la más grande, color de acento AMMX), **ETAPA DE VIDA Y DE CARRERA** (banda media, gris claro), **CONTEXTO Y EXPERIENCIA** (banda inferior, gris claro) |
-| Tarjetas | 16 por mesa (5 mesas = 80 tarjetas), más 1 set de repuesto. Cada set en sobre con el número de mesa |
-| Adhesivo | Cinta azul de pintor precortada en tiras de 4 cm (un rollo por mesa) o tarjetas con adhesivo removible al reverso. No usar masking tape común (daña pintura de salones) |
-| Alternativa si no hay pared | 4 mesas auxiliares como zonas, cada una con su póster en caballete; el póster de revelación en caballete central cubierto con tela |
-| Fotografía | Facilitador B toma una foto del muro **antes** de la revelación. Se proyecta de nuevo en el Acto 12 si se quiere reforzar el cierre |
+| Superficie | Pared libre o 2 paneles móviles; **mínimo 6 m** (G2-28), a la vista de todas las mesas. Confirmar con el recinto el permiso de cinta |
+| Pósters de zona | 4 pósters de 90 × 120 cm, fondo blanco, **mismo gris neutro** para las 4 generaciones. Texto: nombre + años (D-11). Pie: "Rangos convencionales. Varían por país." |
+| Orden en pared | Cronológico: Boomers · X · Millennials · Z, con 1.2 m libres al centro, sin explicar por qué |
+| Póster de revelación | 90 × 180 cm, **una sola banda**: NECESIDADES HUMANAS + subtítulo (D-14). Enrollado y sujeto en el espacio central, cara hacia la pared |
+| Tarjetas | 16 por mesa (4 mesas = 64) + 1 set de repuesto; cada set en sobre de mesa |
+| Adhesivo | Adhesivo removible ya aplicado o cinta azul de pintor precortada |
+| Colocación | Dos oleadas de 90 s (mesas 1–2, luego 3–4/5) para no amontonarse |
+| Fotografía | **No se fotografía el Muro armado** (D-14) ni se proyecta después. Si se quiere retomar en el Acto 12, se hace de forma verbal |
+| Alternativa sin pared | 4 caballetes como zonas; póster de revelación en caballete central cubierto con tela |
 
 ### 1.4 Paso a paso (14 min)
 
-**Min 0:00–0:01 · Instrucción (Facilitador B, desde el centro de la sala).**
-Texto sugerido:
-> "Cada mesa tiene 16 tarjetas. Son frases que escuchamos todos los días en planta y en oficinas. Su tarea es colocarlas en el muro, en la generación a la que ustedes, con su experiencia, la atribuirían. Una tarjeta, una zona. No hay respuestas correctas. Una condición: en silencio. Nada de negociar entre ustedes; si dos personas no coinciden, la tarjeta la coloca quien la tenga en la mano."
+**0:00–0:01 · Instrucción (B).**
+> "Cada mesa tiene 16 frases que escuchamos todos los días. Colóquenlas en la generación a la que ustedes, con su experiencia, la atribuirían. Una frase, una zona. En silencio, para no negociar la respuesta: si dos personas no coinciden, la coloca quien la tenga en la mano."
 
-Reparto: cada integrante toma 3 tarjetas del sobre de su mesa (quien quede con 1 extra, la coloca también).
+Cada integrante toma 3 tarjetas del sobre de su mesa.
 
-**Min 0:01–0:04 · Colocar tarjetas en silencio (3 min efectivos + 1 de instrucción = 4').**
-- Todos se levantan. Silencio sostenido. B no comenta, solo observa y cuida el tiempo.
-- A observa qué tarjetas generan duda (personas que caminan entre dos zonas). Toma nota: se usa en el debrief.
-- Si alguien pregunta "¿y si aplica a todas?", B responde: "Colócala donde la verías primero."
-- Si alguien quiere dejarla en el espacio vacío del centro, B lo permite sin comentar. Es un dato valioso para el debrief.
+**0:01–0:04 · Colocar en silencio**, en dos oleadas. B solo observa y cuida el tiempo; A observa qué tarjetas generan duda. Si alguien pregunta "¿y si aplica a todas?": "Colócala donde la verías primero." Si alguien la deja en el espacio vacío del centro, se permite sin comentar.
 
-**Min 0:04–0:07 · Recorrer el muro (3').**
-> "Antes de sentarse, recorran el muro completo. Solo observen: ¿dónde se amontonan las tarjetas? ¿Qué generación se ve más 'cargada'? ¿Qué tarjeta aparece en dos zonas distintas según la mesa?"
+**0:04–0:07 · Recorrer el muro.** "¿Dónde se amontonan las tarjetas? ¿Qué generación se ve más cargada? ¿Qué frase aparece en varias zonas?" La sala queda de pie en semicírculo.
 
-Siguen en silencio o conversación mínima. Al minuto 0:06, B invita a regresar a lugares **o a quedarse de pie frente al muro** (recomendado: de pie, semicírculo).
-
-**Min 0:07–0:14 · Revelación y conversación (7').**
-
-1. **Primera lectura de sala (1')** — B, sin juicio:
-   > "¿Qué ven? ¿Qué patrón aparece?"
-   Recoger 2 o 3 observaciones. Frases típicas: "a los jóvenes les pusimos todo lo que pide algo", "a los Boomers les pusimos lealtad y resistencia", "hay tarjetas repetidas en varias zonas".
-
-2. **La pregunta clave (30 s)** — B, pausa larga antes:
-   > **"¿Estamos describiendo generaciones… o seres humanos?"**
-   Silencio de 5 segundos. No contestar por la sala.
-
-3. **La revelación física (2')** — B desenrolla el póster central. A lee en voz alta cada banda. Luego B y A mueven, sin prisa, las tarjetas al póster central, empezando por las más evidentes (Busca estabilidad, Necesita reconocimiento, Quiere autonomía, Le importa el dinero). Mientras las mueve, B dice una línea por tarjeta, nunca más de una:
-   - "Estabilidad. Esta la queremos todos. Especialmente cuando hay incertidumbre."
-   - "Crecer rápido. Así queríamos crecer nosotros a los 27."
-   - "Se resiste al cambio. Depende mucho de cómo le presentamos el cambio."
-   No se mueven las 80 tarjetas; se mueve **una por cada frase** (16) tomando la de la zona más cargada, y se deja visible que las demás quedaron "huérfanas" en las zonas.
-
-4. **Conversación (3') — preguntas de debrief** (elegir 2 o 3 según la sala):
-   - "¿Qué tarjeta les costó más colocar? ¿Por qué?"
-   - "Si le preguntáramos a su equipo dónde colocarían 'Se resiste al cambio', ¿dónde creen que la pondrían?"
-   - "¿Cuál de estas tarjetas describe a alguien de esta mesa, sin importar su edad?"
-   - "¿Qué decisiones de liderazgo tomamos en planta con base en la zona donde pusimos una tarjeta?" (la más potente para directores; conecta con negocio)
-   - "Si 'crecer rápido' es de etapa y no de generación, ¿qué cambia en cómo leemos a un ingeniero de 27 años?"
-
-5. **Frase de salida (30 s)** — A (handoff con observación, D-08):
-   > "Lo que acabamos de hacer no es un error de esta sala. Es cómo funciona el cerebro: agrupa para ahorrar energía. La pregunta es si queremos liderar con ese atajo. Veamos qué dicen los datos." → transición a Mito vs. Dato.
+**0:07–0:14 · Revelación en 3 pasos y conversación (D-14).**
+1. **"¿Qué ven?"** (B, sin juicio; 2–3 observaciones).
+2. **"¿Quién en esta sala se reconoce en esta frase?"** B lee cinco tarjetas, una por una (por ejemplo, 1, 3, 4, 7 y 11). Mano alzada; nadie dice su edad. Las manos se levantan en todas las edades.
+3. **"¿Estamos describiendo generaciones… o seres humanos?"** Pausa de 5 segundos. B desenrolla el póster central. B y A sacan las tarjetas de las zonas y las pegan en NECESIDADES HUMANAS, con una línea por tarjeta, nunca más: "Saber que mi trabajo tiene futuro. Lo queremos todos, sobre todo cuando hay incertidumbre." "Crecer y saber mi siguiente paso. Así queríamos crecer nosotros a los 27." "Adoptar una herramienta si veo para qué sirve. Depende mucho de cómo presentamos el cambio." "Que mi experiencia se tome en cuenta. Esa también es de todos."
+4. **Conversación (2–3 preguntas):** "¿Qué frase les costó más colocar?" · "¿Qué decisiones de liderazgo tomamos en planta con base en la zona donde pusimos una frase?" · "Si 'crecer rápido' es de etapa y no de generación, ¿qué cambia en cómo leemos a un ingeniero de 27 años?"
+5. **Frase de salida (A):** "Lo que acabamos de hacer no es un error de esta sala. Así funciona el cerebro: agrupa para ahorrar energía. La pregunta es si queremos liderar con ese atajo. Veamos qué dicen los datos."
 
 ### 1.5 Riesgos y cómo manejarlos
 
@@ -128,20 +100,18 @@ Siguen en silencio o conversación mínima. Al minuto 0:06, B invita a regresar 
 
 Desmontar estereotipos con evidencia **antes** de explicar contextos (arquitectura, decisión 4). Arco: **RECONOCIMIENTO**. El formato de voto simultáneo evita el efecto de conformidad (nadie espera a ver qué vota el director de mayor rango o la CXO).
 
-### 2.2 Las 6 afirmaciones
+### 2.2 Las afirmaciones (fuente: deck)
 
-| # | Afirmación (texto de la lámina, tal cual) | Por qué está en el taller | Veredicto |
+| # | Afirmación | Veredicto | Uso |
 |---|---|---|---|
-| 1 | **"La Generación Z no tiene lealtad."** | Es la frase más frecuente en pasillos; conecta con la idea-tesis 4 (La lealtad ya no se da por hecho / La lealtad se gana) | `[VEREDICTO: ver evidence_pack.md]` |
-| 2 | **"Los Boomers se resisten a la tecnología."** | Afecta decisiones reales de digitalización en planta (mantenimiento predictivo, bitácoras digitales) | `[VEREDICTO: ver evidence_pack.md]` |
-| 3 | **"La gente ya no quiere trabajar."** | Generalización de época; permite separar disposición al trabajo de condiciones del trabajo | `[VEREDICTO: ver evidence_pack.md]` |
-| 4 | **"Los jóvenes no quieren ser jefes."** | Afecta la planeación de sucesión; abre la conversación sobre cómo se ve hoy el rol de jefe desde fuera | `[VEREDICTO: ver evidence_pack.md]` |
-| 5 | **"Las generaciones mayores son más leales."** | Espejo de la afirmación 1; obliga a distinguir lealtad de permanencia y de falta de alternativas | `[VEREDICTO: ver evidence_pack.md]` |
-| 6 | **"Ya nadie quiere quedarse 20 años en una empresa."** | Conecta con la idea-tesis 3 (El contrato laboral cambió); prepara el Acto 5 | `[VEREDICTO: ver evidence_pack.md]` |
+| 1 | "La Generación Z no tiene lealtad." | MITO | Todas las versiones |
+| 2 | "Los Boomers se resisten a la tecnología." | MITO | Todas las versiones |
+| — | "La gente ya no quiere trabajar." | MITO | **Reserva** (lámina oculta); evidencia en la guía para responder la objeción |
+| 3 | "Los jóvenes no quieren ser jefes." | DEPENDE | Todas las versiones |
+| 4 | "Los jóvenes necesitan reconocimiento constante." | DEPENDE (en parte cierto) | Solo 180 min |
+| 5 | "Lo quieren todo ya." | DEPENDE | **Tomada del video (D-18)**; obligatoria en todas las versiones |
 
-Para la versión de 120 y 90 minutos se usan las afirmaciones **1, 2, 4 y 6**.
-
-Criterio para el orquestador al integrar veredictos: casi ninguna afirmación debe resolverse como un "FALSO" rotundo; la respuesta más honesta suele ser **DEPENDE** o **FALSO con matiz**. Eso es deseable: enseña a desconfiar de afirmaciones totales en ambas direcciones y evita que el taller parezca "defensa de los jóvenes".
+La lección del bloque no es "acertar": casi todo depende, y las afirmaciones totales fallan en ambas direcciones.
 
 ### 2.3 Diseño de la lámina (una por afirmación)
 
@@ -165,15 +135,15 @@ Se evita rojo/verde (no juzgar la respuesta como correcta/incorrecta por color y
 
 | Min | Qué ocurre |
 |---|---|
-| 0:00–0:01 | A explica: "Voy a mostrar seis afirmaciones que escuchamos en la industria. Tienen tres segundos para decidir. Cuando cuente tres, todos levantan su tarjeta al mismo tiempo. Nadie mira al vecino antes." |
-| 0:01–0:11 | Para cada afirmación (≈ 1'40"): lectura en voz alta (10 s) → "uno, dos, tres" → todos levantan (10 s) → B cuenta a ojo y anuncia la distribución aproximada ("mayoría DEPENDE, unos seis CIERTO") (10 s) → A pregunta a **una persona que votó distinto a la mayoría**: "¿Qué viste tú?" (30 s) → revelación en lámina + una frase de A (30 s) |
-| 0:11–0:13 | Cierre: "¿En cuántas acertamos como sala? ¿Qué tienen en común las que fallamos?" Frase puente de A: "Si los datos no confirman la mayoría de lo que creemos, la pregunta no es qué les pasa a los jóvenes. Es qué cambió alrededor de todos." → receso |
+| 0:00–0:01 | A explica: "Tienen tres segundos para decidir. Cuando cuente tres, todos levantan su tarjeta al mismo tiempo. Nadie mira al vecino antes." |
+| 0:01–0:11 | Por afirmación (≈2 min): lectura y voto (≈60 s, incluye la distribución que anuncia B y una voz disidente) → revelación y una frase de A (≈40–60 s) |
+| 0:11–0:13 | Una creencia revisada: 1 minuto de escritura en el workbook y explicación de edad, época y cohorte (A, ≈45 s) |
 
 Reglas:
-- La CXO vota como cualquier participante (D-09). No se le pregunta a ella en plenaria.
+- La CXO vota como cualquier participante y no se le pregunta en plenaria (D-13).
 - A nunca pregunta a la misma mesa dos veces seguidas.
-- Si una afirmación divide a la sala casi a partes iguales, se dedica 30 s extra a esa y se recorta la siguiente.
-- B registra en rotafolio la distribución de cada voto (C / F / D) para el reporte de medición.
+- **Regla de corte:** si a la 1:05 no ha iniciado la afirmación 4, A la resume en una frase y pasa a la 5, que es obligatoria.
+- **No se registran votos** (G3-13): el dato no alimenta ninguna decisión.
 
 ---
 
@@ -452,8 +422,8 @@ Frase para cerrar la conversación con Rogelio (ejemplo): "Tu experiencia es lo 
 
 | Min | Qué ocurre |
 |---|---|
-| 0:00–0:01 | B muestra el ejemplo resuelto en lámina y dice: "Una fila para su persona del Acto 7. Iniciales, no nombre. La segunda fila es opcional si les da tiempo." |
-| 0:01–0:07 | **Individual (6' efectivos).** Silencio. Llenar primero la fila de "mi persona": al menos 3 celdas de LO QUE ADAPTO y todas las de LO QUE NO ADAPTO. A los 4', B recuerda: "Revisen que la columna de la derecha no esté vacía." |
+| 0:00–0:01 | B muestra el ejemplo resuelto en lámina y dice: "Una columna para su persona del Espejo. Iniciales, no nombre. La columna del caso es opcional si les da tiempo." |
+| 0:01–0:07 | **Individual (6' efectivos).** Silencio. Escribir arriba una cosa que no sé de mi persona (LEER). Llenar la columna de "mi persona": al menos 3 filas de LO QUE ADAPTO y todas las de LO QUE NO ADAPTO. A los 4', B recuerda: "Revisen que el bloque de lo que no adaptan no esté vacío." |
 | 0:07–0:12 | **Validación con un par (5').** Pares con la persona de al lado (no la misma pareja del Acto 7). 2'30" por persona. El par hace **solo dos preguntas** (impresas en la hoja): |
 
 Las dos preguntas del par:
@@ -462,17 +432,12 @@ Las dos preguntas del par:
 
 El par no aconseja ni opina sobre la persona; solo pregunta. Si sobra tiempo, puede agregar: "¿Qué celda te costó más llenar?"
 
-### 4.6 Diseño imprimible
+### 4.6 Diseño imprimible (vertical, v1.1)
 
-- Página del workbook en **orientación horizontal**, tamaño Carta (o doble carta / tabloide si la imprenta lo permite, recomendado).
-- Franja superior: título "Matriz de Flexibilidad del Liderazgo", subtítulo con la frase ancla en 11 pt.
-- Columna izquierda estrecha (3 cm) para la fila: "Mi persona: ___ (iniciales)" / "Caso: ___".
-- Bloque izquierdo (7 columnas, ≈ 60 % del ancho) con encabezado "LO QUE ADAPTO · el cómo".
-- Línea divisoria vertical gruesa (3 pt, navy).
-- Bloque derecho (5 columnas, ≈ 40 % del ancho) con encabezado "LO QUE NO ADAPTO · el qué", fondo gris muy claro en las celdas para distinguirlas.
-- Celdas de al menos 4 cm de alto para escritura a mano.
-- Pie: las dos preguntas del par y la leyenda "La seguridad es innegociable" (D-04).
-- La **tarjeta de bolsillo** reproduce solo los encabezados de las 12 columnas y LEER → ADAPTAR → ALINEAR al reverso.
+- Página del workbook en **vertical** tamaño Carta: una fila por dimensión, con su pregunta guía en gris, y dos columnas para escribir: **Mi persona** (iniciales) y **Caso** (opcional).
+- Bloque superior con encabezado coral **LO QUE ADAPTO · el cómo** (7 filas); bloque inferior con encabezado navy **LO QUE NO ADAPTO · el qué** (5 filas, fondo gris claro).
+- Pie: las dos preguntas del par y "La seguridad es innegociable" (D-04).
+- La **tarjeta de bolsillo unificada** reproduce los encabezados y LEER → ADAPTAR → ALINEAR.
 
 ---
 
@@ -482,12 +447,12 @@ El par no aconseja ni opina sobre la persona; solo pregunta. Si sobra tiempo, pu
 
 Cambiar de lugar: ver al propio grupo desde los ojos de otro. Arco: **APROPIACIÓN**. La actividad cuida que nadie sea colocado como "representante" de una generación: cada persona habla desde su propia etapa de carrera y su experiencia, no en nombre de una cohorte.
 
-### 5.2 Reglas para formar parejas
+### 5.2 Reglas para formar parejas (D-15)
 
-1. **Criterio principal: distinta etapa de carrera o antigüedad.** B pide a la sala formar una fila imaginaria de pie por años de experiencia laboral total (sin decir la edad): "De menos a más años trabajando." Luego pliega la fila: la persona con más experiencia se empareja con la de menos, y así sucesivamente. Esto produce parejas diversas sin pedir a nadie que declare su edad o su generación.
-2. Evitar que se emparejen **jefe directo y colaborador directo** (se ajusta discretamente al plegar la fila). La CXO se empareja como cualquier participante, preferentemente con alguien que no le reporta.
+1. **Criterio principal: diferencia de trayectoria autodeclarada.** B dice: "Busquen a alguien que haya empezado a trabajar en un contexto distinto al suyo: otra década, otra empresa, otra área, otro país. No tienen que decir su edad." **No se forma fila por años de experiencia.**
+2. Se evitan parejas jefe–colaborador directo (B ajusta discretamente). La CXO forma pareja o trío con personas que no le reportan.
 3. Si el número es impar, un trío; en el trío, una persona escucha y resume al final.
-4. Nadie está obligado a hablar "por su generación". B lo dice explícitamente: "Hablen desde su experiencia, no en nombre de nadie más."
+4. Nadie habla "por su generación". B lo dice explícitamente: "Hablen desde su experiencia, no en nombre de nadie más."
 
 ### 5.3 Las cuatro frases (tarjeta "Invertir el lente")
 
@@ -504,21 +469,19 @@ Nota: en la tarjeta se usa "etapa de carrera" como formulación principal. B pue
 
 | Min | Qué ocurre |
 |---|---|
-| 0:00–0:02 | Formación de la fila por años de experiencia y plegado. Parejas se sientan juntas o quedan de pie |
-| 0:02–0:05 | Persona 1 completa las 4 frases (3'). Persona 2 escucha sin interrumpir |
-| 0:05–0:08 | Persona 2 completa las 4 frases (3'). Persona 1 escucha |
-| 0:08–0:09 | Cada uno dice "Lo que me llevo de lo que dijiste es…" (30 s cada uno) |
-| 0:09–0:10 | B pide a 2 personas voluntarias compartir solo la respuesta a la frase 4. Handoff a A: "Parece que lo que queremos se parece más de lo que el Muro sugería." |
+| 0:00–0:02 | Formación de parejas por trayectoria distinta autodeclarada |
+| 0:02–0:05 | Persona 1 completa las 4 frases; persona 2 escucha sin interrumpir. **B entrega los sobres del pre-work en mano** (D-20) |
+| 0:05–0:08 | Persona 2 completa las 4 frases |
+| 0:08–0:09 | "Lo que me llevo de lo que dijiste es…" (30 s cada uno) |
+| 0:09–0:10 | Dos voluntarios comparten solo la frase 4. Handoff a A: "Parece que lo que queremos se parece más de lo que el Muro sugería." |
 
-### 5.5 Si la sala es homogénea en edad o etapa de carrera
+### 5.5 Si la sala es homogénea en trayectoria
 
-Si la fila muestra poca diversidad (por ejemplo, casi todos con más de 25 años de experiencia):
+Se decide en T–7, con la lista de confirmados y sin consultar edades (G3-16). Se usa la lámina variante "Invertir el lente con mi persona" (oculta por defecto en el deck):
 
-- **Alternativa:** cada participante piensa en **una persona concreta de su equipo** en una etapa de carrera distinta a la suya (puede ser la misma persona del Acto 7, o otra). En parejas, cada uno responde las frases 1, 3 y 4 **como cree que esa persona las respondería**, usando sus iniciales. El par pregunta: "¿Qué tan seguro estás de que diría eso? ¿Cuándo se lo preguntaste por última vez?"
-- **Tarea de verificación:** escribir en la tarjeta: "Voy a hacerle a ___ (iniciales) la pregunta ___ antes del ___." Esta verificación en la vida real se registra en el Experimento a 30 días (columna "lo que pregunté").
+- Cada participante responde las frases 1, 3 y 4 **como cree que las respondería su persona**, usando iniciales. El par pregunta: "¿Qué tan seguro estás de que diría eso? ¿Cuándo se lo preguntaste por última vez?"
+- Al final, cada uno escribe la pregunta que le va a hacer a su persona. Esa pregunta es su LEER de la semana 1 del Experimento.
 - Frase de B: "Hoy imaginamos sus respuestas. La única forma de saber si acertamos es preguntar."
-
----
 
 ## 6. Compromiso (Acto 12 · 11 min · lidera Facilitador A + CXO)
 
@@ -526,60 +489,42 @@ Si la fila muestra poca diversidad (por ejemplo, casi todos con más de 25 años
 
 Cerrar el hilo "Una persona" en una acción con fecha (7 días) y comparar la perspectiva de entrada con la de salida. Arco: **APROPIACIÓN**.
 
-### 6.2 Tarjeta de compromiso
+### 6.2 Compromiso (página del workbook)
 
-Formato: tarjeta de 14 × 21 cm, autocopiable (original para el participante, copia para el facilitador **solo si el participante lo autoriza**) o, alternativamente, el participante la fotografía. Sin nombre obligatorio; solo iniciales del participante si desea recibir seguimiento.
+El compromiso se escribe en el **workbook** (G3-20); no hay tarjeta autocopiable ni copia para los facilitadores (lámina 4, D-13). Quien quiera, lo fotografía con su propio teléfono.
 
-Texto de la tarjeta:
+> **DEJAR** — Algo que dejaré de hacer como líder (una conducta, no un rasgo).
+> **EMPEZAR** — Algo que empezaré a hacer (observable por mi equipo).
+> **MANTENER** — Algo que ya hago bien y voy a sostener.
+> **UNA PERSONA / UNA CONVERSACIÓN** — En los próximos 7 días tendré una conversación distinta con ____ (iniciales) sobre ____. Sabré que fue distinta porque ____. Lo que no voy a negociar en esa conversación: ____.
 
-> **MI COMPROMISO**
->
-> **DEJAR** — Algo que dejaré de hacer como líder:
-> ______________________________________
->
-> **EMPEZAR** — Algo que empezaré a hacer:
-> ______________________________________
->
-> **MANTENER** — Algo que ya hago bien y voy a sostener:
-> ______________________________________
->
-> **UNA PERSONA / UNA CONVERSACIÓN**
-> En los próximos 7 días tendré una conversación distinta con ____ (iniciales) sobre ______________________.
->
-> **Sabré que fue distinta porque…**
-> ______________________________________
->
-> Lo que no voy a negociar en esa conversación: ______________________
->
-> Fecha: ____ · Revisión: día 7 y día 30
-
-Nota de diseño: el campo "Lo que no voy a negociar" mantiene visible D-04 en el compromiso final.
+Esa conversación es la **semana 1 del Experimento a 30 días**: una conversación para preguntar.
 
 ### 6.3 Regreso al Diagnóstico y al sobre del pre-work
 
-- **Diagnóstico (Acto 1):** A pide abrir la página de resultados del Diagnóstico de Reacción del Líder. Pregunta: "Miren su respuesta por defecto y su rango. Después de los casos, ¿cuál de las cuatro respuestas —DIRIGIR, EXPLICAR, ACOMPAÑAR, EXPLORAR— necesitan usar más con su persona?" (Sin plenaria.)
-- **Sobre cerrado del pre-work:** cada participante tiene en su mesa un sobre con sus propias respuestas impresas del pre-work, cerrado desde el inicio. A invita a abrirlo y leer en silencio.
-  Pregunta en lámina: **"¿Responderías hoy lo mismo?"**
-  Segunda pregunta (opcional): "¿Qué frase de tu pre-work hoy escribirías distinto?"
-  El sobre y su contenido son del participante; no se recogen.
+- **Sobre (D-20):** B lo entrega en mano durante el Acto 11 (en 120 y 90 min, durante la Matriz), cerrado, con la hoja personal del pre-work y la tarjeta de bolsillo/Experimento. Quien no respondió encuentra una sola frase (P4) para contestar en 1 minuto. El sobre no se recoge; B hace barrido de sala al final y los sobres olvidados se destruyen el mismo día.
+- **Pregunta en lámina:** "¿Responderían hoy lo mismo?" y "¿Qué respuesta del diagnóstico necesitan usar más con su persona?" Sin plenaria.
 
 ### 6.4 Mecánica (11 min)
 
 | Min | Qué ocurre | Lidera |
 |---|---|---|
-| 0:00–0:02 | Regreso al Diagnóstico (1') y apertura del sobre del pre-work (1'), en silencio | A |
-| 0:02–0:07 | Llenado individual de la tarjeta de compromiso (5'). Silencio. A sugiere empezar por UNA PERSONA / UNA CONVERSACIÓN, que conecta con la Matriz | A |
-| 0:07–0:08 | Cada participante lee su compromiso a la persona de al lado, en una frase ("En siete días voy a…"). Sin comentarios | A |
-| 0:08–0:09 | **CXO (1').** Comparte su propio compromiso (una persona, una conversación), sin evaluar a la sala ni resumir el taller (D-09) | CXO |
-| 0:09–0:11 | **Cierre de A (2').** Entrega del Experimento de Liderazgo a 30 días (tarjeta en el sobre del participante). Última frase: *Personas distintas no necesitan estándares distintos. Pueden necesitar un liderazgo distinto.* Y en la misma intervención: "En una siderúrgica, la seguridad no se adapta. El liderazgo sí." | A |
+| 0:00–0:02 | Sobre del pre-work y resultado del diagnóstico, en silencio | A |
+| 0:02–0:06 | Compromiso escrito en el workbook (4 min) | A |
+| 0:06–0:08 | Encuesta de salida anónima por QR (2 min), dentro del horario | A · B verifica el QR |
+| 0:08–0:09 | "En siete días voy a…" al vecino, en una frase; A menciona la tarjeta del Experimento que está en el sobre | A |
+| 0:09–0:10 | **CXO (1 min):** su propio compromiso, sin evaluar a la sala ni resumir el taller (D-13) | CXO |
+| 0:10–0:11 | La pregunta que reemplaza a la frase de pasillo (30 s) y frase ancla: "En una siderúrgica, la seguridad no se adapta. El liderazgo sí." (30 s) | A |
 
-No se aplaude al final ni se cierra con dinámica grupal. Se termina con la frase y silencio breve.
+No se aplaude al final ni se cierra con dinámica grupal.
 
 ---
 
 ## 7. Experimento de Liderazgo a 30 días
 
-### 7.1 Tarjeta (formato de bolsillo, 10 × 15 cm, dos caras)
+### 7.1 Tarjeta de bolsillo unificada (10 × 15 cm, dos caras; G3-20)
+
+Una sola tarjeta: frente con LEER → ADAPTAR → ALINEAR y los encabezados de la Matriz; reverso con el Experimento. Va dentro del sobre del pre-work.
 
 **Frente:**
 
@@ -625,10 +570,10 @@ Canal: correo breve (o el canal que la CXO defina). Firma de ambos facilitadores
 | Día | Mensaje |
 |---|---|
 | **1** | "Ayer eligió una persona y una conversación. Hoy solo le pedimos una cosa: antes de concluir algo sobre esa persona, haga una pregunta más." |
-| **7** | "Hoy vence el plazo de su conversación de siete días. Si ya ocurrió: ¿qué fue distinto? Si no: ¿qué la está frenando? Anótelo en la columna 'lo que pasó'." |
+| **7** | (Junto con el pulso anónimo del día 7.) "Hoy vence el plazo de su conversación de siete días. Si ya ocurrió: ¿qué fue distinto? Si no: ¿qué la está frenando? Anótelo en la columna 'lo que pasó'." |
 | **14** | "Mitad del camino. Revise su bitácora: ¿qué supuso que ya no está tan seguro de sostener? Elija una sola variable de la Matriz para ajustar esta semana." |
 | **21** | "Esta semana toca ALINEAR. ¿La persona sabe con claridad qué resultado espera de ella y qué estándar no cambia? Si no se lo ha dicho de forma explícita, esta es la semana." |
-| **30** | "Cierre del experimento. Tres preguntas: ¿qué supuesto cambió, qué funcionó y qué va a mantener? Traiga sus respuestas a la sesión de seguimiento del ____." |
+| **30** | (Junto con el pulso anónimo del día 30.) "Cierre del experimento. Tres preguntas: ¿qué supuesto cambió, qué funcionó y qué va a mantener? Traiga sus respuestas a la sesión de seguimiento del ____." |
 
 ### 7.4 Sesión de seguimiento (60–90 min, entre el día 35 y 45)
 
@@ -674,6 +619,6 @@ Filtro aplicado: ¿esto lo haría con gusto, sin sentirse tratado como estudiant
 | Instrucciones de pie y en silencio (Muro) | Puede percibirse como dinámica de integración | Se justifica en la instrucción ("para no negociar la respuesta") y se permite quedarse de pie o sentarse al recorrer; el movimiento dura solo 4 minutos |
 
 Puntos que siguen abiertos para el orquestador:
-- Verificar cada línea de revelación del Muro y los seis veredictos contra `evidence_pack.md`; ajustar la banda de destino de cualquier tarjeta que la evidencia no respalde.
+- (Resuelto: tarjetas y veredictos integrados con el Evidence Pack en la versión 1.1.)
 - Confirmar con AMMX si "SAP PM" y el "programa de ingenieros en formación" son las denominaciones internas correctas; si no, sustituir por el término local.
-- Confirmar si la cultura de la sala permite formar la fila por años de experiencia o si conviene hacer el emparejamiento por lista preasignada.
+- (Resuelto en D-15: no se forma fila por años de experiencia.)

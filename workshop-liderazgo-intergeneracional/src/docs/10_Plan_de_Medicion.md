@@ -19,18 +19,19 @@ file: 10_Plan_de_Medicion
 1. **Contribución, no atribución.** Ningún indicador organizacional (rotación, engagement, movilidad) se atribuirá causalmente al taller. Un taller de 3 horas es una intervención pequeña frente a salario, mercado laboral, cambios de estructura o de jefe.
 2. **Línea base antes de celebrar.** Todo indicador de Nivel 3 y 4 se compara contra su propia línea base (los 6 meses previos) y, cuando sea posible, contra un grupo comparable que aún no haya tomado el taller.
 3. **Datos agregados.** Nada de lo que un director escribe en el workbook o en el pre-work se reporta de forma individual a la CXO ni a nadie. Solo se reportan tendencias agregadas de grupos de 5 o más.
+4. **Lo que no es métrica (D-16).** El Diagnóstico de Reacción del Líder y el contenido del pre-work no se recogen, no se agregan y no se reportan.
 </div>
 
 ## Modelo de cuatro niveles
 
 | Nivel | Pregunta | Qué medimos | Instrumento | Cuándo | Meta orientativa |
 |---|---|---|---|---|---|
-| **1 · Experiencia** | ¿La conversación valió el tiempo de un director? | Relevancia para mi realidad; calidad de la conversación entre pares; tono (respeto, no paternalismo); Net Promoter interno | Encuesta de salida de 5 preguntas (QR) | Al cierre | ≥ 4.3 / 5 en relevancia; ≤ 10 % que perciba tono "de RH aleccionador" |
+| **1 · Experiencia** | ¿La conversación valió el tiempo de un director? | Relevancia para mi realidad; tono (respeto, no paternalismo); acción concreta | Encuesta de salida anónima de 9 ítems (QR, 2:55) | En la sesión | ≥ 4.3 / 5 en relevancia; ≤ 10 % con respuesta 1–2 en el ítem 2 (tono) |
 | **2 · Insight** | ¿Algo cambió en cómo interpreto? | Creencia cuestionada (texto libre); comparación pre-work vs. respuesta al cierre; capacidad de distinguir efecto edad / etapa / generación | Pregunta anónima "¿Responderías hoy lo mismo?" en la encuesta de salida + 3 ítems de comprensión | Al cierre | ≥ 70 % identifica al menos una creencia que revisó |
-| **3 · Conducta** | ¿Tuve conversaciones distintas? | Conversación de 7 días realizada; Experimento a 30 días completado; frecuencia de conversaciones de feedback y de carrera; uso del rango (más de una respuesta por defecto) | Registro del Experimento a 30 días; pulso de 3 preguntas a los 7 y 30 días; pulso ascendente breve al equipo directo (opcional) | Día 7, día 30, día 90 | ≥ 75 % reporta la conversación de 7 días; ≥ 60 % completa el Experimento |
+| **3 · Conducta** | ¿Tuve conversaciones distintas? | Conversación de 7 días realizada; Experimento a 30 días completado (autorreporte); haber probado con su persona una forma distinta de liderar (autorreporte); frecuencia de conversaciones de feedback y de carrera | Pulsos anónimos de 3 preguntas en días 7 y 30; cosecha de patrones en la sesión de seguimiento; pulso ascendente breve al equipo directo (opcional) | Días 7, 30, 35–45 y 90 | ≥ 75 % reporta la conversación de 7 días; ≥ 60 % reporta haber completado el Experimento |
 | **4 · Indicadores organizacionales potenciales** | ¿Se mueve algo en los equipos de estos directores? | Engagement (ítems de relación con el jefe y desarrollo); rotación voluntaria de talento con < 3 años; rotación de expertos con > 20 años; movilidad interna; conversaciones de carrera registradas; efectividad del jefe | Encuesta anual/pulso de clima AMMX; HRIS; registros de desempeño y talento | 6 y 12 meses | Tendencia vs. línea base; sin meta causal |
 
-## Nivel 1 — Encuesta de salida (2–3 minutos)
+## Nivel 1 — Encuesta de salida (3 minutos, anónima, a las 2:55)
 
 | # | Pregunta | Escala |
 |---|---|---|
@@ -40,12 +41,13 @@ file: 10_Plan_de_Medicion
 | 4 | Al releer mi pre-work: respondería lo mismo / lo matizaría / respondería distinto. | Selección |
 | 5 | ¿Qué momento fue el más valioso? | Selección: Diagnóstico · Video · Muro · Mito vs. Dato · Contextos · Espejo del líder · Laboratorio · Matriz · Invertir el lente · Compromiso |
 | 6 | ¿Qué cambiarías para la siguiente cohorte? | Abierta |
+| 7–9 | Los tres ítems de comprensión del Nivel 2 | Acuerdo 1–5 |
 
 ## Nivel 2 — Insight
 
 - **Pre-work vs. cierre.** En el Acto 12, cada participante relee en privado sus respuestas del pre-work (sobre cerrado, que no se recoge). La única captura es una pregunta **anónima** de la encuesta de salida: *respondería lo mismo / lo matizaría / respondería distinto*. Nunca se registra el contenido del pre-work ni se vincula con una persona.
 - **Fuera de medición (D-16).** Los resultados del Diagnóstico de Reacción del Líder no se recogen ni se usan como métrica, individual ni agregada.
-- **Tres ítems de comprensión** (en la encuesta de salida, opcionales):
+- **Tres ítems de comprensión** (ítems 7–9 de la encuesta de salida):
   1. "Si una persona joven cambia de empleo con frecuencia, eso prueba que su generación es menos leal." *(Esperado: en desacuerdo — la edad y la etapa de vida explican buena parte de la rotación.)*
   2. "Adaptar mi liderazgo implica bajar el estándar para algunas personas." *(Esperado: en desacuerdo.)*
   3. "Las necesidades de fondo (crecimiento, reconocimiento, estabilidad, relación con el jefe) aparecen en todas las generaciones." *(Esperado: de acuerdo.)*
@@ -57,7 +59,12 @@ file: 10_Plan_de_Medicion
 2. ¿Qué hiciste distinto? (una línea)
 3. ¿Qué pasó? (una línea)
 
-**Día 30 · Experimento de Liderazgo**
+**Día 30 · pulso anónimo de 3 preguntas**
+1. ¿Completé el Experimento a 30 días? (Sí / Parcialmente / No)
+2. En estos 30 días, ¿probé con mi persona una forma de liderar distinta a la que uso normalmente? (Sí / Parcialmente / No)
+3. ¿Qué pasó? (una línea)
+
+**Días 35–45 · sesión de seguimiento**
 El registro del experimento (*lo que supuse / lo que pregunté / lo que aprendí / lo que cambié / lo que pasó*) es propiedad del director. En la sesión de seguimiento se comparte voluntariamente en tríos. Los facilitadores capturan **patrones**, no casos: qué supuestos aparecieron, qué adaptaciones funcionaron, qué no se negoció.
 
 **Día 90 · pulso ascendente (opcional, recomendado)**
@@ -72,7 +79,7 @@ El tercer ítem es deliberado: el mensaje del taller es *adaptar sin bajar está
 
 | Indicador | Fuente | Por qué importa | Advertencia |
 |---|---|---|---|
-| Engagement: ítems de relación con el jefe y de desarrollo | Encuesta de clima AMMX | La investigación de Gallup asocia al jefe con una parte sustancial de la variación en engagement de los equipos | Muchos factores fuera del jefe influyen; comparar con línea base |
+| Engagement: ítems de relación con el jefe y de desarrollo (solo a nivel de cohorte, ≥ 5 directores) | Encuesta de clima AMMX | La investigación de Gallup asocia al jefe con una parte sustancial de la variación en engagement de los equipos | Muchos factores fuera del jefe influyen; comparar con línea base |
 | Rotación voluntaria < 3 años de antigüedad | HRIS | Talento temprano con mayor riesgo de salida | Muy sensible al mercado laboral local (nearshoring, salarios) |
 | Rotación / retiro anticipado de expertos > 20 años | HRIS | Riesgo de pérdida de conocimiento crítico | Jubilaciones programadas distorsionan la cifra |
 | Movilidad interna | HRIS / Talento | Proxy de conversaciones de carrera y desarrollo | Depende de vacantes disponibles |
@@ -86,12 +93,16 @@ El tercer ítem es deliberado: el mensaje del taller es *adaptar sin bajar está
 
 | Momento | Actividad | Responsable |
 |---|---|---|
+| T–14 | Acuerdos D-13 firmados con la CXO (antes del pre-work) | Facilitadores · CXO |
+| T–12 | Validación de avisos de privacidad (pre-work, encuesta, pulsos) | Privacidad/Jurídico |
 | T–10 días | Envío del pre-work; extracción de línea base (Nivel 4, 6 meses previos) | Facilitadores · Analítica de RH |
-| T–3 días | Cierre del pre-work; temas agregados para el Acto 12 | Facilitadores |
-| T0 | Encuesta de salida (Nivel 1) y marca pre/post (Nivel 2) | Facilitador B |
-| T+7 | Pulso de 3 preguntas | Facilitadores |
+| T–3 días | Cierre del pre-work (72 h antes); temas agregados solo si aparecen en ≥ 5 personas | Facilitadores |
+| T0 (2:55) | Encuesta de salida anónima (Niveles 1 y 2) | Facilitador B |
+| T+1 | Recordatorio del día 1 + hoja resumen de evidencia | Facilitadores |
+| T+7 | Pulso anónimo de 3 preguntas + recordatorio | Facilitadores |
 | T+14 y T+21 | Recordatorios del Experimento | Facilitadores |
-| T+30 | Sesión de seguimiento; cosecha de patrones | Facilitadores + CXO |
+| T+30 | Pulso anónimo de 3 preguntas + recordatorio de cierre; registro de eliminación del pre-work firmado | Facilitadores |
+| T+35 a T+45 | Sesión de seguimiento; cosecha de patrones | Facilitadores + CXO |
 | T+90 | Pulso ascendente (opcional) | Analítica de RH |
 | T+6 y T+12 meses | Revisión de indicadores de Nivel 4 vs. línea base | Analítica de RH · CXO |
 
@@ -99,4 +110,16 @@ El tercer ítem es deliberado: el mensaje del taller es *adaptar sin bajar está
 
 Un tablero de una página en T+30 y T+90 con: Nivel 1 (promedios), Nivel 2 (porcentaje que revisó una creencia), Nivel 3 (conversaciones realizadas, experimentos completados, patrones cualitativos) y, a partir de T+6 meses, Nivel 4 como **tendencias contextualizadas**, nunca como retorno atribuido al taller.
 
-<div class="por"><b>POR CONFIRMAR</b> · Disponibilidad y periodicidad de la encuesta de clima AMMX, y si el HRIS permite segmentar rotación voluntaria por antigüedad y por director.</div>
+## Tratamiento de datos (LFPDPPP)
+
+| Dato | Base y aviso | Quién lo ve | Conservación |
+|---|---|---|---|
+| Pre-work (nombre + 7 respuestas) | Aviso de privacidad simplificado en el correo y en el formulario; finalidad única: devolver las respuestas al participante | Solo los dos facilitadores | Eliminación ≤ 30 días después de la sesión, con registro firmado por ambos |
+| Encuesta de salida y pulsos de días 7 y 30 | Anónimos (sin registro de nombre); recordatorios iguales para todos | Facilitadores y Analítica de RH, solo agregados | 12 meses en forma agregada |
+| Pulso ascendente (día 90, opcional) | Aviso previo al equipo; anónimo; mínimo 5 respuestas | El resultado individual lo ve solo el director; la CXO ve el agregado de la cohorte | 12 meses |
+| Indicadores de Nivel 4 | Datos existentes de clima y HRIS | Solo a nivel de cohorte (≥ 5 directores); **nunca por director** | Según la política de RH |
+| Asistencia | Fines administrativos de capacitación (LMS/constancias) | C&D | Según la política de capacitación |
+
+Cualquier solicitud de información individual se turna a la jefatura de RH o a Privacidad (D-13.8).
+
+<div class="por"><b>POR CONFIRMAR</b> · Disponibilidad y periodicidad de la encuesta de clima AMMX; que el HRIS permita segmentar la rotación voluntaria por antigüedad a nivel de cohorte; validación de los avisos de privacidad por Privacidad/Jurídico (T–12).</div>

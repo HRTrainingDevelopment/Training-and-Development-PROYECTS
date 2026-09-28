@@ -115,7 +115,7 @@ ${head('Contenido', 'Qué hay en este paquete', '')}
 <table class="plain"><tr><th>#</th><th>Material</th><th>Acto</th><th>Impresión</th></tr>
 <tr><td>1</td><td>Diseño de sala</td><td>Todos</td><td>Referencia</td></tr>
 <tr><td>2</td><td>Lista maestra de materiales</td><td>Todos</td><td>Referencia</td></tr>
-<tr><td>3</td><td>Tarjetas-pregunta del video</td><td>2</td><td>1 hoja por mesa, cartulina</td></tr>
+<tr><td>3</td><td>Tarjeta de mesa con las 4 preguntas del video</td><td>2</td><td>1 por mesa, cartulina</td></tr>
 <tr><td>4</td><td>Pósters de zona del Muro y póster de revelación</td><td>3</td><td>Plotter 90 × 120 cm (aquí en Carta como prueba de diseño)</td></tr>
 <tr><td>5</td><td>16 tarjetas del Muro</td><td>3</td><td>1 juego por mesa + 1 repuesto, cartulina blanca mate</td></tr>
 <tr><td>6</td><td>Tarjetas de voto CIERTO / FALSO / DEPENDE</td><td>4</td><td>1 juego por persona, cartulina gruesa</td></tr>
@@ -123,11 +123,11 @@ ${head('Contenido', 'Qué hay en este paquete', '')}
 <tr><td>8</td><td>Hoja de respuesta del Laboratorio</td><td>8</td><td>1 por mesa, tabloide/A3 horizontal</td></tr>
 <tr><td>9</td><td>Hoja de reflexión (Espejo del líder)</td><td>7</td><td>Respaldo del workbook</td></tr>
 <tr><td>10</td><td>Matriz de Flexibilidad del Liderazgo</td><td>10</td><td>Respaldo del workbook; tabloide recomendado</td></tr>
-<tr><td>11</td><td>Tarjeta Invertir el lente</td><td>11</td><td>1 por persona</td></tr>
-<tr><td>12</td><td>Tarjeta de compromiso</td><td>12</td><td>1 por persona (autocopiable opcional)</td></tr>
-<tr><td>13</td><td>Tarjeta del Experimento a 30 días y tarjeta de bolsillo</td><td>12</td><td>1 por persona, en el sobre</td></tr>
-<tr><td>14</td><td>Encuesta de salida (QR)</td><td>12</td><td>1 hoja por mesa</td></tr></table>
-<div class="panel"><div class="label">Reglas de impresión y confidencialidad</div><ul><li>Las 4 zonas del Muro usan el <b>mismo gris neutro</b>: no hay colores por generación (D-10).</li><li>Las tarjetas no llevan nombres. Solo el número de mesa en la esquina, en gris.</li><li>Los sobres de pre-work se imprimen en impresora con retención de trabajo; nunca en equipos compartidos sin supervisión.</li><li>Los casos son ficticios; cualquier parecido con personas de AMMX es coincidencia.</li></ul></div>
+<tr><td>11</td><td>Tarjeta de bolsillo unificada (modelo + Matriz / Experimento)</td><td>12</td><td>1 por persona, dentro del sobre del pre-work</td></tr>
+<tr><td>12</td><td>Encuesta de salida (QR)</td><td>12</td><td>1 tarjeta por mesa + 10 impresas de respaldo</td></tr>
+<tr><td>13</td><td>Hoja resumen: Mito vs. Dato con fuentes</td><td>Cierre</td><td>1 por persona al final, o PDF con el recordatorio del día 1</td></tr></table>
+<p class="small muted">Eliminados en v1.1 (Gate 3, G3-20): tarjetas-pregunta individuales, tarjeta “Invertir el lente” y tarjeta de compromiso autocopiable. El compromiso y el lente viven en el workbook.</p>
+<div class="panel"><div class="label">Reglas de impresión y confidencialidad</div><ul><li>Las 4 zonas del Muro usan el <b>mismo gris neutro</b>: no hay colores por generación (D-10).</li><li>Las tarjetas no llevan nombres ni número de mesa: los sets se distinguen solo por su sobre (G3-21).</li><li>Los sobres de pre-work se imprimen en impresora con retención de trabajo; nunca en equipos compartidos sin supervisión.</li><li>Los casos son ficticios; cualquier parecido con personas de AMMX es coincidencia.</li></ul></div>
 </section>
 
 ${page(`${head('1 · Diseño de sala', 'Mesas redondas, no auditorio', 'Cinco mesas redondas para 6 personas (4 si son 24 participantes), en semicírculo abierto hacia la pantalla. El Muro en una pared lateral libre, visible desde todas las mesas.')}
@@ -141,13 +141,14 @@ ${room}
 
 ${page(`${head('2 · Lista maestra de materiales', 'Checklist de preparación', 'Revisar T–3 días y montar T–45 minutos.')}${matList}`)}
 
-${page(`${head('3 · Acto 2 · Tarjetas-pregunta del video', 'Una hoja por mesa', 'Cortar por la línea punteada. La mesa escribe una frase por pregunta.')}
-<div class="cards c2 c2x2">${['¿Con qué estuvieron de acuerdo?', '¿Qué los incomodó?', '¿Qué creen que no ve?', '¿Qué cambió: la gente o el trato?'].map((q, i) => card(`Pregunta ${i + 1} de 4`, q, 'Acto 2 · La provocación · Mesa ___')).join('')}</div>`)}
+${page(`${head('3 · Acto 2 · Tarjeta de mesa', 'Cuatro preguntas para la mesa', 'Una por mesa, impresa en cartulina y doblada como tent card. La mesa escribe una frase por pregunta en la parte inferior.')}
+<div class="cards" style="grid-template-columns:1fr">${card('Acto 2 · La provocación', '1. ¿Con qué estuvieron de acuerdo?<br>2. ¿Qué los incomodó?<br>3. ¿Qué creen que no ve?<br>4. ¿Qué cambió: la gente o el trato?', 'Una frase por pregunta · al final, una frase de la mesa al rotafolio “Lo que escuchamos”', '').replace('class="card "', 'class="card" style="height:4.2in"')}</div>
+<div class="box" style="margin-top:10pt"><div class="k">Nuestras frases</div>${L(5)}</div>`)}
 
 ${['Baby Boomers|1946–1964', 'Generación X|1965–1980', 'Millennials|1981–1996', 'Generación Z|1997–2012'].map((g) => { const [n, y] = g.split('|'); return page(`<div class="poster"><div class="g">${n}</div><div class="y">Nacidos ${y}</div><div class="n">Rangos convencionales. Varían por país.</div></div>`); }).join('')}
 ${page(`<div class="poster" style="background:#fff;border:3pt solid var(--coral)"><div class="g" style="color:var(--coral)">NECESIDADES<br>HUMANAS</div><div class="y">que se expresan distinto según la etapa de vida,<br>el contexto y la experiencia</div><div class="n">Póster de revelación · se mantiene enrollado hasta el paso 3 del Acto 3</div></div>`)}
 
-${[0, 4, 8, 12].map((s) => page(`${s === 0 ? head('5 · Acto 3 · Tarjetas del Muro', '16 frases en primera persona', 'Un juego por mesa (sobre con número de mesa). En la versión de 120 minutos usar solo las tarjetas 1 a 12.') : ''}<div class="cards c2 c2x2">${wall.slice(s, s + 4).map((w, i) => card(`Tarjeta ${s + i + 1}`, `“${w}”`, 'Muro Generacional · Mesa ___')).join('')}</div>`)).join('')}
+${[0, 4, 8, 12].map((s) => page(`${s === 0 ? head('5 · Acto 3 · Tarjetas del Muro', '16 frases en primera persona', 'Un juego por mesa (sobre con número de mesa). En la versión de 120 minutos usar solo las tarjetas 1 a 12.') : ''}<div class="cards c2 c2x2">${wall.slice(s, s + 4).map((w, i) => card(`Tarjeta ${s + i + 1}`, `“${w}”`, 'Muro Generacional')).join('')}</div>`)).join('')}
 
 ${page(`${head('6 · Acto 4 · Tarjetas de voto', 'Tres tarjetas por persona', 'Navy, blanco con borde y gris: sin rojo ni verde, para que no evoque un examen (Activity Pack §2.4).')}
 <div class="cards c3v" style="grid-template-columns:1fr">${card('Mito vs. Dato', 'CIERTO', 'La afirmación describe a la mayoría', 'dark')}${card('Mito vs. Dato', 'FALSO', 'La afirmación no se sostiene con datos', 'bord')}${card('Mito vs. Dato', 'DEPENDE', 'Depende de etapa de vida, contexto o de cómo se mide', 'grey')}</div>`)}
@@ -167,30 +168,35 @@ ${['¿A quién me resulta más fácil liderar? ¿Qué tiene en común conmigo?',
 
 ${page(`${head('10 · Acto 10 · Matriz de Flexibilidad del Liderazgo', 'Adapto el cómo. No adapto el qué.', 'Respaldo del workbook. Una celda vacía en “lo que no adapto” es una alerta. La seguridad es innegociable.')}${vmatrix(flexQ, keepQ, '0.5in')}`)}
 
-${page(`${head('11 · Acto 11 · Invertir el lente', 'Tarjeta (dos por hoja)', 'Parejas con alguien que empezó a trabajar en un contexto distinto: otra década, empresa, área o país. Nadie habla en nombre de una generación.')}
-<div class="cards c2" style="grid-template-columns:1fr">${[1, 2].map(() => `<div class="card" style="height:3.6in"><div class="k">Invertir el lente</div><div style="font-size:11pt;line-height:1.8">1. Algo que los líderes malinterpretan de las personas en mi etapa de carrera es…<br>2. Algo que las personas en mi etapa podríamos aprender de las de la tuya es…<br>3. Algo que las personas en tu etapa podrían aprender de la mía es…<br>4. Algo que probablemente ambos queremos es…</div><div class="foot">3 min cada uno · al final: “Lo que me llevo de lo que dijiste es…”</div></div>`).join('')}</div>`)}
-
-${page(`${head('12 · Acto 12 · Tarjeta de compromiso', 'Dos por hoja', 'La fotografía solo su autor o se usa formato autocopiable; la copia queda con el participante.')}
-${[1, 2].map(() => `<div class="commit"><h3>Mi compromiso</h3><div class="row"><div><div class="k">Dejar</div>${L(3)}</div><div><div class="k">Empezar</div>${L(3)}</div><div><div class="k">Mantener</div>${L(3)}</div></div>
-<p style="margin-top:8pt"><b>Una persona / una conversación.</b> En los próximos 7 días tendré una conversación distinta con ______ (iniciales) sobre ______________________________.</p>
-<p>Sabré que fue distinta porque ____________________________________________ .</p><p>Lo que no voy a negociar en esa conversación: ______________________________ · Fecha: ________ · Revisión: día 7 y día 30</p></div>`).join('')}`)}
-
-${page(`${head('13 · Experimento a 30 días y tarjeta de bolsillo', 'Van en el sobre del participante', 'Imprimir a doble cara y cortar. Tamaño final: 10 × 15 cm (experimento) y tarjeta de bolsillo.')}
+${page(`${head('11 · Tarjeta de bolsillo unificada', 'Va dentro del sobre del pre-work', 'Una sola tarjeta de 10 × 15 cm a doble cara (G3-20): frente con el modelo y la Matriz; reverso con el Experimento a 30 días. Abajo, los cuatro paneles tal como se imprimen (dos frentes y dos reversos por hoja).')}
 <div class="pocket"><div><div class="k" style="color:var(--coral);font-weight:600;font-size:7.5pt;letter-spacing:.14em">EXPERIMENTO DE LIDERAZGO A 30 DÍAS</div><p class="small">Una persona que me cuesta leer: ____ · Inicio: ____ · Cierre: ____</p><p class="small"><b>LEER</b> — ¿Qué no sé de esta persona? ¿Qué voy a preguntar antes de concluir?<br><b>ADAPTAR</b> — ¿Qué cambiaré en cómo me comunico, reconozco, doy feedback o autonomía?<br><b>ALINEAR</b> — ¿Qué estándar y qué resultado mantengo igual, y cómo se lo digo?</p></div>
 <div><div class="k" style="color:var(--coral);font-weight:600;font-size:7.5pt;letter-spacing:.14em">REVERSO · BITÁCORA</div><p class="small">Lo que supuse · Lo que pregunté · Lo que aprendí · Lo que cambié · Lo que pasó</p><p class="small">Recordatorios: días 1, 7, 14, 21 y 30. Sesión de seguimiento: día 35–45.</p><p class="small"><b>La seguridad y los estándares no se adaptan.</b></p></div>
 <div style="background:var(--navy);color:#fff"><div style="color:var(--amber);font-weight:600;font-size:7.5pt;letter-spacing:.14em">TARJETA DE BOLSILLO</div><p style="font-size:17pt;font-weight:700;line-height:1.25;margin:10pt 0">LEER<br>ADAPTAR<br>ALINEAR</p><p class="small">Pregunto antes de concluir · Cambio el cómo · No muevo el qué</p></div>
 <div><div class="k" style="color:var(--coral);font-weight:600;font-size:7.5pt;letter-spacing:.14em">REVERSO · MATRIZ</div><p class="small"><b>Adapto:</b> comunicación · contexto · feedback · reconocimiento · autonomía · desarrollo · frecuencia</p><p class="small"><b>No adapto:</b> estándares · ética · seguridad · accountability · desempeño</p><p class="small"><em>Personas distintas no necesitan estándares distintos. Pueden necesitar un liderazgo distinto.</em></p></div></div>`)}
 
-${page(`${head('14 · Encuesta de salida', 'Dos minutos antes de salir', 'Una hoja por mesa con el código QR del formulario (Microsoft Forms institucional). Anónima.')}
+${page(`${head('12 · Encuesta de salida', 'Dos minutos, a las 2:55', 'Una tarjeta por mesa con el código QR del formulario (Microsoft Forms institucional, sin registro de nombre). Anónima. Se responde dentro del horario, antes del compromiso de la CXO.')}
 <div style="display:flex;gap:18pt;align-items:center"><div class="qr">Insertar aquí el QR del formulario institucional</div><div><p><b>Encuesta de salida · Liderar entre generaciones</b></p><p class="small muted">Anónima. Resultados solo agregados (Plan de medición, Niveles 1 y 2).</p></div></div>
 <table><tr><th>#</th><th>Pregunta</th><th>Escala</th></tr>
 <tr><td>1</td><td style="font-weight:400">La conversación fue relevante para los retos reales de mi equipo.</td><td style="font-weight:400">1–5</td></tr>
 <tr><td>2</td><td style="font-weight:400">El taller respetó mi experiencia y no fue aleccionador.</td><td style="font-weight:400">1–5</td></tr>
 <tr><td>3</td><td style="font-weight:400">Salgo con algo concreto que voy a hacer en los próximos 7 días.</td><td style="font-weight:400">1–5</td></tr>
 <tr><td>4</td><td style="font-weight:400">Al releer mi pre-work: respondería lo mismo / lo matizaría / respondería distinto.</td><td style="font-weight:400">Selección</td></tr>
-<tr><td>5</td><td style="font-weight:400">¿Qué momento fue el más valioso?</td><td style="font-weight:400">Selección</td></tr>
-<tr><td>6</td><td style="font-weight:400">¿Qué cambiarías para la siguiente cohorte?</td><td style="font-weight:400">Abierta</td></tr></table>
-<div class="por"><b>POR CONFIRMAR</b> · Crear el formulario en la cuenta institucional y generar el QR antes de imprimir (T–3 días).</div>`)}
+<tr><td>5</td><td style="font-weight:400">¿Qué momento fue el más valioso? (opciones según la versión)</td><td style="font-weight:400">Selección</td></tr>
+<tr><td>6</td><td style="font-weight:400">¿Qué cambiarías para la siguiente cohorte?</td><td style="font-weight:400">Abierta</td></tr>
+<tr><td>7</td><td style="font-weight:400">“Si una persona joven cambia de empleo con frecuencia, eso prueba que su generación es menos leal.”</td><td style="font-weight:400">Acuerdo 1–5</td></tr>
+<tr><td>8</td><td style="font-weight:400">“Adaptar mi liderazgo implica bajar el estándar para algunas personas.”</td><td style="font-weight:400">Acuerdo 1–5</td></tr>
+<tr><td>9</td><td style="font-weight:400">“Las necesidades de fondo aparecen en todas las generaciones.”</td><td style="font-weight:400">Acuerdo 1–5</td></tr></table>
+<div class="por"><b>POR CONFIRMAR</b> · Crear el formulario en la cuenta institucional (sin “Registrar nombre”) y generar el QR antes de imprimir (T–3 días). Aviso de privacidad validado por Privacidad/Jurídico.</div>`)}
+
+${page(`${head('13 · Hoja resumen para participantes', 'Mito vs. Dato: lo que dice la evidencia', 'Se entrega al final de la sesión o en PDF con el recordatorio del día 1. Nunca antes del voto.')}
+<table><tr><th style="width:30%">Afirmación</th><th style="width:14%">Veredicto</th><th>Lo que dice la evidencia</th><th style="width:22%">Fuente</th></tr>
+<tr><td>“La Generación Z no tiene lealtad.”</td><td>MITO</td><td style="font-weight:400">Los jóvenes siempre han cambiado más de empleo: la antigüedad mediana de 25–34 años era 2.6 años en 2000 y 2.7 en 2024 (EE. UU.). La lealtad sigue a la reciprocidad percibida, a cualquier edad.</td><td style="font-weight:400">BLS 2024; EBRI 2025; Zhao et al. 2007</td></tr>
+<tr><td>“Los Boomers se resisten a la tecnología.”</td><td>MITO</td><td style="font-weight:400">Solo 1 de 6 estereotipos sobre trabajadores mayores se sostiene (participan menos en capacitación, a menudo porque se les ofrece menos). Entre usuarios de IA, 73 % de 58+ la lleva por su cuenta al trabajo.</td><td style="font-weight:400">Ng y Feldman 2012; Microsoft/LinkedIn 2024</td></tr>
+<tr><td>“Los jóvenes no quieren ser jefes.”</td><td>DEPENDE</td><td style="font-weight:400">6 % de la Gen Z lo tiene como meta principal hoy; 76 % se interesa en liderazgo senior algún día. Rechazan el costo que ven; el compromiso de los gerentes bajó de 27 % a 22 % en un año.</td><td style="font-weight:400">Deloitte 2026; Gallup 2026</td></tr>
+<tr><td>“Los jóvenes necesitan reconocimiento constante.”</td><td>DEPENDE (en parte cierto)</td><td style="font-weight:400">Lo prefieren con más frecuencia, pero cerca de la mitad de Gen X y Boomers también lo quiere varias veces al mes. El reconocimiento se asocia con compromiso en todas las edades.</td><td style="font-weight:400">Gallup/Workhuman 2022</td></tr>
+<tr><td>“Lo quieren todo ya.” (del video)</td><td>DEPENDE</td><td style="font-weight:400">Los motivos de crecimiento son más altos al inicio de la carrera, en cualquier época. 48 % de la Gen Z no se siente financieramente segura. La prisa se vuelve problema cuando no hay ruta visible.</td><td style="font-weight:400">Kooij et al. 2011; Deloitte 2025</td></tr>
+<tr><td>“La gente ya no quiere trabajar.”</td><td>MITO</td><td style="font-weight:400">México trabaja 2,207 horas al año por trabajador, el máximo de la OCDE. Lo bajo es el compromiso: 20 % en el mundo, en todas las edades.</td><td style="font-weight:400">OCDE 2023; Gallup 2026</td></tr></table>
+<div class="panel"><div class="label">La idea de fondo</div><p>La generación es un lente, no un diagnóstico: las diferencias son pequeñas y se explican mejor por edad, etapa de vida y época (National Academies, 2020; Costanza et al., 2012). Referencias completas: Evidence Pack.</p></div>`)}
 `;
 fs.writeFileSync(path.join(__dirname, 'docs', '05_Activity_Pack.html'), html);
 console.log('Activity Pack HTML ok · casos', CASES.length, '· muro', wall.length);

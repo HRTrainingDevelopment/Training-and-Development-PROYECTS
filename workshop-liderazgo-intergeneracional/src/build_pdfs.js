@@ -74,7 +74,7 @@ function page(meta, bodyHtml) {
         <span>ArcelorMittal México · Capacitación y Desarrollo · ${footerLabel}</span><span class="pageNumber"></span></div>`,
     });
     await p.close();
-    fs.unlinkSync(tmp);
+    if (!process.env.KEEP) fs.unlinkSync(tmp);
     console.log('PDF', outName);
   }
   await browser.close();

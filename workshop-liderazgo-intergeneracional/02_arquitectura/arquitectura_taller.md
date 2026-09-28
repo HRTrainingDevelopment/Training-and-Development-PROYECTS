@@ -11,14 +11,13 @@ Entramos creyendo que tenemos un problema con una generación; descubrimos que l
 
 EXPERIENCIA → REFLEXIÓN → EVIDENCIA → PRÁCTICA → COMPROMISO
 
-| Bloque pedagógico | Actos | Minutos | % |
-|---|---|---|---|
-| Experiencia / reflexión individual | 0 (pre-work), 1, 7, parte de 12 | ~48 | 29 % |
-| Conversación / discusión | 2, 3, 11, debriefs | ~52 | 31 % |
-| Contenido / teoría | 4 (revelación), 5, 6, 9 | ~34 | 20 % |
-| Práctica / aplicación | 8, 10, 12 | ~36 | 20 % |
+Proporción calculada por Gate 2 sobre los 170 minutos en sala (sin receso), después de los ajustes:
 
-(Receso de 10 min fuera del cálculo.) Ningún bloque expositivo excede 10 minutos; cada uno termina en pregunta, ejercicio o decisión.
+| Contenido | Reflexión individual | Conversación | Práctica |
+|---|---|---|---|
+| ≈ 27 % | ≈ 21 % | ≈ 32 % | ≈ 20 % |
+
+La reflexión individual se completa fuera de la sala con el pre-work (≈5 min) y la bitácora del Experimento (5 min por semana). Ningún bloque conceptual excede 8 minutos. El tramo 1:20–1:44, conducido por A, incluye 2 min en pares, 90 s de escritura individual y 4 min en mesa.
 
 ## Run of show resumido
 
@@ -27,18 +26,18 @@ EXPERIENCIA → REFLEXIÓN → EVIDENCIA → PRÁCTICA → COMPROMISO
 | 0:00 | 8 | Apertura | CXO (2'): por qué importa · A: la frase que escuchamos en pasillos · acuerdos de conversación | CXO + A | Curiosidad |
 | 0:08 | 20 | 1 · El espejo | Diagnóstico de Reacción del Líder (10 situaciones) · autoscore · pares · plenaria breve | B | Curiosidad |
 | 0:28 | 15 | 2 · La provocación | Fragmento de Sinek (≤5') · 4 preguntas en mesa · captura visible | A | Incomodidad |
-| 0:43 | 14 | 3 · El Muro Generacional | Colocar 16 tarjetas en 4 zonas · revelación · "¿generaciones o humanos?" | B | Incomodidad |
-| 0:57 | 13 | 4 · Mito vs. Dato | 6 afirmaciones · voto CIERTO / FALSO / DEPENDE · evidencia | A | Reconocimiento |
+| 0:43 | 14 | 3 · El Muro Generacional | Colocar 16 tarjetas en primera persona en 4 zonas · revelación en 3 pasos · "¿generaciones o humanos?" | B | Incomodidad |
+| 0:57 | 13 | 4 · Mito vs. Dato | 5 afirmaciones (una del video) · voto CIERTO / FALSO / DEPENDE · evidencia · una creencia revisada | A | Reconocimiento |
 | 1:10 | 10 | Receso | | | |
-| 1:20 | 14 | 5 · Cuatro contextos de entrada al trabajo + El contrato cambió | 4 láminas de contexto (1 por generación) · contrato viejo vs. nuevo · "¿cambió la gente o cambió el trato?" · La lealtad se gana, en ambas direcciones | A | Reconocimiento → Comprensión |
+| 1:20 | 14 | 5 · Cuatro contextos de entrada al trabajo + El contrato cambió | 4 contextos de entrada al trabajo + 2' en pares · contrato viejo vs. nuevo · regreso al rotafolio del Acto 2 · La lealtad se gana, en ambas direcciones | A | Reconocimiento → Comprensión |
 | 1:34 | 10 | 6 · Lo que la gente realmente quiere | Matriz de motivadores por necesidad (no por generación) · necesidades humanas comunes · pregunta a mesas | A → B | Comprensión |
 | 1:44 | 10 | 7 · El espejo del líder | 5' de silencio con 6 preguntas · 5' en pares | B | Comprensión |
-| 1:54 | 26 | 8 · Laboratorio de Colisiones | 6 casos industriales (1 por mesa) · 5 preguntas · galería de respuestas | B (A observa) | Práctica |
-| 2:20 | 7 | 9 · Liderazgo adaptable | Respuesta rígida → respuesta adaptable · LEER → ADAPTAR → ALINEAR · re-leer un caso | A | Práctica |
+| 1:54 | 26 | 8 · Laboratorio de Colisiones | Casos industriales (1 por mesa: 4 mesas = A, B, D, E; 5 mesas = + C) · 6 preguntas · galería de respuestas | B (A observa) | Práctica |
+| 2:20 | 7 | 9 · Liderazgo adaptable | Respuesta rígida → respuesta adaptable · LEER → ADAPTAR → ALINEAR · re-lectura del caso en mesa | A | Práctica |
 | 2:27 | 12 | 10 · Matriz de Flexibilidad | Aplicar la matriz a "mi persona" (Acto 7) · validar con un par | B | Práctica |
-| 2:39 | 10 | 11 · Invertir el lente | Parejas por trayectoria distinta autodeclarada (D-15) · 4 frases | B | Apropiación |
-| 2:49 | 11 | 12 · Compromiso | Regreso al diagnóstico y al pre-work · DEJAR / EMPEZAR / MANTENER · Una persona / una conversación · CXO 1' · cierre A | A + CXO | Apropiación |
-| 3:00 | — | Fin | Experimento a 30 días entregado | | |
+| 2:39 | 10 | 11 · Invertir el lente | Parejas por trayectoria distinta autodeclarada (D-15) · 4 frases · B entrega los sobres | B | Apropiación |
+| 2:49 | 11 | 12 · Compromiso | Regreso al diagnóstico y al pre-work · DEJAR / EMPEZAR / MANTENER · Una persona / una conversación · encuesta QR (2:55) · CXO 1' · cierre A | A + CXO | Apropiación |
+| 3:00 | — | Fin | Tarjeta del Experimento a 30 días en el sobre | | |
 
 ## Justificación de decisiones de diseño
 
@@ -52,54 +51,61 @@ EXPERIENCIA → REFLEXIÓN → EVIDENCIA → PRÁCTICA → COMPROMISO
 
 ## Versiones comprimidas
 
+Los tres archivos de deck (180, 120, 90) se generan desde la misma fuente, con textos variantes y láminas ocultas. Nunca se saltan láminas en vivo.
+
 ### 120 minutos
 
 | Inicio | Dur. | Acto | Ajuste |
 |---|---|---|---|
 | 0:00 | 5 | Apertura | CXO 1', A 4' |
-| 0:05 | 15 | 1 · Espejo | Diagnóstico de 8 situaciones; sin plenaria |
-| 0:20 | 12 | 2 · Provocación | Video 4'; 2 preguntas en mesa |
-| 0:32 | 10 | 3 · Muro | 12 tarjetas; revelación directa |
-| 0:42 | 10 | 4 · Mito vs. Dato | 4 afirmaciones |
-| 0:52 | 10 | 5 · Contextos + contrato | Una lámina síntesis de 4 generaciones + contrato |
-| 1:02 | 5 | 6 · Motivadores | Solo la lámina "necesidades humanas comunes" |
-| 1:07 | 5 | 7 · Espejo del líder | 3' silencio, 2' pares |
+| 0:05 | 15 | 1 · Espejo | Diagnóstico de 8 situaciones (1 + 6 + 3), 4' en pares, Idea 1 en 1' |
+| 0:20 | 12 | 2 · Provocación | Video 4'; las 4 preguntas en mesa, captura breve |
+| 0:32 | 10 | 3 · Muro | 12 tarjetas; revelación en 3 pasos |
+| 0:42 | 10 | 4 · Mito vs. Dato | 4 afirmaciones (1, 2, 4 y la del video) + una creencia revisada |
+| 0:52 | 2 | Pausa de pie | Tomada del Acto 5 |
+| 0:54 | 8 | 5 · Contexto y contrato | Portadilla, contrato y lealtad + 3' en pares: "¿A qué mundo entré a trabajar y qué me enseñó sobre la lealtad?" (las 4 láminas de contexto se ocultan) |
+| 1:02 | 5 | 6 · Motivadores | Necesidades comunes + el jefe como palanca; 2' de mesa |
+| 1:07 | 5 | 7 · Espejo | 3' silencio, 2' pares |
 | 1:12 | 20 | 8 · Laboratorio | 3 casos (A, B, D), 2 mesas por caso |
 | 1:32 | 5 | 9 · Modelo | |
-| 1:37 | 10 | 10 · Matriz | Individual, sin validación en par |
-| 1:47 | — | 11 · Invertir el lente | Se omite; se ofrece como tarea en pares posterior |
-| 1:47 | 13 | 12 · Compromiso | Completo |
+| 1:37 | 12 | 10 · Matriz | 2' instrucción + 6' individual + 4' en par; B entrega los sobres |
+| 1:49 | 11 | 12 · Compromiso | Completo, con encuesta QR dentro del horario |
+| 2:00 | — | Fin | Invertir el lente se ofrece como tarea en pares posterior |
 
-Sin receso formal (pausa de pie de 2 min al minuto 52 si la sala lo requiere).
-
-### 90 minutos
+### 90 minutos · "versión de activación"
 
 | Inicio | Dur. | Acto | Ajuste |
 |---|---|---|---|
 | 0:00 | 4 | Apertura | |
-| 0:04 | 12 | 1 · Espejo | 8 situaciones; resultado individual |
-| 0:16 | 10 | 2 · Provocación | Video 3'; pregunta única: "¿cambió la gente o cambió el trato?" |
-| 0:26 | 10 | 4 · Mito vs. Dato | 4 afirmaciones (el Muro se elimina por completo y no se menciona su lógica — D-14) |
-| 0:36 | 8 | 5+6 · Contexto y necesidades comunes | Contrato viejo vs. nuevo + necesidades humanas comunes |
-| 0:44 | 18 | 8 · Laboratorio | 2 casos (A y B) |
+| 0:04 | 10 | 1 · Espejo | 8 situaciones (1 + 6 + 3); A enuncia la Idea 1 al cerrar |
+| 0:14 | 10 | 2 · Provocación | Video 3'; pregunta única en mesa: "¿Qué cambió: la gente o el trato?"; en plenaria (1'), la pregunta de seguimiento de D-18 |
+| 0:24 | 10 | 4 · Mito vs. Dato | 4 afirmaciones + la lámina "lente, no diagnóstico". El Muro se elimina y no se menciona (D-14) |
+| 0:34 | 10 | 5+6 · Contrato, lealtad y necesidades comunes | Contrato y lealtad + 2' en pares con la pregunta de lealtad; necesidades comunes en 1' |
+| 0:44 | 2 | 7 · Espejo (silencio) | Preguntas 2 y 5 y "mi persona", antes del Laboratorio (G2-11) |
+| 0:46 | 16 | 8 · Laboratorio | 2 casos (A y B) |
 | 1:02 | 5 | 9 · Modelo | |
-| 1:07 | 10 | 10 · Matriz | Aplicada a una persona real |
-| 1:17 | 13 | 12 · Compromiso | Incluye 2' de silencio del Acto 7 |
+| 1:07 | 10 | 10 · Matriz | 6' individual + 4' en par; B entrega los sobres |
+| 1:17 | 13 | 12 · Compromiso | Completo, con encuesta QR |
 
-Los Actos 3, 7 (formal) y 11 se omiten. El pre-work y el Experimento a 30 días se mantienen en todas las versiones: son los que sostienen el cambio de conducta.
+Los Actos 3 y 11 y el protocolo de pares del Acto 7 se omiten. Hay que decirle a la CXO por escrito que la versión de 90 minutos cambia conciencia e intención, pero depende casi por completo del pre-work y del Experimento a 30 días para cambiar conducta. El pre-work y el Experimento se mantienen en todas las versiones.
 
 ## Materiales por acto (resumen; detalle en el Activity Pack)
 
 | Acto | Material |
 |---|---|
-| 0 | Pre-work (formulario digital, respuestas impresas por participante en sobre cerrado) |
+| 0 | Pre-work (formulario digital); respuestas impresas por participante en sobre cerrado, entregado en mano durante el Acto 11 |
 | 1 | Workbook pp. Diagnóstico + hoja de puntuación |
-| 2 | Video, 4 tarjetas-pregunta por mesa, rotafolio "Lo que escuchamos" |
-| 3 | 4 pósters (Boomers, X, Millennials, Z), 16 tarjetas por mesa, cinta azul |
+| 2 | Video, tarjeta de mesa con las 4 preguntas, rotafolio "Lo que escuchamos" |
+| 3 | 4 pósters grises (Boomers, X, Millennials, Z), póster NECESIDADES HUMANAS, 16 tarjetas en primera persona por mesa, cinta azul |
 | 4 | Tarjetas de voto CIERTO / FALSO / DEPENDE (3 por participante) |
 | 5–6 | Workbook: mapa de contexto y mapa de motivadores |
 | 7 | Workbook: espejo del líder |
-| 8 | 6 tarjetas de caso, hoja de respuesta A3 por mesa |
+| 8 | Tarjetas de caso (una por mesa), hoja de respuesta A3 por mesa |
 | 9–10 | Workbook: LEER → ADAPTAR → ALINEAR y Matriz; tarjeta de bolsillo |
-| 11 | Tarjetas "Invertir el lente" |
-| 12 | Tarjeta de compromiso (autocopiable o fotografiada), tarjeta del Experimento a 30 días |
+| 11 | Página del workbook "Invertir el lente" |
+| 12 | Página de compromiso del workbook; sobre con pre-work y tarjeta de bolsillo/Experimento (entregado en el Acto 11) |
+
+## Holgura y mapa de láminas (Gate 3)
+
+- El contenido está diseñado para ≈170 minutos dentro de las 3 horas; el Run of Show incluye un acordeón de recortes predefinidos.
+- Tres archivos de deck: 180 (49 láminas visibles), 120 y 90 minutos (láminas ocultas según el mapa del Run of Show). Nunca se saltan láminas en vivo.
