@@ -7,8 +7,8 @@ const { marked } = require('marked');
 const { chromium } = require('playwright');
 
 const SRC = __dirname;
-const DOCS = path.join(SRC, 'docs');
-const OUT = path.join(SRC, '..', 'entregables');
+const DOCS = process.env.DOCS_DIR || path.join(SRC, 'docs');
+const OUT = process.env.OUT_DIR || path.join(SRC, '..', 'entregables');
 
 marked.setOptions({ gfm: true, breaks: false });
 
